@@ -1,0 +1,141 @@
+COUNTY,DESCRIPTION,START,STOP,PATIENT,ENCOUNTER,CODE
+Barnstable County,Dander (animal) allergy,1,1,1,1,1
+Barnstable County,Allergy to mould,1,1,1,1,1
+Barnstable County,Allergy to nut,1,0,1,1,1
+Barnstable County,House dust mite allergy,1,1,1,1,1
+Barnstable County,Allergy to grass pollen,1,1,1,1,1
+Barnstable County,Allergy to dairy product,1,0,1,1,1
+Berkshire County,Allergy to mould,2,0,2,2,2
+Berkshire County,Allergy to grass pollen,2,0,2,2,2
+Berkshire County,House dust mite allergy,2,0,2,2,2
+Berkshire County,Dander (animal) allergy,2,0,2,2,2
+Berkshire County,Allergy to peanuts,2,0,2,2,2
+Berkshire County,Allergy to tree pollen,1,0,1,1,1
+Berkshire County,Allergy to bee venom,1,0,1,1,1
+Berkshire County,Allergy to eggs,1,0,1,1,1
+Berkshire County,Latex allergy,1,0,1,1,1
+Bristol County,Dander (animal) allergy,8,0,8,8,8
+Bristol County,Allergy to mould,8,1,8,8,8
+Bristol County,Shellfish allergy,7,0,7,7,7
+Bristol County,Allergy to bee venom,6,0,6,6,6
+Bristol County,House dust mite allergy,6,1,6,6,6
+Bristol County,Allergy to tree pollen,6,1,6,6,6
+Bristol County,Allergy to grass pollen,4,1,4,4,4
+Bristol County,Allergy to peanuts,3,0,3,3,3
+Bristol County,Allergy to fish,3,0,3,3,3
+Bristol County,Allergy to dairy product,3,1,3,3,3
+Bristol County,Allergy to nut,3,0,3,3,3
+Bristol County,Latex allergy,1,0,1,1,1
+Bristol County,Allergy to wheat,1,1,1,1,1
+Bristol County,Allergy to soya,1,0,1,1,1
+Bristol County,Allergy to eggs,1,1,1,1,1
+Dukes County,Shellfish allergy,1,0,1,1,1
+Essex County,Allergy to fish,4,0,4,4,4
+Essex County,Allergy to tree pollen,4,0,4,4,4
+Essex County,Dander (animal) allergy,4,0,4,4,4
+Essex County,Allergy to mould,4,0,4,4,4
+Essex County,Allergy to grass pollen,4,0,4,4,4
+Essex County,Allergy to dairy product,3,0,3,3,3
+Essex County,House dust mite allergy,3,0,3,3,3
+Essex County,Allergy to wheat,3,0,3,3,3
+Essex County,Shellfish allergy,2,0,2,2,2
+Essex County,Latex allergy,2,0,2,2,2
+Essex County,Allergy to eggs,2,0,2,2,2
+Essex County,Allergy to peanuts,1,0,1,1,1
+Essex County,Allergy to bee venom,1,0,1,1,1
+Franklin County,Shellfish allergy,1,0,1,1,1
+Hampden County,Allergy to mould,7,2,7,7,7
+Hampden County,Allergy to tree pollen,6,0,6,6,6
+Hampden County,Dander (animal) allergy,6,0,6,6,6
+Hampden County,Allergy to grass pollen,5,0,5,5,5
+Hampden County,House dust mite allergy,4,0,4,4,4
+Hampden County,Allergy to fish,4,0,4,4,4
+Hampden County,Allergy to peanuts,4,0,4,4,4
+Hampden County,Allergy to eggs,3,0,3,3,3
+Hampden County,Allergy to bee venom,3,0,3,3,3
+Hampden County,Latex allergy,3,0,3,3,3
+Hampden County,Allergy to nut,3,0,3,3,3
+Hampden County,Allergy to dairy product,2,0,2,2,2
+Hampden County,Allergy to soya,1,0,1,1,1
+Hampden County,Allergy to wheat,1,0,1,1,1
+Hampden County,Shellfish allergy,1,0,1,1,1
+Hampshire County,Dander (animal) allergy,8,2,8,8,8
+Hampshire County,Allergy to grass pollen,6,2,6,6,6
+Hampshire County,Allergy to mould,6,1,6,6,6
+Hampshire County,House dust mite allergy,5,1,5,5,5
+Hampshire County,Allergy to fish,4,0,4,4,4
+Hampshire County,Allergy to tree pollen,4,1,4,4,4
+Hampshire County,Allergy to bee venom,3,0,3,3,3
+Hampshire County,Latex allergy,3,1,3,3,3
+Hampshire County,Shellfish allergy,3,0,3,3,3
+Hampshire County,Allergy to wheat,2,0,2,2,2
+Hampshire County,Allergy to nut,1,0,1,1,1
+Hampshire County,Allergy to soya,1,0,1,1,1
+Hampshire County,Allergy to eggs,1,0,1,1,1
+Middlesex County,Allergy to mould,21,4,21,21,21
+Middlesex County,Dander (animal) allergy,21,5,21,21,21
+Middlesex County,Allergy to tree pollen,17,2,17,17,17
+Middlesex County,House dust mite allergy,15,4,15,15,15
+Middlesex County,Allergy to grass pollen,14,2,14,14,14
+Middlesex County,Allergy to nut,13,0,13,13,13
+Middlesex County,Shellfish allergy,10,0,10,10,10
+Middlesex County,Allergy to peanuts,9,0,9,9,9
+Middlesex County,Allergy to wheat,8,3,8,8,8
+Middlesex County,Latex allergy,7,1,7,7,7
+Middlesex County,Allergy to fish,5,0,5,5,5
+Middlesex County,Allergy to dairy product,5,2,5,5,5
+Middlesex County,Allergy to bee venom,5,0,5,5,5
+Middlesex County,Allergy to soya,3,0,3,3,3
+Middlesex County,Allergy to eggs,2,2,2,2,2
+Norfolk County,Allergy to mould,12,0,12,12,12
+Norfolk County,Allergy to tree pollen,7,0,7,7,7
+Norfolk County,Dander (animal) allergy,7,0,7,7,7
+Norfolk County,Allergy to grass pollen,6,0,6,6,6
+Norfolk County,House dust mite allergy,6,0,6,6,6
+Norfolk County,Shellfish allergy,5,0,5,5,5
+Norfolk County,Allergy to bee venom,4,0,4,4,4
+Norfolk County,Allergy to fish,3,0,3,3,3
+Norfolk County,Allergy to eggs,3,0,3,3,3
+Norfolk County,Allergy to nut,3,0,3,3,3
+Norfolk County,Latex allergy,2,1,2,2,2
+Norfolk County,Allergy to soya,2,1,2,2,2
+Norfolk County,Allergy to peanuts,2,0,2,2,2
+Norfolk County,Allergy to wheat,2,0,2,2,2
+Norfolk County,Allergy to dairy product,2,0,2,2,2
+Plymouth County,Shellfish allergy,3,0,3,3,3
+Plymouth County,Dander (animal) allergy,3,0,3,3,3
+Plymouth County,House dust mite allergy,2,0,2,2,2
+Plymouth County,Allergy to nut,2,0,2,2,2
+Plymouth County,Allergy to mould,2,0,2,2,2
+Plymouth County,Allergy to grass pollen,2,0,2,2,2
+Plymouth County,Allergy to tree pollen,2,0,2,2,2
+Plymouth County,Allergy to bee venom,1,0,1,1,1
+Plymouth County,Allergy to eggs,1,1,1,1,1
+Plymouth County,Allergy to fish,1,0,1,1,1
+Suffolk County,Dander (animal) allergy,10,0,10,10,10
+Suffolk County,Allergy to mould,10,1,10,10,10
+Suffolk County,House dust mite allergy,10,0,10,10,10
+Suffolk County,Allergy to tree pollen,9,0,9,9,9
+Suffolk County,Allergy to grass pollen,9,1,9,9,9
+Suffolk County,Latex allergy,5,0,5,5,5
+Suffolk County,Allergy to wheat,5,0,5,5,5
+Suffolk County,Allergy to bee venom,5,0,5,5,5
+Suffolk County,Allergy to eggs,4,1,4,4,4
+Suffolk County,Shellfish allergy,3,0,3,3,3
+Suffolk County,Allergy to peanuts,3,0,3,3,3
+Suffolk County,Allergy to nut,3,0,3,3,3
+Suffolk County,Allergy to fish,2,0,2,2,2
+Suffolk County,Allergy to dairy product,1,0,1,1,1
+Worcester County,Allergy to mould,8,1,8,8,8
+Worcester County,Allergy to grass pollen,7,3,7,7,7
+Worcester County,Allergy to tree pollen,7,2,7,7,7
+Worcester County,House dust mite allergy,7,2,7,7,7
+Worcester County,Dander (animal) allergy,7,2,7,7,7
+Worcester County,Shellfish allergy,5,0,5,5,5
+Worcester County,Allergy to fish,4,0,4,4,4
+Worcester County,Allergy to bee venom,4,0,4,4,4
+Worcester County,Allergy to wheat,3,1,3,3,3
+Worcester County,Allergy to eggs,2,1,2,2,2
+Worcester County,Allergy to nut,2,0,2,2,2
+Worcester County,Allergy to peanuts,1,0,1,1,1
+Worcester County,Allergy to dairy product,1,0,1,1,1

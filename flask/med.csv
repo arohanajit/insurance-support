@@ -1,0 +1,1003 @@
+COUNTY,DESCRIPTION,START,STOP,PATIENT,PAYER,ENCOUNTER,CODE,BASE_COST,PAYER_COVERAGE,DISPENSES,TOTALCOST,REASONCODE,REASONDESCRIPTION
+Barnstable County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,281,276,281,281,281,281,281,281,281,281,281,281
+Barnstable County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,236,231,236,236,236,236,236,236,236,236,236,236
+Barnstable County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,236,231,236,236,236,236,236,236,236,236,236,236
+Barnstable County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,226,221,226,226,226,226,226,226,226,226,226,226
+Barnstable County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],187,185,187,187,187,187,187,187,187,187,187,187
+Barnstable County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,184,181,184,184,184,184,184,184,184,184,184,184
+Barnstable County,Simvastatin 10 MG Oral Tablet,108,100,108,108,108,108,108,108,108,108,108,108
+Barnstable County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,106,101,106,106,106,106,106,106,106,106,0,0
+Barnstable County,Hydrochlorothiazide 25 MG Oral Tablet,92,90,92,92,92,92,92,92,92,92,92,92
+Barnstable County,Hydrochlorothiazide 12.5 MG,66,64,66,66,66,66,66,66,66,66,66,66
+Barnstable County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,52,49,52,52,52,52,52,52,52,52,52,52
+Barnstable County,Clopidogrel 75 MG Oral Tablet,51,48,51,51,51,51,51,51,51,51,0,0
+Barnstable County,Simvastatin 20 MG Oral Tablet,51,47,51,51,51,51,51,51,51,51,0,0
+Barnstable County,Amlodipine 5 MG Oral Tablet,51,47,51,51,51,51,51,51,51,51,0,0
+Barnstable County,Acetaminophen 325 MG Oral Tablet,34,34,34,34,34,34,34,34,34,34,24,24
+Barnstable County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,29,29,29,29,29,29,29,29,29,29,0,0
+Barnstable County,Cisplatin 50 MG Injection,24,24,24,24,24,24,24,24,24,24,24,24
+Barnstable County,PACLitaxel 100 MG Injection,24,24,24,24,24,24,24,24,24,24,24,24
+Barnstable County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,22,22,22,22,22,22,22,22,22,22,0,0
+Barnstable County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,19,19,19,19,19,19,19,19,19,19,0,0
+Barnstable County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,10,10,10,10,10,10,10,10,10,10,10,10
+Barnstable County,Verapamil Hydrochloride 40 MG,8,7,8,8,8,8,8,8,8,8,0,0
+Barnstable County,Warfarin Sodium 5 MG Oral Tablet,8,7,8,8,8,8,8,8,8,8,0,0
+Barnstable County,Digoxin 0.125 MG Oral Tablet,8,7,8,8,8,8,8,8,8,8,0,0
+Barnstable County,Furosemide 40 MG Oral Tablet,7,0,7,7,7,7,7,7,7,7,7,7
+Barnstable County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],7,0,7,7,7,7,7,7,7,7,7,7
+Barnstable County,Naproxen sodium 220 MG Oral Tablet,7,6,7,7,7,7,7,7,7,7,1,1
+Barnstable County,10 ML Furosemide 10 MG/ML Injection,6,0,6,6,6,6,6,6,6,6,6,6
+Barnstable County,Ibuprofen 200 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,0,0
+Barnstable County,Jolivette 28 Day Pack,5,5,5,5,5,5,5,5,5,5,0,0
+Barnstable County,Yaz 28 Day Pack,5,5,5,5,5,5,5,5,5,5,0,0
+Barnstable County,Nitrofurantoin 5 MG/ML Oral Suspension,4,4,4,4,4,4,4,4,4,4,4,4
+Barnstable County,Phenazopyridine hydrochloride 100 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,4,4
+Barnstable County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,3,0,3,3,3,3,3,3,3,3,0,0
+Barnstable County,10 ML oxaliplatin 5 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Barnstable County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,3,3,3,3,3,3,3,3,3,3,3,3
+Barnstable County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Barnstable County,Alendronic acid 10 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Barnstable County,Leucovorin 100 MG Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Barnstable County,Natazia 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Barnstable County,Penicillin V Potassium 500 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,3,3
+Barnstable County,1 ML DOCEtaxel 20 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,0,0
+Barnstable County,Vitamin B 12 5 MG/ML Injectable Solution,2,0,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Trinessa 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Barnstable County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,2,1,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Mirena 52 MG Intrauterine System,2,2,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Alteplase 100 MG Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Acetaminophen 160 MG Chewable Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Barnstable County,24hr nicotine transdermal patch,2,0,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Aspirin 81 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Etonogestrel 68 MG Drug Implant,2,2,2,2,2,2,2,2,2,2,0,0
+Barnstable County,Donepezil hydrochloride 23 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,2,2
+Barnstable County,Donepezil hydrochloride 10 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Barnstable County,Seasonique 91 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Penicillin V Potassium 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Barnstable County,Memantine hydrochloride 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,1,1
+Barnstable County,Liletta 52 MG Intrauterine System,1,0,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Levora 0.15/30 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Kyleena 19.5 MG Intrauterine System,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Galantamine 4 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Barnstable County,Errin 28 Day Pack,1,0,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Cefuroxime 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Camila 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Atropine Sulfate 1 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Atorvastatin 80 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Ampicillin 100 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Barnstable County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,1 ML Epinephrine 1 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Barnstable County,ferrous sulfate 325 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Hydrochlorothiazide 25 MG Oral Tablet,101,97,101,101,101,101,101,101,101,101,101,101
+Berkshire County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,83,81,83,83,83,83,83,83,83,83,83,83
+Berkshire County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,83,81,83,83,83,83,83,83,83,83,83,83
+Berkshire County,Simvastatin 10 MG Oral Tablet,79,75,79,79,79,79,79,79,79,79,79,79
+Berkshire County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,57,55,57,57,57,57,57,57,57,57,57,57
+Berkshire County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,17,15,17,17,17,17,17,17,17,17,0,0
+Berkshire County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,13,12,13,13,13,13,13,13,13,13,13,13
+Berkshire County,Acetaminophen 325 MG Oral Tablet,13,13,13,13,13,13,13,13,13,13,7,7
+Berkshire County,Naproxen sodium 220 MG Oral Tablet,7,6,7,7,7,7,7,7,7,7,2,2
+Berkshire County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],6,5,6,6,6,6,6,6,6,6,6,6
+Berkshire County,Acetaminophen 160 MG Chewable Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Berkshire County,Ibuprofen 100 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Berkshire County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,5,5
+Berkshire County,Meperidine Hydrochloride 50 MG Oral Tablet,4,3,4,4,4,4,4,4,4,4,0,0
+Berkshire County,Nitrofurantoin 5 MG/ML Oral Suspension,3,3,3,3,3,3,3,3,3,3,3,3
+Berkshire County,Phenazopyridine hydrochloride 100 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,3,3
+Berkshire County,1 ML Epinephrine 1 MG/ML Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Ortho Tri-Cyclen 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Levora 0.15/30 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Cefuroxime 250 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Atropine Sulfate 1 MG/ML Injectable Solution,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Amoxicillin 250 MG Oral Capsule,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Alendronic acid 10 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Berkshire County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,2,2,2,2,2,2,2,2,2,2,0,0
+Berkshire County,Clopidogrel 75 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Fexofenadine hydrochloride 30 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Vitamin B 12 5 MG/ML Injectable Solution,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Penicillin V Potassium 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Berkshire County,Natazia 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Berkshire County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Mirena 52 MG Intrauterine System,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Levothyroxine Sodium 0.075 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Leucovorin 100 MG Injection,1,0,1,1,1,1,1,1,1,1,1,1
+Berkshire County,Ibuprofen 200 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Furosemide 40 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Berkshire County,Etonogestrel 68 MG Drug Implant,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Astemizole 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Aspirin 81 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Amoxicillin 500 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Alteplase 100 MG Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],1,0,1,1,1,1,1,1,1,1,1,1
+Berkshire County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,1,1,1,1,1,1,1,1,1,0,0
+Berkshire County,10 ML oxaliplatin 5 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,1,1
+Berkshire County,10 ML Furosemide 10 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,1,1
+Bristol County,Hydrochlorothiazide 25 MG Oral Tablet,436,424,436,436,436,436,436,436,436,436,436,436
+Bristol County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,291,284,291,291,291,291,291,291,291,291,291,291
+Bristol County,Simvastatin 10 MG Oral Tablet,173,162,173,173,173,173,173,173,173,173,173,173
+Bristol County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,172,168,172,172,172,172,172,172,172,172,172,172
+Bristol County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,172,168,172,172,172,172,172,172,172,172,172,172
+Bristol County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,106,103,106,106,106,106,106,106,106,106,106,106
+Bristol County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,90,86,90,90,90,90,90,90,90,90,90,90
+Bristol County,Hydrochlorothiazide 12.5 MG,81,77,81,81,81,81,81,81,81,81,81,81
+Bristol County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,66,63,66,66,66,66,66,66,66,66,66,66
+Bristol County,Acetaminophen 325 MG Oral Tablet,62,61,62,62,62,62,62,62,62,62,44,44
+Bristol County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,59,55,59,59,59,59,59,59,59,59,0,0
+Bristol County,Clopidogrel 75 MG Oral Tablet,59,55,59,59,59,59,59,59,59,59,0,0
+Bristol County,Amlodipine 5 MG Oral Tablet,54,50,54,54,54,54,54,54,54,54,0,0
+Bristol County,Simvastatin 20 MG Oral Tablet,54,50,54,54,54,54,54,54,54,54,0,0
+Bristol County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],41,40,41,41,41,41,41,41,41,41,41,41
+Bristol County,Naproxen sodium 220 MG Oral Tablet,30,20,30,30,30,30,30,30,30,30,10,10
+Bristol County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,27,27,27,27,27,27,27,27,27,27,27,27
+Bristol County,Ibuprofen 200 MG Oral Tablet,25,25,25,25,25,25,25,25,25,25,0,0
+Bristol County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,20,19,20,20,20,20,20,20,20,20,0,0
+Bristol County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,20,20,20,20,20,20,20,20,20,20,0,0
+Bristol County,Jolivette 28 Day Pack,19,15,19,19,19,19,19,19,19,19,0,0
+Bristol County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,15,15,15,15,15,15,15,15,15,15,0,0
+Bristol County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,14,0,14,14,14,14,14,14,14,14,0,0
+Bristol County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,13,13,13,13,13,13,13,13,13,13,13,13
+Bristol County,Yaz 28 Day Pack,13,11,13,13,13,13,13,13,13,13,0,0
+Bristol County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,13,12,13,13,13,13,13,13,13,13,0,0
+Bristol County,Seasonique 91 Day Pack,12,12,12,12,12,12,12,12,12,12,0,0
+Bristol County,Etonogestrel 68 MG Drug Implant,10,10,10,10,10,10,10,10,10,10,0,0
+Bristol County,Mirena 52 MG Intrauterine System,10,9,10,10,10,10,10,10,10,10,0,0
+Bristol County,Trinessa 28 Day Pack,10,9,10,10,10,10,10,10,10,10,0,0
+Bristol County,Vitamin B 12 5 MG/ML Injectable Solution,10,0,10,10,10,10,10,10,10,10,0,0
+Bristol County,Levora 0.15/30 28 Day Pack,9,9,9,9,9,9,9,9,9,9,0,0
+Bristol County,Penicillin V Potassium 500 MG Oral Tablet,8,8,8,8,8,8,8,8,8,8,8,8
+Bristol County,Paclitaxel 100 MG Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Bristol County,Camila 28 Day Pack,8,8,8,8,8,8,8,8,8,8,0,0
+Bristol County,Errin 28 Day Pack,8,6,8,8,8,8,8,8,8,8,0,0
+Bristol County,Penicillin V Potassium 250 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,7,7
+Bristol County,Ibuprofen 100 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,0,0
+Bristol County,Acetaminophen 160 MG Chewable Tablet,6,6,6,6,6,6,6,6,6,6,0,0
+Bristol County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,6,6,6,6,6,6,6,6,6,6,0,0
+Bristol County,Natazia 28 Day Pack,6,6,6,6,6,6,6,6,6,6,0,0
+Bristol County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,5,0,5,5,5,5,5,5,5,5,0,0
+Bristol County,Meperidine Hydrochloride 50 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Bristol County,Hydrocortisone 10 MG/ML Topical Cream,5,1,5,5,5,5,5,5,5,5,5,5
+Bristol County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,5,4,5,5,5,5,5,5,5,5,0,0
+Bristol County,Amoxicillin 250 MG Oral Capsule,5,5,5,5,5,5,5,5,5,5,0,0
+Bristol County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,5,4,5,5,5,5,5,5,5,5,0,0
+Bristol County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,5,5,5,5,5,5,5,5,5,5,0,0
+Bristol County,Phenazopyridine hydrochloride 100 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,4,4
+Bristol County,Alendronic acid 10 MG Oral Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Bristol County,Nitrofurantoin 5 MG/ML Oral Suspension,4,4,4,4,4,4,4,4,4,4,4,4
+Bristol County,Diazepam 5 MG Oral Tablet,4,3,4,4,4,4,4,4,4,4,0,0
+Bristol County,Loratadine 5 MG Chewable Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Bristol County,ferrous sulfate 325 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Bristol County,Loratadine 10 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Bristol County,Liletta 52 MG Intrauterine System,3,3,3,3,3,3,3,3,3,3,0,0
+Bristol County,Leucovorin 100 MG Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Bristol County,Fexofenadine hydrochloride 30 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Bristol County,10 ML oxaliplatin 5 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Bristol County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Bristol County,Alteplase 100 MG Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Bristol County,Aspirin 81 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Bristol County,Carbamazepine[Tegretol],3,2,3,3,3,3,3,3,3,3,0,0
+Bristol County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,3,0,3,3,3,3,3,3,3,3,0,0
+Bristol County,100 ML zoledronic acid 0.04 MG/ML Injection,2,2,2,2,2,2,2,2,2,2,2,2
+Bristol County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,predniSONE 5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,clonazePAM 0.25 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,Captopril 25 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,Astemizole 10 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Bristol County,Estrostep Fe 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,Galantamine 4 MG Oral Tablet,2,1,2,2,2,2,2,2,2,2,2,2
+Bristol County,Terfenadine 60 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Bristol County,Amoxicillin 500 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,Atorvastatin 80 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,1 ML Epinephrine 1 MG/ML Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,Atropine Sulfate 1 MG/ML Injectable Solution,2,2,2,2,2,2,2,2,2,2,0,0
+Bristol County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],1,0,1,1,1,1,1,1,1,1,1,1
+Bristol County,Acetaminophen/Hydrocodone,1,0,1,1,1,1,1,1,1,1,1,1
+Bristol County,Allopurinol 100 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Bristol County,Cefuroxime 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Bristol County,Colchicine 0.6 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Bristol County,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Bristol County,Sertraline 100 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Bristol County,Penicillin G 375 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Bristol County,Ortho Tri-Cyclen 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Bristol County,Levothyroxine Sodium 0.075 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Bristol County,Furosemide 40 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Bristol County,1 ML DOCEtaxel 20 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,0,0
+Bristol County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,1,0,1,1,1,1,1,1,1,1,0,0
+Dukes County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],198,197,198,198,198,198,198,198,198,198,198,198
+Dukes County,Simvastatin 10 MG Oral Tablet,67,66,67,67,67,67,67,67,67,67,67,67
+Dukes County,Hydrochlorothiazide 25 MG Oral Tablet,58,57,58,58,58,58,58,58,58,58,58,58
+Dukes County,Cisplatin 50 MG Injection,37,37,37,37,37,37,37,37,37,37,37,37
+Dukes County,PACLitaxel 100 MG Injection,37,37,37,37,37,37,37,37,37,37,37,37
+Dukes County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,9,9,9,9,9,9,9,9,9,9,0,0
+Dukes County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,3,0,3,3,3,3,3,3,3,3,0,0
+Dukes County,1 ML DOCEtaxel 20 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,0,0
+Dukes County,Digoxin 0.125 MG Oral Tablet,3,2,3,3,3,3,3,3,3,3,0,0
+Dukes County,Verapamil Hydrochloride 40 MG,3,2,3,3,3,3,3,3,3,3,0,0
+Dukes County,Warfarin Sodium 5 MG Oral Tablet,3,2,3,3,3,3,3,3,3,3,0,0
+Dukes County,Acetaminophen 325 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Dukes County,Meperidine Hydrochloride 50 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Dukes County,Naproxen sodium 220 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Dukes County,ferrous sulfate 325 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Dukes County,Ibuprofen 200 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Dukes County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Dukes County,24hr nicotine transdermal patch,1,0,1,1,1,1,1,1,1,1,0,0
+Dukes County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Essex County,Hydrochlorothiazide 25 MG Oral Tablet,635,626,635,635,635,635,635,635,635,635,635,635
+Essex County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],540,536,540,540,540,540,540,540,540,540,540,540
+Essex County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,392,381,392,392,392,392,392,392,392,392,392,392
+Essex County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,244,237,244,244,244,244,244,244,244,244,244,244
+Essex County,Warfarin Sodium 5 MG Oral Tablet,218,215,218,218,218,218,218,218,218,218,0,0
+Essex County,Verapamil Hydrochloride 40 MG,218,215,218,218,218,218,218,218,218,218,0,0
+Essex County,Digoxin 0.125 MG Oral Tablet,218,215,218,218,218,218,218,218,218,218,0,0
+Essex County,Simvastatin 10 MG Oral Tablet,136,122,136,136,136,136,136,136,136,136,136,136
+Essex County,Hydrochlorothiazide 12.5 MG,108,103,108,108,108,108,108,108,108,108,108,108
+Essex County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,106,102,106,106,106,106,106,106,106,106,106,106
+Essex County,Acetaminophen 325 MG Oral Tablet,59,59,59,59,59,59,59,59,59,59,39,39
+Essex County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,48,44,48,48,48,48,48,48,48,48,0,0
+Essex County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,46,42,46,46,46,46,46,46,46,46,46,46
+Essex County,Simvastatin 20 MG Oral Tablet,44,39,44,44,44,44,44,44,44,44,0,0
+Essex County,Amlodipine 5 MG Oral Tablet,41,36,41,41,41,41,41,41,41,41,0,0
+Essex County,Clopidogrel 75 MG Oral Tablet,39,35,39,39,39,39,39,39,39,39,0,0
+Essex County,Cisplatin 50 MG Injection,36,36,36,36,36,36,36,36,36,36,36,36
+Essex County,PACLitaxel 100 MG Injection,36,36,36,36,36,36,36,36,36,36,36,36
+Essex County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,23,23,23,23,23,23,23,23,23,23,23,23
+Essex County,Naproxen sodium 220 MG Oral Tablet,22,16,22,22,22,22,22,22,22,22,7,7
+Essex County,Acetaminophen 160 MG Chewable Tablet,18,18,18,18,18,18,18,18,18,18,0,0
+Essex County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,17,17,17,17,17,17,17,17,17,17,0,0
+Essex County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,16,16,16,16,16,16,16,16,16,16,0,0
+Essex County,Etonogestrel 68 MG Drug Implant,14,11,14,14,14,14,14,14,14,14,0,0
+Essex County,Ibuprofen 200 MG Oral Tablet,14,14,14,14,14,14,14,14,14,14,0,0
+Essex County,Yaz 28 Day Pack,14,12,14,14,14,14,14,14,14,14,0,0
+Essex County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,13,13,13,13,13,13,13,13,13,13,13,13
+Essex County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,12,10,12,12,12,12,12,12,12,12,12,12
+Essex County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,12,10,12,12,12,12,12,12,12,12,12,12
+Essex County,Mirena 52 MG Intrauterine System,12,11,12,12,12,12,12,12,12,12,0,0
+Essex County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,12,11,12,12,12,12,12,12,12,12,0,0
+Essex County,Camila 28 Day Pack,12,12,12,12,12,12,12,12,12,12,0,0
+Essex County,Seasonique 91 Day Pack,11,10,11,11,11,11,11,11,11,11,0,0
+Essex County,Natazia 28 Day Pack,11,10,11,11,11,11,11,11,11,11,0,0
+Essex County,Trinessa 28 Day Pack,9,9,9,9,9,9,9,9,9,9,0,0
+Essex County,Vitamin B 12 5 MG/ML Injectable Solution,9,0,9,9,9,9,9,9,9,9,0,0
+Essex County,Levora 0.15/30 28 Day Pack,8,8,8,8,8,8,8,8,8,8,0,0
+Essex County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,8,8,8,8,8,8,8,8,8,8,0,0
+Essex County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,7,0,7,7,7,7,7,7,7,7,0,0
+Essex County,Amoxicillin 500 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,0,0
+Essex County,Ibuprofen 100 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,0,0
+Essex County,Errin 28 Day Pack,7,7,7,7,7,7,7,7,7,7,0,0
+Essex County,Amoxicillin 250 MG Oral Capsule,7,7,7,7,7,7,7,7,7,7,0,0
+Essex County,Penicillin V Potassium 250 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,7,7
+Essex County,Penicillin V Potassium 500 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,6,6
+Essex County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,6,5,6,6,6,6,6,6,6,6,0,0
+Essex County,Ortho Tri-Cyclen 28 Day Pack,6,4,6,6,6,6,6,6,6,6,0,0
+Essex County,Meperidine Hydrochloride 50 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Essex County,Norinyl 1+50 28 Day Pack,5,5,5,5,5,5,5,5,5,5,0,0
+Essex County,ferrous sulfate 325 MG Oral Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Essex County,Furosemide 40 MG Oral Tablet,4,0,4,4,4,4,4,4,4,4,4,4
+Essex County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Essex County,Phenazopyridine hydrochloride 100 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,4,4
+Essex County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Essex County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],4,0,4,4,4,4,4,4,4,4,4,4
+Essex County,10 ML Furosemide 10 MG/ML Injection,4,0,4,4,4,4,4,4,4,4,4,4
+Essex County,FLUoxetine 20 MG Oral Capsule,4,3,4,4,4,4,4,4,4,4,4,4
+Essex County,clonazePAM 0.25 MG Oral Tablet,4,2,4,4,4,4,4,4,4,4,0,0
+Essex County,Nitrofurantoin 5 MG/ML Oral Suspension,4,4,4,4,4,4,4,4,4,4,4,4
+Essex County,Cefuroxime 250 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Essex County,Diazepam 5 MG Oral Tablet,4,2,4,4,4,4,4,4,4,4,0,0
+Essex County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,3,3,3,3,3,3,3,3,3,3,0,0
+Essex County,1 ML Epinephrine 1 MG/ML Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Essex County,10 ML oxaliplatin 5 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Essex County,Alendronic acid 10 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Essex County,Atropine Sulfate 1 MG/ML Injectable Solution,3,3,3,3,3,3,3,3,3,3,0,0
+Essex County,Jolivette 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Essex County,Leucovorin 100 MG Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Essex County,Liletta 52 MG Intrauterine System,2,2,2,2,2,2,2,2,2,2,0,0
+Essex County,Carbamazepine[Tegretol],2,2,2,2,2,2,2,2,2,2,0,0
+Essex County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,Fexofenadine hydrochloride 30 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,Terfenadine 60 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,Kyleena 19.5 MG Intrauterine System,2,2,2,2,2,2,2,2,2,2,0,0
+Essex County,Loratadine 5 MG Chewable Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Essex County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,1 ML DOCEtaxel 20 MG/ML Injection,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,2,2,2,2,2,2,2,2,2,2,0,0
+Essex County,Alteplase 100 MG Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Essex County,Astemizole 10 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Essex County,Galantamine 4 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Essex County,Estrostep Fe 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Essex County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Essex County,Atorvastatin 80 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Essex County,Levothyroxine Sodium 0.075 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Essex County,Memantine hydrochloride 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,1,1
+Essex County,predniSONE 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Essex County,cetirizine hydrochloride 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Essex County,Tacrine 10 MG Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Franklin County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,300,299,300,300,300,300,300,300,300,300,300,300
+Franklin County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],297,296,297,297,297,297,297,297,297,297,297,297
+Franklin County,Hydrochlorothiazide 25 MG Oral Tablet,120,117,120,120,120,120,120,120,120,120,120,120
+Franklin County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,46,45,46,46,46,46,46,46,46,46,46,46
+Franklin County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,46,45,46,46,46,46,46,46,46,46,46,46
+Franklin County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,35,33,35,35,35,35,35,35,35,35,35,35
+Franklin County,Simvastatin 10 MG Oral Tablet,24,23,24,24,24,24,24,24,24,24,24,24
+Franklin County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,15,14,15,15,15,15,15,15,15,15,0,0
+Franklin County,Acetaminophen 325 MG Oral Tablet,10,10,10,10,10,10,10,10,10,10,6,6
+Franklin County,10 ML Doxorubicin Hydrochloride 2 MG/ML Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Franklin County,Ibuprofen 200 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,0,0
+Franklin County,Amlodipine 5 MG Oral Tablet,5,4,5,5,5,5,5,5,5,5,0,0
+Franklin County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,5,5
+Franklin County,Clopidogrel 75 MG Oral Tablet,5,4,5,5,5,5,5,5,5,5,0,0
+Franklin County,Simvastatin 20 MG Oral Tablet,5,4,5,5,5,5,5,5,5,5,0,0
+Franklin County,Verapamil Hydrochloride 40 MG,4,3,4,4,4,4,4,4,4,4,0,0
+Franklin County,Warfarin Sodium 5 MG Oral Tablet,4,3,4,4,4,4,4,4,4,4,0,0
+Franklin County,Natazia 28 Day Pack,4,3,4,4,4,4,4,4,4,4,0,0
+Franklin County,Naproxen sodium 220 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Franklin County,Digoxin 0.125 MG Oral Tablet,4,3,4,4,4,4,4,4,4,4,0,0
+Franklin County,Mestranol / Norethynodrel [Enovid],2,2,2,2,2,2,2,2,2,2,0,0
+Franklin County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,2,0,2,2,2,2,2,2,2,2,0,0
+Franklin County,Trinessa 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Franklin County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Franklin County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,2,2,2,2,2,2,2,2,2,2,2,2
+Franklin County,Errin 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Franklin County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Etonogestrel 68 MG Drug Implant,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,exemestane 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Franklin County,clonazePAM 0.25 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Franklin County,Seasonique 91 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Penicillin V Potassium 500 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Franklin County,Penicillin V Potassium 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Franklin County,Loratadine 5 MG Chewable Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Franklin County,Loratadine 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Franklin County,Levora 0.15/30 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Jolivette 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Hydrocortisone 10 MG/ML Topical Cream,1,0,1,1,1,1,1,1,1,1,1,1
+Franklin County,Diazepam 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Franklin County,Cefuroxime 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Camila 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Franklin County,Amoxicillin 500 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Amoxicillin 250 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,Acetaminophen 160 MG Chewable Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Franklin County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,317,311,317,317,317,317,317,317,317,317,317,317
+Hampden County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,303,299,303,303,303,303,303,303,303,303,303,303
+Hampden County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],196,195,196,196,196,196,196,196,196,196,196,196
+Hampden County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,180,176,180,180,180,180,180,180,180,180,180,180
+Hampden County,Hydrochlorothiazide 25 MG Oral Tablet,176,169,176,176,176,176,176,176,176,176,176,176
+Hampden County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,128,125,128,128,128,128,128,128,128,128,128,128
+Hampden County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,128,125,128,128,128,128,128,128,128,128,128,128
+Hampden County,Hydrochlorothiazide 12.5 MG,99,96,99,99,99,99,99,99,99,99,99,99
+Hampden County,Simvastatin 10 MG Oral Tablet,55,49,55,55,55,55,55,55,55,55,55,55
+Hampden County,Acetaminophen 325 MG Oral Tablet,52,51,52,52,52,52,52,52,52,52,39,39
+Hampden County,Digoxin 0.125 MG Oral Tablet,42,39,42,42,42,42,42,42,42,42,0,0
+Hampden County,Warfarin Sodium 5 MG Oral Tablet,42,39,42,42,42,42,42,42,42,42,0,0
+Hampden County,Verapamil Hydrochloride 40 MG,42,39,42,42,42,42,42,42,42,42,0,0
+Hampden County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,33,32,33,33,33,33,33,33,33,33,0,0
+Hampden County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,24,24,24,24,24,24,24,24,24,24,24,24
+Hampden County,Naproxen sodium 220 MG Oral Tablet,17,12,17,17,17,17,17,17,17,17,5,5
+Hampden County,Acetaminophen 160 MG Chewable Tablet,16,16,16,16,16,16,16,16,16,16,0,0
+Hampden County,Amoxicillin 250 MG Oral Capsule,12,12,12,12,12,12,12,12,12,12,0,0
+Hampden County,Yaz 28 Day Pack,10,10,10,10,10,10,10,10,10,10,0,0
+Hampden County,Ibuprofen 100 MG Oral Tablet,10,10,10,10,10,10,10,10,10,10,0,0
+Hampden County,Ibuprofen 200 MG Oral Tablet,9,9,9,9,9,9,9,9,9,9,0,0
+Hampden County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,9,9,9,9,9,9,9,9,9,9,9,9
+Hampden County,Jolivette 28 Day Pack,8,7,8,8,8,8,8,8,8,8,0,0
+Hampden County,Penicillin V Potassium 250 MG Oral Tablet,8,8,8,8,8,8,8,8,8,8,8,8
+Hampden County,Trinessa 28 Day Pack,8,8,8,8,8,8,8,8,8,8,0,0
+Hampden County,Levora 0.15/30 28 Day Pack,8,6,8,8,8,8,8,8,8,8,0,0
+Hampden County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,7,5,7,7,7,7,7,7,7,7,0,0
+Hampden County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,6,5,6,6,6,6,6,6,6,6,0,0
+Hampden County,Seasonique 91 Day Pack,6,5,6,6,6,6,6,6,6,6,0,0
+Hampden County,Nitrofurantoin 5 MG/ML Oral Suspension,6,6,6,6,6,6,6,6,6,6,6,6
+Hampden County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],6,0,6,6,6,6,6,6,6,6,6,6
+Hampden County,Phenazopyridine hydrochloride 100 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,6,6
+Hampden County,Furosemide 40 MG Oral Tablet,6,0,6,6,6,6,6,6,6,6,6,6
+Hampden County,Vitamin B 12 5 MG/ML Injectable Solution,6,0,6,6,6,6,6,6,6,6,0,0
+Hampden County,10 ML Furosemide 10 MG/ML Injection,6,0,6,6,6,6,6,6,6,6,6,6
+Hampden County,Mirena 52 MG Intrauterine System,5,4,5,5,5,5,5,5,5,5,0,0
+Hampden County,Camila 28 Day Pack,5,5,5,5,5,5,5,5,5,5,0,0
+Hampden County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,5,0,5,5,5,5,5,5,5,5,0,0
+Hampden County,Penicillin V Potassium 500 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,5,5
+Hampden County,Carbamazepine[Tegretol],5,4,5,5,5,5,5,5,5,5,0,0
+Hampden County,Errin 28 Day Pack,4,4,4,4,4,4,4,4,4,4,0,0
+Hampden County,Etonogestrel 68 MG Drug Implant,4,4,4,4,4,4,4,4,4,4,0,0
+Hampden County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,3,3,3,3,3,3,3,3,3,3,0,0
+Hampden County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Hampden County,Alendronic acid 10 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Hampden County,ferrous sulfate 325 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Hampden County,clonazePAM 0.25 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Hampden County,Natazia 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Hampden County,Cefuroxime 250 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Hampden County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Hampden County,Mestranol / Norethynodrel [Enovid],2,2,2,2,2,2,2,2,2,2,0,0
+Hampden County,Hydrocortisone 10 MG/ML Topical Cream,2,1,2,2,2,2,2,2,2,2,2,2
+Hampden County,Loratadine 5 MG Chewable Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Hampden County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,1 ML Epinephrine 1 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Alteplase 100 MG Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Amoxicillin 500 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,palbociclib 100 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Hampden County,neratinib 40 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Hampden County,cycloSPORINE  modified 100 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Hampden County,cetirizine hydrochloride 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampden County,Tamoxifen 10 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Hampden County,Ortho Tri-Cyclen 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Hampden County,Liletta 52 MG Intrauterine System,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Levothyroxine Sodium 0.075 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampden County,Fexofenadine hydrochloride 60 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampden County,Fexofenadine hydrochloride 30 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampden County,Estrostep Fe 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Doxycycline Monohydrate 50 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Diazepam 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Clopidogrel 75 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,0,0
+Hampden County,Cefaclor 250 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Atropine Sulfate 1 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Hampden County,Astemizole 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampden County,Aspirin 81 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,184,178,184,184,184,184,184,184,184,184,184,184
+Hampshire County,Cisplatin 50 MG Injection,154,154,154,154,154,154,154,154,154,154,154,154
+Hampshire County,PACLitaxel 100 MG Injection,154,154,154,154,154,154,154,154,154,154,154,154
+Hampshire County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,115,112,115,115,115,115,115,115,115,115,115,115
+Hampshire County,Hydrochlorothiazide 25 MG Oral Tablet,88,85,88,88,88,88,88,88,88,88,88,88
+Hampshire County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],77,75,77,77,77,77,77,77,77,77,77,77
+Hampshire County,Simvastatin 10 MG Oral Tablet,76,72,76,76,76,76,76,76,76,76,76,76
+Hampshire County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,51,50,51,51,51,51,51,51,51,51,51,51
+Hampshire County,Hydrochlorothiazide 12.5 MG,42,41,42,42,42,42,42,42,42,42,42,42
+Hampshire County,Acetaminophen 325 MG Oral Tablet,26,26,26,26,26,26,26,26,26,26,20,20
+Hampshire County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,15,15,15,15,15,15,15,15,15,15,15,15
+Hampshire County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,13,12,13,13,13,13,13,13,13,13,13,13
+Hampshire County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,13,12,13,13,13,13,13,13,13,13,13,13
+Hampshire County,Clopidogrel 75 MG Oral Tablet,12,11,12,12,12,12,12,12,12,12,0,0
+Hampshire County,Amlodipine 5 MG Oral Tablet,12,10,12,12,12,12,12,12,12,12,0,0
+Hampshire County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,12,11,12,12,12,12,12,12,12,12,0,0
+Hampshire County,Simvastatin 20 MG Oral Tablet,12,10,12,12,12,12,12,12,12,12,0,0
+Hampshire County,Naproxen sodium 220 MG Oral Tablet,7,4,7,7,7,7,7,7,7,7,4,4
+Hampshire County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,7,7,7,7,7,7,7,7,7,7,0,0
+Hampshire County,Digoxin 0.125 MG Oral Tablet,6,5,6,6,6,6,6,6,6,6,0,0
+Hampshire County,Verapamil Hydrochloride 40 MG,6,5,6,6,6,6,6,6,6,6,0,0
+Hampshire County,Warfarin Sodium 5 MG Oral Tablet,6,5,6,6,6,6,6,6,6,6,0,0
+Hampshire County,Ibuprofen 200 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,0,0
+Hampshire County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,5,0,5,5,5,5,5,5,5,5,0,0
+Hampshire County,Seasonique 91 Day Pack,5,5,5,5,5,5,5,5,5,5,0,0
+Hampshire County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Hampshire County,Levora 0.15/30 28 Day Pack,4,4,4,4,4,4,4,4,4,4,0,0
+Hampshire County,Errin 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Hampshire County,Fexofenadine hydrochloride 30 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Hampshire County,Furosemide 40 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,3,3
+Hampshire County,Acetaminophen 160 MG Chewable Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Hampshire County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,3,3,3,3,3,3,3,3,3,3,3,3
+Hampshire County,Jolivette 28 Day Pack,3,2,3,3,3,3,3,3,3,3,0,0
+Hampshire County,10 ML Furosemide 10 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Hampshire County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],3,0,3,3,3,3,3,3,3,3,3,3
+Hampshire County,Penicillin V Potassium 250 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Hampshire County,Trinessa 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Hampshire County,Vitamin B 12 5 MG/ML Injectable Solution,2,0,2,2,2,2,2,2,2,2,0,0
+Hampshire County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Hampshire County,predniSONE 5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Hampshire County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Hampshire County,Camila 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Hampshire County,Mirena 52 MG Intrauterine System,2,2,2,2,2,2,2,2,2,2,0,0
+Hampshire County,Ibuprofen 100 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,ferrous sulfate 325 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampshire County,cetirizine hydrochloride 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Phenazopyridine hydrochloride 100 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Hampshire County,Penicillin V Potassium 500 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Hampshire County,Nitrofurantoin 5 MG/ML Oral Suspension,1,1,1,1,1,1,1,1,1,1,1,1
+Hampshire County,Natazia 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Hampshire County,Loratadine 5 MG Chewable Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Hydrocortisone 10 MG/ML Topical Cream,1,0,1,1,1,1,1,1,1,1,1,1
+Hampshire County,Chlorpheniramine Maleate 4 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Cefuroxime 250 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Atropine Sulfate 1 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Atorvastatin 80 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Amoxicillin 250 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Alteplase 100 MG Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Alendronic acid 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Hampshire County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Hampshire County,1 ML Epinephrine 1 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Middlesex County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,1049,1024,1049,1049,1049,1049,1049,1049,1049,1049,1049,1049
+Middlesex County,Hydrochlorothiazide 25 MG Oral Tablet,537,519,537,537,537,537,537,537,537,537,537,537
+Middlesex County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,533,518,533,533,533,533,533,533,533,533,533,533
+Middlesex County,Simvastatin 10 MG Oral Tablet,445,421,445,445,445,445,445,445,445,445,445,445
+Middlesex County,Hydrochlorothiazide 12.5 MG,442,429,442,442,442,442,442,442,442,442,442,442
+Middlesex County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,439,423,439,439,439,439,439,439,439,439,439,439
+Middlesex County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,439,423,439,439,439,439,439,439,439,439,439,439
+Middlesex County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,432,420,432,432,432,432,432,432,432,432,432,432
+Middlesex County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],309,302,309,309,309,309,309,309,309,309,309,309
+Middlesex County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,228,221,228,228,228,228,228,228,228,228,0,0
+Middlesex County,Digoxin 0.125 MG Oral Tablet,181,171,181,181,181,181,181,181,181,181,0,0
+Middlesex County,Warfarin Sodium 5 MG Oral Tablet,181,171,181,181,181,181,181,181,181,181,0,0
+Middlesex County,Verapamil Hydrochloride 40 MG,181,171,181,181,181,181,181,181,181,181,0,0
+Middlesex County,Simvastatin 20 MG Oral Tablet,177,168,177,177,177,177,177,177,177,177,0,0
+Middlesex County,Amlodipine 5 MG Oral Tablet,171,162,171,171,171,171,171,171,171,171,0,0
+Middlesex County,Clopidogrel 75 MG Oral Tablet,169,162,169,169,169,169,169,169,169,169,0,0
+Middlesex County,Acetaminophen 325 MG Oral Tablet,130,129,130,130,130,130,130,130,130,130,84,84
+Middlesex County,PACLitaxel 100 MG Injection,99,99,99,99,99,99,99,99,99,99,99,99
+Middlesex County,Cisplatin 50 MG Injection,99,99,99,99,99,99,99,99,99,99,99,99
+Middlesex County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,94,89,94,94,94,94,94,94,94,94,94,94
+Middlesex County,Naproxen sodium 220 MG Oral Tablet,60,39,60,60,60,60,60,60,60,60,25,25
+Middlesex County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,47,46,47,47,47,47,47,47,47,47,47,47
+Middlesex County,Ibuprofen 100 MG Oral Tablet,40,40,40,40,40,40,40,40,40,40,0,0
+Middlesex County,Ibuprofen 200 MG Oral Tablet,38,38,38,38,38,38,38,38,38,38,0,0
+Middlesex County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,37,37,37,37,37,37,37,37,37,37,37,37
+Middlesex County,Amoxicillin 250 MG Oral Capsule,32,32,32,32,32,32,32,32,32,32,0,0
+Middlesex County,Acetaminophen 160 MG Chewable Tablet,31,31,31,31,31,31,31,31,31,31,0,0
+Middlesex County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,30,0,30,30,30,30,30,30,30,30,0,0
+Middlesex County,Yaz 28 Day Pack,30,29,30,30,30,30,30,30,30,30,0,0
+Middlesex County,Jolivette 28 Day Pack,29,26,29,29,29,29,29,29,29,29,0,0
+Middlesex County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,29,27,29,29,29,29,29,29,29,29,0,0
+Middlesex County,Trinessa 28 Day Pack,28,23,28,28,28,28,28,28,28,28,0,0
+Middlesex County,Seasonique 91 Day Pack,27,24,27,27,27,27,27,27,27,27,0,0
+Middlesex County,Natazia 28 Day Pack,26,24,26,26,26,26,26,26,26,26,0,0
+Middlesex County,Phenazopyridine hydrochloride 100 MG Oral Tablet,23,23,23,23,23,23,23,23,23,23,23,23
+Middlesex County,Nitrofurantoin 5 MG/ML Oral Suspension,23,23,23,23,23,23,23,23,23,23,23,23
+Middlesex County,Errin 28 Day Pack,23,22,23,23,23,23,23,23,23,23,0,0
+Middlesex County,Etonogestrel 68 MG Drug Implant,23,21,23,23,23,23,23,23,23,23,0,0
+Middlesex County,Levora 0.15/30 28 Day Pack,19,17,19,19,19,19,19,19,19,19,0,0
+Middlesex County,Camila 28 Day Pack,18,17,18,18,18,18,18,18,18,18,0,0
+Middlesex County,Penicillin V Potassium 250 MG Oral Tablet,15,15,15,15,15,15,15,15,15,15,15,15
+Middlesex County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,15,13,15,15,15,15,15,15,15,15,0,0
+Middlesex County,Fexofenadine hydrochloride 30 MG Oral Tablet,12,0,12,12,12,12,12,12,12,12,0,0
+Middlesex County,Furosemide 40 MG Oral Tablet,12,0,12,12,12,12,12,12,12,12,12,12
+Middlesex County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],12,0,12,12,12,12,12,12,12,12,12,12
+Middlesex County,ferrous sulfate 325 MG Oral Tablet,11,0,11,11,11,11,11,11,11,11,0,0
+Middlesex County,Mirena 52 MG Intrauterine System,11,10,11,11,11,11,11,11,11,11,0,0
+Middlesex County,Penicillin V Potassium 500 MG Oral Tablet,11,11,11,11,11,11,11,11,11,11,11,11
+Middlesex County,10 ML Furosemide 10 MG/ML Injection,10,0,10,10,10,10,10,10,10,10,10,10
+Middlesex County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,9,9,9,9,9,9,9,9,9,9,0,0
+Middlesex County,10 ML Doxorubicin Hydrochloride 2 MG/ML Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Middlesex County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,8,6,8,8,8,8,8,8,8,8,0,0
+Middlesex County,Alendronic acid 10 MG Oral Tablet,8,0,8,8,8,8,8,8,8,8,0,0
+Middlesex County,Loratadine 5 MG Chewable Tablet,8,0,8,8,8,8,8,8,8,8,0,0
+Middlesex County,Cefuroxime 250 MG Oral Tablet,8,8,8,8,8,8,8,8,8,8,0,0
+Middlesex County,Vitamin B 12 5 MG/ML Injectable Solution,6,0,6,6,6,6,6,6,6,6,0,0
+Middlesex County,Alteplase 100 MG Injection,6,6,6,6,6,6,6,6,6,6,0,0
+Middlesex County,Hydrocortisone 10 MG/ML Topical Cream,6,3,6,6,6,6,6,6,6,6,6,6
+Middlesex County,Meperidine Hydrochloride 50 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,0,0
+Middlesex County,Galantamine 4 MG Oral Tablet,6,5,6,6,6,6,6,6,6,6,6,6
+Middlesex County,Kyleena 19.5 MG Intrauterine System,5,4,5,5,5,5,5,5,5,5,0,0
+Middlesex County,Astemizole 10 MG Oral Tablet,5,0,5,5,5,5,5,5,5,5,0,0
+Middlesex County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Middlesex County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,5,0,5,5,5,5,5,5,5,5,0,0
+Middlesex County,clonazePAM 0.25 MG Oral Tablet,5,3,5,5,5,5,5,5,5,5,0,0
+Middlesex County,Captopril 25 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Middlesex County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Middlesex County,Amoxicillin 500 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Middlesex County,Norinyl 1+50 28 Day Pack,4,4,4,4,4,4,4,4,4,4,0,0
+Middlesex County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,4,4,4,4,4,4,4,4,4,4,4,4
+Middlesex County,Memantine hydrochloride 2 MG/ML Oral Solution,3,0,3,3,3,3,3,3,3,3,3,3
+Middlesex County,Terfenadine 60 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Middlesex County,cetirizine hydrochloride 5 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Naproxen 500 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,3,3
+Middlesex County,predniSONE 5 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,FLUoxetine 20 MG Oral Capsule,3,2,3,3,3,3,3,3,3,3,3,3
+Middlesex County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,3,0,3,3,3,3,3,3,3,3,0,0
+Middlesex County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,3,0,3,3,3,3,3,3,3,3,0,0
+Middlesex County,1 ML DOCEtaxel 20 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,0,0
+Middlesex County,1 ML Epinephrine 1 MG/ML Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Aspirin 81 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Atorvastatin 80 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Atropine Sulfate 1 MG/ML Injectable Solution,3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Carbamazepine[Tegretol],3,3,3,3,3,3,3,3,3,3,0,0
+Middlesex County,Leucovorin 100 MG Injection,2,0,2,2,2,2,2,2,2,2,2,2
+Middlesex County,10 ML oxaliplatin 5 MG/ML Injection,2,0,2,2,2,2,2,2,2,2,2,2
+Middlesex County,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,2,0,2,2,2,2,2,2,2,2,2,2
+Middlesex County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Middlesex County,Cefaclor 250 MG Oral Capsule,2,2,2,2,2,2,2,2,2,2,0,0
+Middlesex County,Estrostep Fe 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Middlesex County,Levothyroxine Sodium 0.075 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Middlesex County,Liletta 52 MG Intrauterine System,2,0,2,2,2,2,2,2,2,2,0,0
+Middlesex County,Methotrexate 2.5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Middlesex County,Sertraline 100 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,2,2
+Middlesex County,Tamoxifen 10 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Middlesex County,Acetaminophen/Hydrocodone,1,0,1,1,1,1,1,1,1,1,1,1
+Middlesex County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Middlesex County,Allopurinol 100 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Middlesex County,Chlorpheniramine Maleate 4 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Middlesex County,atomoxetine 100 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Middlesex County,Ortho Tri-Cyclen 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Middlesex County,Mestranol / Norethynodrel [Enovid],1,1,1,1,1,1,1,1,1,1,0,0
+Middlesex County,Loratadine 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Nantucket County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,47,46,47,47,47,47,47,47,47,47,47,47
+Nantucket County,Acetaminophen 325 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Nantucket County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Nantucket County,Natazia 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Nantucket County,Trinessa 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Nantucket County,Seasonique 91 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Nantucket County,Ibuprofen 200 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Nantucket County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Nantucket County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,1,1,1,1,1,1,1,1,1,1,1,1
+Nantucket County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],959,959,959,959,959,959,959,959,959,959,959,959
+Norfolk County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],729,725,729,729,729,729,729,729,729,729,729,729
+Norfolk County,Warfarin Sodium 5 MG Oral Tablet,530,525,530,530,530,530,530,530,530,530,0,0
+Norfolk County,Digoxin 0.125 MG Oral Tablet,530,525,530,530,530,530,530,530,530,530,0,0
+Norfolk County,Verapamil Hydrochloride 40 MG,521,516,521,521,521,521,521,521,521,521,0,0
+Norfolk County,Hydrochlorothiazide 25 MG Oral Tablet,406,393,406,406,406,406,406,406,406,406,406,406
+Norfolk County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,369,360,369,369,369,369,369,369,369,369,369,369
+Norfolk County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,369,360,369,369,369,369,369,369,369,369,369,369
+Norfolk County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,367,364,367,367,367,367,367,367,367,367,367,367
+Norfolk County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,356,350,356,356,356,356,356,356,356,356,0,0
+Norfolk County,Simvastatin 20 MG Oral Tablet,303,297,303,303,303,303,303,303,303,303,0,0
+Norfolk County,Amlodipine 5 MG Oral Tablet,297,291,297,297,297,297,297,297,297,297,0,0
+Norfolk County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,295,290,295,295,295,295,295,295,295,295,295,295
+Norfolk County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,293,285,293,293,293,293,293,293,293,293,293,293
+Norfolk County,Clopidogrel 75 MG Oral Tablet,291,286,291,291,291,291,291,291,291,291,0,0
+Norfolk County,Hydrochlorothiazide 12.5 MG,220,214,220,220,220,220,220,220,220,220,220,220
+Norfolk County,Simvastatin 10 MG Oral Tablet,186,172,186,186,186,186,186,186,186,186,186,186
+Norfolk County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,72,67,72,72,72,72,72,72,72,72,72,72
+Norfolk County,Acetaminophen 325 MG Oral Tablet,67,66,67,67,67,67,67,67,67,67,44,44
+Norfolk County,Naproxen sodium 220 MG Oral Tablet,32,26,32,32,32,32,32,32,32,32,9,9
+Norfolk County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,29,29,29,29,29,29,29,29,29,29,29,29
+Norfolk County,PACLitaxel 100 MG Injection,24,24,24,24,24,24,24,24,24,24,24,24
+Norfolk County,Cisplatin 50 MG Injection,24,24,24,24,24,24,24,24,24,24,24,24
+Norfolk County,Ibuprofen 200 MG Oral Tablet,24,24,24,24,24,24,24,24,24,24,0,0
+Norfolk County,Trinessa 28 Day Pack,24,24,24,24,24,24,24,24,24,24,0,0
+Norfolk County,Acetaminophen 160 MG Chewable Tablet,18,18,18,18,18,18,18,18,18,18,0,0
+Norfolk County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,17,0,17,17,17,17,17,17,17,17,0,0
+Norfolk County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,15,15,15,15,15,15,15,15,15,15,15,15
+Norfolk County,Ibuprofen 100 MG Oral Tablet,14,14,14,14,14,14,14,14,14,14,0,0
+Norfolk County,Levora 0.15/30 28 Day Pack,13,9,13,13,13,13,13,13,13,13,0,0
+Norfolk County,Amoxicillin 250 MG Oral Capsule,12,12,12,12,12,12,12,12,12,12,0,0
+Norfolk County,Penicillin V Potassium 500 MG Oral Tablet,12,12,12,12,12,12,12,12,12,12,12,12
+Norfolk County,Etonogestrel 68 MG Drug Implant,11,10,11,11,11,11,11,11,11,11,0,0
+Norfolk County,Seasonique 91 Day Pack,10,9,10,10,10,10,10,10,10,10,0,0
+Norfolk County,Jolivette 28 Day Pack,10,10,10,10,10,10,10,10,10,10,0,0
+Norfolk County,Phenazopyridine hydrochloride 100 MG Oral Tablet,9,9,9,9,9,9,9,9,9,9,9,9
+Norfolk County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,9,9,9,9,9,9,9,9,9,9,0,0
+Norfolk County,Camila 28 Day Pack,9,9,9,9,9,9,9,9,9,9,0,0
+Norfolk County,Nitrofurantoin 5 MG/ML Oral Suspension,9,9,9,9,9,9,9,9,9,9,9,9
+Norfolk County,Natazia 28 Day Pack,8,6,8,8,8,8,8,8,8,8,0,0
+Norfolk County,Errin 28 Day Pack,8,8,8,8,8,8,8,8,8,8,0,0
+Norfolk County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,8,8,8,8,8,8,8,8,8,8,0,0
+Norfolk County,10 ML Furosemide 10 MG/ML Injection,7,0,7,7,7,7,7,7,7,7,7,7
+Norfolk County,Furosemide 40 MG Oral Tablet,7,0,7,7,7,7,7,7,7,7,7,7
+Norfolk County,Penicillin V Potassium 250 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,7,7
+Norfolk County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],7,0,7,7,7,7,7,7,7,7,7,7
+Norfolk County,Loratadine 5 MG Chewable Tablet,6,0,6,6,6,6,6,6,6,6,0,0
+Norfolk County,Yaz 28 Day Pack,6,4,6,6,6,6,6,6,6,6,0,0
+Norfolk County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,6,5,6,6,6,6,6,6,6,6,0,0
+Norfolk County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,5,4,5,5,5,5,5,5,5,5,0,0
+Norfolk County,ferrous sulfate 325 MG Oral Tablet,5,0,5,5,5,5,5,5,5,5,0,0
+Norfolk County,Hydrocortisone 10 MG/ML Topical Cream,4,2,4,4,4,4,4,4,4,4,4,4
+Norfolk County,Mirena 52 MG Intrauterine System,4,4,4,4,4,4,4,4,4,4,0,0
+Norfolk County,Cefuroxime 250 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Norfolk County,Amoxicillin 500 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Norfolk County,Alendronic acid 10 MG Oral Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Norfolk County,Fexofenadine hydrochloride 30 MG Oral Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Norfolk County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,3,3,3,3,3,3,3,3,3,3,3,3
+Norfolk County,1 ML DOCEtaxel 20 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,0,0
+Norfolk County,Alteplase 100 MG Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Norfolk County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,3,0,3,3,3,3,3,3,3,3,0,0
+Norfolk County,Kyleena 19.5 MG Intrauterine System,3,3,3,3,3,3,3,3,3,3,0,0
+Norfolk County,Vitamin B 12 5 MG/ML Injectable Solution,3,0,3,3,3,3,3,3,3,3,0,0
+Norfolk County,Meperidine Hydrochloride 50 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Norfolk County,cetirizine hydrochloride 5 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Norfolk County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Methylphenidate Hydrochloride 20 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Norfolk County,Mestranol / Norethynodrel [Enovid],2,2,2,2,2,2,2,2,2,2,0,0
+Norfolk County,predniSONE 5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Tacrine 10 MG Oral Capsule,2,2,2,2,2,2,2,2,2,2,2,2
+Norfolk County,Norinyl 1+50 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Terfenadine 60 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Aspirin 81 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Diazepam 5 MG Oral Tablet,2,1,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Estrostep Fe 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Galantamine 4 MG Oral Tablet,2,1,2,2,2,2,2,2,2,2,2,2
+Norfolk County,Levothyroxine Sodium 0.075 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Norfolk County,Loratadine 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Norfolk County,Leucovorin 100 MG Injection,1,0,1,1,1,1,1,1,1,1,1,1
+Norfolk County,Fexofenadine hydrochloride 60 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Norfolk County,Doxycycline Monohydrate 100 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,Atropine Sulfate 1 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,Ortho Tri-Cyclen 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,24hr nicotine transdermal patch,1,0,1,1,1,1,1,1,1,1,0,0
+Norfolk County,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Norfolk County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,10 ML oxaliplatin 5 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,1,1
+Norfolk County,1 ML Epinephrine 1 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,0,0
+Norfolk County,clonazePAM 0.25 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Norfolk County,Liletta 52 MG Intrauterine System,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,435,429,435,435,435,435,435,435,435,435,435,435
+Plymouth County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,282,280,282,282,282,282,282,282,282,282,282,282
+Plymouth County,Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],232,231,232,232,232,232,232,232,232,232,232,232
+Plymouth County,Simvastatin 10 MG Oral Tablet,220,209,220,220,220,220,220,220,220,220,220,220
+Plymouth County,Hydrochlorothiazide 12.5 MG,213,208,213,213,213,213,213,213,213,213,213,213
+Plymouth County,Digoxin 0.125 MG Oral Tablet,207,204,207,207,207,207,207,207,207,207,0,0
+Plymouth County,Warfarin Sodium 5 MG Oral Tablet,207,204,207,207,207,207,207,207,207,207,0,0
+Plymouth County,Verapamil Hydrochloride 40 MG,207,204,207,207,207,207,207,207,207,207,0,0
+Plymouth County,Hydrochlorothiazide 25 MG Oral Tablet,193,189,193,193,193,193,193,193,193,193,193,193
+Plymouth County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,164,160,164,164,164,164,164,164,164,164,164,164
+Plymouth County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,164,160,164,164,164,164,164,164,164,164,164,164
+Plymouth County,Clopidogrel 75 MG Oral Tablet,133,130,133,133,133,133,133,133,133,133,0,0
+Plymouth County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,133,129,133,133,133,133,133,133,133,133,0,0
+Plymouth County,Amlodipine 5 MG Oral Tablet,132,128,132,132,132,132,132,132,132,132,0,0
+Plymouth County,Simvastatin 20 MG Oral Tablet,132,128,132,132,132,132,132,132,132,132,0,0
+Plymouth County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],131,128,131,131,131,131,131,131,131,131,131,131
+Plymouth County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,109,105,109,109,109,109,109,109,109,109,109,109
+Plymouth County,Acetaminophen 325 MG Oral Tablet,45,45,45,45,45,45,45,45,45,45,36,36
+Plymouth County,Cisplatin 50 MG Injection,36,36,36,36,36,36,36,36,36,36,36,36
+Plymouth County,PACLitaxel 100 MG Injection,36,36,36,36,36,36,36,36,36,36,36,36
+Plymouth County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,18,17,18,18,18,18,18,18,18,18,18,18
+Plymouth County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,15,15,15,15,15,15,15,15,15,15,15,15
+Plymouth County,Naproxen sodium 220 MG Oral Tablet,13,8,13,13,13,13,13,13,13,13,5,5
+Plymouth County,Ibuprofen 200 MG Oral Tablet,11,11,11,11,11,11,11,11,11,11,0,0
+Plymouth County,Acetaminophen 160 MG Chewable Tablet,10,10,10,10,10,10,10,10,10,10,0,0
+Plymouth County,100 ML Epirubicin Hydrochloride 2 MG/ML Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Plymouth County,Cyclophosphamide 1000 MG Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Plymouth County,Ibuprofen 100 MG Oral Tablet,8,8,8,8,8,8,8,8,8,8,0,0
+Plymouth County,Penicillin V Potassium 500 MG Oral Tablet,6,5,6,6,6,6,6,6,6,6,6,6
+Plymouth County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,6,5,6,6,6,6,6,6,6,6,0,0
+Plymouth County,Amoxicillin 250 MG Oral Capsule,6,6,6,6,6,6,6,6,6,6,0,0
+Plymouth County,Trinessa 28 Day Pack,5,5,5,5,5,5,5,5,5,5,0,0
+Plymouth County,Penicillin V Potassium 250 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,5,5
+Plymouth County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,5,5,5,5,5,5,5,5,5,5,5,5
+Plymouth County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,5,0,5,5,5,5,5,5,5,5,0,0
+Plymouth County,Mestranol / Norethynodrel [Enovid],5,5,5,5,5,5,5,5,5,5,0,0
+Plymouth County,Levora 0.15/30 28 Day Pack,4,4,4,4,4,4,4,4,4,4,0,0
+Plymouth County,Meperidine Hydrochloride 50 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Plymouth County,Yaz 28 Day Pack,4,3,4,4,4,4,4,4,4,4,0,0
+Plymouth County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,3,2,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Jolivette 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Plymouth County,ferrous sulfate 325 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Diazepam 5 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Camila 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Alteplase 100 MG Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Seasonique 91 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Norinyl 1+50 28 Day Pack,3,3,3,3,3,3,3,3,3,3,0,0
+Plymouth County,Nitrofurantoin 5 MG/ML Oral Suspension,3,3,3,3,3,3,3,3,3,3,3,3
+Plymouth County,Phenazopyridine hydrochloride 100 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,3,3
+Plymouth County,Vitamin B 12 5 MG/ML Injectable Solution,2,0,2,2,2,2,2,2,2,2,0,0
+Plymouth County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,2,2,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Amoxicillin 500 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Mirena 52 MG Intrauterine System,2,2,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Loratadine 5 MG Chewable Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Levothyroxine Sodium 0.075 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Galantamine 4 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Plymouth County,Fexofenadine hydrochloride 30 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Etonogestrel 68 MG Drug Implant,2,1,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Errin 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Cefuroxime 250 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Carbamazepine[Tegretol],2,1,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Natazia 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Plymouth County,Atorvastatin 80 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,Captopril 25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,0,0
+Plymouth County,Furosemide 40 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,Alendronic acid 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Plymouth County,Memantine hydrochloride 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,Methylphenidate Hydrochloride 20 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Plymouth County,Naproxen 500 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,1,0,1,1,1,1,1,1,1,1,0,0
+Plymouth County,1 ML DOCEtaxel 20 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,0,0
+Plymouth County,10 ML Furosemide 10 MG/ML Injection,1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,12 HR Cefaclor 500 MG Extended Release Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],1,0,1,1,1,1,1,1,1,1,1,1
+Plymouth County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,Tamoxifen 10 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Plymouth County,atomoxetine 100 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Plymouth County,cetirizine hydrochloride 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Plymouth County,clonazePAM 0.25 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Plymouth County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Plymouth County,palbociclib 100 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Plymouth County,predniSONE 5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Suffolk County,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],1215,1215,1215,1215,1215,1215,1215,1215,1215,1215,1215,1215
+Suffolk County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],566,563,566,566,566,566,566,566,566,566,566,566
+Suffolk County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,302,290,302,302,302,302,302,302,302,302,302,302
+Suffolk County,Simvastatin 10 MG Oral Tablet,294,282,294,294,294,294,294,294,294,294,294,294
+Suffolk County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,288,285,288,288,288,288,288,288,288,288,288,288
+Suffolk County,Hydrochlorothiazide 25 MG Oral Tablet,274,266,274,274,274,274,274,274,274,274,274,274
+Suffolk County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,235,229,235,235,235,235,235,235,235,235,235,235
+Suffolk County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,187,182,187,187,187,187,187,187,187,187,187,187
+Suffolk County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,187,182,187,187,187,187,187,187,187,187,187,187
+Suffolk County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,148,143,148,148,148,148,148,148,148,148,0,0
+Suffolk County,Hydrochlorothiazide 12.5 MG,132,128,132,132,132,132,132,132,132,132,132,132
+Suffolk County,Simvastatin 20 MG Oral Tablet,112,107,112,112,112,112,112,112,112,112,0,0
+Suffolk County,Amlodipine 5 MG Oral Tablet,103,98,103,103,103,103,103,103,103,103,0,0
+Suffolk County,Clopidogrel 75 MG Oral Tablet,94,89,94,94,94,94,94,94,94,94,0,0
+Suffolk County,Cisplatin 50 MG Injection,72,72,72,72,72,72,72,72,72,72,72,72
+Suffolk County,Acetaminophen 325 MG Oral Tablet,72,72,72,72,72,72,72,72,72,72,52,52
+Suffolk County,PACLitaxel 100 MG Injection,72,72,72,72,72,72,72,72,72,72,72,72
+Suffolk County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,38,38,38,38,38,38,38,38,38,38,38,38
+Suffolk County,Naproxen sodium 220 MG Oral Tablet,36,25,36,36,36,36,36,36,36,36,12,12
+Suffolk County,Ibuprofen 200 MG Oral Tablet,26,26,26,26,26,26,26,26,26,26,0,0
+Suffolk County,Digoxin 0.125 MG Oral Tablet,19,17,19,19,19,19,19,19,19,19,0,0
+Suffolk County,Verapamil Hydrochloride 40 MG,19,17,19,19,19,19,19,19,19,19,0,0
+Suffolk County,Warfarin Sodium 5 MG Oral Tablet,19,17,19,19,19,19,19,19,19,19,0,0
+Suffolk County,Acetaminophen 160 MG Chewable Tablet,17,17,17,17,17,17,17,17,17,17,0,0
+Suffolk County,Camila 28 Day Pack,15,12,15,15,15,15,15,15,15,15,0,0
+Suffolk County,Yaz 28 Day Pack,14,10,14,14,14,14,14,14,14,14,0,0
+Suffolk County,Amoxicillin 250 MG Oral Capsule,13,13,13,13,13,13,13,13,13,13,0,0
+Suffolk County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,13,13,13,13,13,13,13,13,13,13,0,0
+Suffolk County,Ibuprofen 100 MG Oral Tablet,12,12,12,12,12,12,12,12,12,12,0,0
+Suffolk County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,12,12,12,12,12,12,12,12,12,12,0,0
+Suffolk County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,11,11,11,11,11,11,11,11,11,11,11,11
+Suffolk County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,11,0,11,11,11,11,11,11,11,11,0,0
+Suffolk County,Seasonique 91 Day Pack,11,10,11,11,11,11,11,11,11,11,0,0
+Suffolk County,Mirena 52 MG Intrauterine System,10,10,10,10,10,10,10,10,10,10,0,0
+Suffolk County,Errin 28 Day Pack,10,9,10,10,10,10,10,10,10,10,0,0
+Suffolk County,Penicillin V Potassium 250 MG Oral Tablet,10,10,10,10,10,10,10,10,10,10,10,10
+Suffolk County,Trinessa 28 Day Pack,10,10,10,10,10,10,10,10,10,10,0,0
+Suffolk County,Phenazopyridine hydrochloride 100 MG Oral Tablet,10,10,10,10,10,10,10,10,10,10,10,10
+Suffolk County,Nitrofurantoin 5 MG/ML Oral Suspension,10,10,10,10,10,10,10,10,10,10,10,10
+Suffolk County,Penicillin V Potassium 500 MG Oral Tablet,9,9,9,9,9,9,9,9,9,9,9,9
+Suffolk County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,9,8,9,9,9,9,9,9,9,9,9,9
+Suffolk County,Levora 0.15/30 28 Day Pack,9,7,9,9,9,9,9,9,9,9,0,0
+Suffolk County,Natazia 28 Day Pack,9,8,9,9,9,9,9,9,9,9,0,0
+Suffolk County,100 ML Epirubicin Hydrochloride 2 MG/ML Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Suffolk County,Cyclophosphamide 1000 MG Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Suffolk County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,0,0
+Suffolk County,Meperidine Hydrochloride 50 MG Oral Tablet,7,7,7,7,7,7,7,7,7,7,0,0
+Suffolk County,Jolivette 28 Day Pack,6,6,6,6,6,6,6,6,6,6,0,0
+Suffolk County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,6,6,6,6,6,6,6,6,6,6,0,0
+Suffolk County,ferrous sulfate 325 MG Oral Tablet,6,0,6,6,6,6,6,6,6,6,0,0
+Suffolk County,Alendronic acid 10 MG Oral Tablet,6,0,6,6,6,6,6,6,6,6,0,0
+Suffolk County,predniSONE 5 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Suffolk County,Cefuroxime 250 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Suffolk County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Suffolk County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,4,4,4,4,4,4,4,4,4,4,0,0
+Suffolk County,Kyleena 19.5 MG Intrauterine System,4,3,4,4,4,4,4,4,4,4,0,0
+Suffolk County,Amoxicillin 500 MG Oral Tablet,4,4,4,4,4,4,4,4,4,4,0,0
+Suffolk County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,4,0,4,4,4,4,4,4,4,4,0,0
+Suffolk County,Etonogestrel 68 MG Drug Implant,4,4,4,4,4,4,4,4,4,4,0,0
+Suffolk County,Diazepam 5 MG Oral Tablet,4,3,4,4,4,4,4,4,4,4,0,0
+Suffolk County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,4,0,4,4,4,4,4,4,4,4,0,0
+Suffolk County,Loratadine 5 MG Chewable Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Suffolk County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Suffolk County,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,4,4,4,4,4,4,4,4,4,4,0,0
+Suffolk County,1 ML DOCEtaxel 20 MG/ML Injection,4,0,4,4,4,4,4,4,4,4,0,0
+Suffolk County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],3,0,3,3,3,3,3,3,3,3,3,3
+Suffolk County,Furosemide 40 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,3,3
+Suffolk County,Fexofenadine hydrochloride 30 MG Oral Tablet,3,0,3,3,3,3,3,3,3,3,0,0
+Suffolk County,Alteplase 100 MG Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Suffolk County,10 ML Furosemide 10 MG/ML Injection,3,0,3,3,3,3,3,3,3,3,3,3
+Suffolk County,Carbamazepine[Tegretol],2,1,2,2,2,2,2,2,2,2,0,0
+Suffolk County,Fexofenadine hydrochloride 60 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Suffolk County,Hydrocortisone 10 MG/ML Topical Cream,2,0,2,2,2,2,2,2,2,2,2,2
+Suffolk County,Tacrine 10 MG Oral Capsule,2,1,2,2,2,2,2,2,2,2,2,2
+Suffolk County,Vitamin B 12 5 MG/ML Injectable Solution,2,0,2,2,2,2,2,2,2,2,0,0
+Suffolk County,Ortho Tri-Cyclen 28 Day Pack,2,2,2,2,2,2,2,2,2,2,0,0
+Suffolk County,cetirizine hydrochloride 5 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Suffolk County,clonazePAM 0.25 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Suffolk County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,2,2,2,2,2,2,2,2,2,2,0,0
+Suffolk County,Naproxen 500 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Suffolk County,Tamoxifen 10 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Suffolk County,pregabalin 100 MG Oral Capsule,1,1,1,1,1,1,1,1,1,1,1,1
+Suffolk County,Methylphenidate Hydrochloride 20 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Suffolk County,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,0,0
+Suffolk County,Astemizole 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Suffolk County,Donepezil hydrochloride 23 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Suffolk County,Galantamine 4 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,1,1
+Suffolk County,Levothyroxine Sodium 0.075 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Worcester County,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],1214,1214,1214,1214,1214,1214,1214,1214,1214,1214,1214,1214
+Worcester County,Hydrochlorothiazide 25 MG Oral Tablet,838,822,838,838,838,838,838,838,838,838,838,838
+Worcester County,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],603,597,603,603,603,603,603,603,603,603,603,603
+Worcester County,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,525,515,525,525,525,525,525,525,525,525,525,525
+Worcester County,Simvastatin 10 MG Oral Tablet,410,384,410,410,410,410,410,410,410,410,410,410
+Worcester County,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,281,275,281,281,281,281,281,281,281,281,281,281
+Worcester County,amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,257,250,257,257,257,257,257,257,257,257,257,257
+Worcester County,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,223,219,223,223,223,223,223,223,223,223,223,223
+Worcester County,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,223,219,223,223,223,223,223,223,223,223,223,223
+Worcester County,Hydrochlorothiazide 12.5 MG,195,191,195,195,195,195,195,195,195,195,195,195
+Worcester County,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,100,96,100,100,100,100,100,100,100,100,0,0
+Worcester County,Cisplatin 50 MG Injection,90,90,90,90,90,90,90,90,90,90,90,90
+Worcester County,Acetaminophen 325 MG Oral Tablet,70,70,70,70,70,70,70,70,70,70,43,43
+Worcester County,Warfarin Sodium 5 MG Oral Tablet,60,56,60,60,60,60,60,60,60,60,0,0
+Worcester County,Digoxin 0.125 MG Oral Tablet,60,56,60,60,60,60,60,60,60,60,0,0
+Worcester County,PACLitaxel 100 MG Injection,59,59,59,59,59,59,59,59,59,59,59,59
+Worcester County,Simvastatin 20 MG Oral Tablet,58,53,58,58,58,58,58,58,58,58,0,0
+Worcester County,Amlodipine 5 MG Oral Tablet,55,50,55,55,55,55,55,55,55,55,0,0
+Worcester County,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,51,48,51,51,51,51,51,51,51,51,51,51
+Worcester County,Verapamil Hydrochloride 40 MG,50,46,50,50,50,50,50,50,50,50,0,0
+Worcester County,Clopidogrel 75 MG Oral Tablet,49,46,49,49,49,49,49,49,49,49,0,0
+Worcester County,Naproxen sodium 220 MG Oral Tablet,39,24,39,39,39,39,39,39,39,39,18,18
+Worcester County,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,32,31,32,32,32,32,32,32,32,32,32,32
+Worcester County,Etoposide 100 MG Injection,31,31,31,31,31,31,31,31,31,31,31,31
+Worcester County,Acetaminophen 160 MG Chewable Tablet,21,20,21,21,21,21,21,21,21,21,0,0
+Worcester County,Ibuprofen 200 MG Oral Tablet,20,20,20,20,20,20,20,20,20,20,0,0
+Worcester County,Jolivette 28 Day Pack,19,17,19,19,19,19,19,19,19,19,0,0
+Worcester County,Ibuprofen 100 MG Oral Tablet,19,19,19,19,19,19,19,19,19,19,0,0
+Worcester County,10 ML Doxorubicin Hydrochloride 2 MG/ML Injection,16,16,16,16,16,16,16,16,16,16,16,16
+Worcester County,Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet,16,16,16,16,16,16,16,16,16,16,0,0
+Worcester County,Levora 0.15/30 28 Day Pack,15,11,15,15,15,15,15,15,15,15,0,0
+Worcester County,Mirena 52 MG Intrauterine System,14,13,14,14,14,14,14,14,14,14,0,0
+Worcester County,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,14,14,14,14,14,14,14,14,14,14,14,14
+Worcester County,Amoxicillin 250 MG Oral Capsule,13,12,13,13,13,13,13,13,13,13,0,0
+Worcester County,Trinessa 28 Day Pack,12,11,12,12,12,12,12,12,12,12,0,0
+Worcester County,Furosemide 40 MG Oral Tablet,12,0,12,12,12,12,12,12,12,12,12,12
+Worcester County,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],12,0,12,12,12,12,12,12,12,12,12,12
+Worcester County,Penicillin V Potassium 250 MG Oral Tablet,12,12,12,12,12,12,12,12,12,12,12,12
+Worcester County,Yaz 28 Day Pack,11,9,11,11,11,11,11,11,11,11,0,0
+Worcester County,Errin 28 Day Pack,11,11,11,11,11,11,11,11,11,11,0,0
+Worcester County,Etonogestrel 68 MG Drug Implant,11,10,11,11,11,11,11,11,11,11,0,0
+Worcester County,10 ML Furosemide 10 MG/ML Injection,10,0,10,10,10,10,10,10,10,10,10,10
+Worcester County,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,10,10,10,10,10,10,10,10,10,10,0,0
+Worcester County,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,10,10,10,10,10,10,10,10,10,10,0,0
+Worcester County,Vitamin B 12 5 MG/ML Injectable Solution,10,0,10,10,10,10,10,10,10,10,0,0
+Worcester County,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,10,0,10,10,10,10,10,10,10,10,0,0
+Worcester County,Alendronic acid 10 MG Oral Tablet,9,0,9,9,9,9,9,9,9,9,0,0
+Worcester County,Seasonique 91 Day Pack,9,9,9,9,9,9,9,9,9,9,0,0
+Worcester County,Phenazopyridine hydrochloride 100 MG Oral Tablet,9,9,9,9,9,9,9,9,9,9,9,9
+Worcester County,Nitrofurantoin 5 MG/ML Oral Suspension,9,9,9,9,9,9,9,9,9,9,9,9
+Worcester County,Natazia 28 Day Pack,9,7,9,9,9,9,9,9,9,9,0,0
+Worcester County,Camila 28 Day Pack,9,9,9,9,9,9,9,9,9,9,0,0
+Worcester County,100 ML Epirubicin Hydrochloride 2 MG/ML Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Worcester County,1 ML medroxyprogesterone acetate 150 MG/ML Injection,8,7,8,8,8,8,8,8,8,8,0,0
+Worcester County,Paclitaxel 100 MG Injection,8,8,8,8,8,8,8,8,8,8,8,8
+Worcester County,Penicillin V Potassium 500 MG Oral Tablet,8,8,8,8,8,8,8,8,8,8,8,8
+Worcester County,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,7,6,7,7,7,7,7,7,7,7,0,0
+Worcester County,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,7,0,7,7,7,7,7,7,7,7,0,0
+Worcester County,1 ML DOCEtaxel 20 MG/ML Injection,7,0,7,7,7,7,7,7,7,7,0,0
+Worcester County,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,6,0,6,6,6,6,6,6,6,6,0,0
+Worcester County,Cefuroxime 250 MG Oral Tablet,6,6,6,6,6,6,6,6,6,6,0,0
+Worcester County,Aspirin 81 MG Oral Tablet,5,5,5,5,5,5,5,5,5,5,0,0
+Worcester County,Diazepam 5 MG Oral Tablet,5,3,5,5,5,5,5,5,5,5,0,0
+Worcester County,ferrous sulfate 325 MG Oral Tablet,5,0,5,5,5,5,5,5,5,5,0,0
+Worcester County,Meperidine Hydrochloride 50 MG Oral Tablet,5,4,5,5,5,5,5,5,5,5,0,0
+Worcester County,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,4,4,4,4,4,4,4,4,4,4,0,0
+Worcester County,Loratadine 5 MG Chewable Tablet,4,0,4,4,4,4,4,4,4,4,0,0
+Worcester County,10 ML oxaliplatin 5 MG/ML Injection,4,0,4,4,4,4,4,4,4,4,4,4
+Worcester County,Liletta 52 MG Intrauterine System,4,2,4,4,4,4,4,4,4,4,0,0
+Worcester County,Carbamazepine[Tegretol],4,3,4,4,4,4,4,4,4,4,0,0
+Worcester County,Leucovorin 100 MG Injection,4,0,4,4,4,4,4,4,4,4,4,4
+Worcester County,predniSONE 5 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Worcester County,clonazePAM 0.25 MG Oral Tablet,3,3,3,3,3,3,3,3,3,3,0,0
+Worcester County,Alteplase 100 MG Injection,3,3,3,3,3,3,3,3,3,3,0,0
+Worcester County,24hr nicotine transdermal patch,3,0,3,3,3,3,3,3,3,3,0,0
+Worcester County,Fexofenadine hydrochloride 30 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Worcester County,Amoxicillin 500 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Worcester County,Astemizole 10 MG Oral Tablet,2,0,2,2,2,2,2,2,2,2,0,0
+Worcester County,Atorvastatin 80 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Worcester County,Atropine Sulfate 1 MG/ML Injectable Solution,2,2,2,2,2,2,2,2,2,2,0,0
+Worcester County,Captopril 25 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,0,0
+Worcester County,Chlorpheniramine Maleate 2 MG/ML Oral Solution,2,0,2,2,2,2,2,2,2,2,0,0
+Worcester County,Galantamine 4 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Worcester County,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,2,2,2,2,2,2,2,2,2,2,2,2
+Worcester County,Tamoxifen 10 MG Oral Tablet,2,2,2,2,2,2,2,2,2,2,2,2
+Worcester County,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,2,2,2,2,2,2,2,2,2,2,0,0
+Worcester County,1 ML Epinephrine 1 MG/ML Injection,2,2,2,2,2,2,2,2,2,2,0,0
+Worcester County,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,1,1,1,1,1,1,1,1,1,0,0
+Worcester County,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Worcester County,5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection,1,1,1,1,1,1,1,1,1,1,1,1
+Worcester County,5 ML fulvestrant 50 MG/ML Prefilled Syringe,1,1,1,1,1,1,1,1,1,1,1,1
+Worcester County,Methylphenidate Hydrochloride 20 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1
+Worcester County,Ortho Tri-Cyclen 28 Day Pack,1,1,1,1,1,1,1,1,1,1,0,0
+Worcester County,Penicillin G 375 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Worcester County,atomoxetine 100 MG Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Worcester County,cetirizine hydrochloride 10 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Worcester County,cetirizine hydrochloride 5 MG Oral Tablet,1,0,1,1,1,1,1,1,1,1,0,0
+Worcester County,Memantine hydrochloride 2 MG/ML Oral Solution,1,0,1,1,1,1,1,1,1,1,1,1
+Worcester County,Kyleena 19.5 MG Intrauterine System,1,0,1,1,1,1,1,1,1,1,0,0
+Worcester County,Ampicillin 100 MG/ML Injectable Solution,1,1,1,1,1,1,1,1,1,1,0,0
+Worcester County,FLUoxetine 20 MG Oral Capsule,1,0,1,1,1,1,1,1,1,1,1,1
+Worcester County,Hydrocortisone 10 MG/ML Topical Cream,1,0,1,1,1,1,1,1,1,1,1,1
+Worcester County,ribociclib 200 MG Oral Tablet,1,1,1,1,1,1,1,1,1,1,1,1

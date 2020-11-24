@@ -1,0 +1,315 @@
+COUNTY,DESCRIPTION,Id,START,STOP,PATIENT,ENCOUNTER,CODE,REASONCODE,REASONDESCRIPTION
+Barnstable County,Respiratory therapy,28,28,28,28,28,28,28,28
+Barnstable County,Diabetes self management plan,18,18,0,18,18,18,18,18
+Barnstable County,Lifestyle education regarding hypertension,12,12,0,12,12,12,12,12
+Barnstable County,Routine antenatal care,9,9,7,9,9,9,9,9
+Barnstable County,Care plan (record artifact),8,8,0,8,8,8,8,8
+Barnstable County,Physical therapy procedure,8,8,8,8,8,8,8,8
+Barnstable County,Hyperlipidemia clinical management plan,8,8,0,8,8,8,8,8
+Barnstable County,Heart failure self management plan,7,7,0,7,7,7,7,7
+Barnstable County,Musculoskeletal care,7,7,5,7,7,7,7,7
+Barnstable County,Inpatient care plan (record artifact),6,6,0,6,6,6,0,0
+Barnstable County,Wound care,6,6,6,6,6,6,6,6
+Barnstable County,Cancer care plan,6,6,1,6,6,6,6,6
+Barnstable County,Head injury rehabilitation,6,6,6,6,6,6,6,6
+Barnstable County,Fracture care,6,6,6,6,6,6,6,6
+Barnstable County,Asthma self management,5,5,0,5,5,5,5,5
+Barnstable County,Demential management,5,5,0,5,5,5,5,5
+Barnstable County,Urinary tract infection care,4,4,4,4,4,4,4,4
+Barnstable County,Chronic obstructive pulmonary disease clinical management plan,3,3,0,3,3,3,3,3
+Barnstable County,Care Plan,3,3,0,3,3,3,2,2
+Barnstable County,Self-care interventions (procedure),3,3,0,3,3,3,0,0
+Barnstable County,Major surgery care management,2,2,2,2,2,2,2,2
+Barnstable County,Burn care,1,1,1,1,1,1,1,1
+Barnstable County,Minor surgery care management (procedure),1,1,1,1,1,1,0,0
+Barnstable County,Terminal care,1,1,0,1,1,1,1,1
+Barnstable County,Allergic disorder monitoring,1,1,1,1,1,1,0,0
+Berkshire County,Physical therapy procedure,8,8,8,8,8,8,8,8
+Berkshire County,Diabetes self management plan,7,7,0,7,7,7,7,7
+Berkshire County,Respiratory therapy,7,7,6,7,7,7,7,7
+Berkshire County,Fracture care,6,6,6,6,6,6,6,6
+Berkshire County,Lifestyle education regarding hypertension,6,6,0,6,6,6,6,6
+Berkshire County,Musculoskeletal care,6,6,4,6,6,6,6,6
+Berkshire County,Head injury rehabilitation,4,4,4,4,4,4,4,4
+Berkshire County,Hyperlipidemia clinical management plan,4,4,0,4,4,4,4,4
+Berkshire County,Self-care interventions (procedure),3,3,0,3,3,3,0,0
+Berkshire County,Urinary tract infection care,3,3,3,3,3,3,3,3
+Berkshire County,Inpatient care plan (record artifact),2,2,1,2,2,2,0,0
+Berkshire County,Wound care,2,2,2,2,2,2,2,2
+Berkshire County,Asthma self management,2,2,0,2,2,2,2,2
+Berkshire County,Burn care,2,2,2,2,2,2,2,2
+Berkshire County,Heart failure self management plan,1,1,0,1,1,1,1,1
+Berkshire County,Cancer care plan,1,1,0,1,1,1,1,1
+Berkshire County,Care plan (record artifact),1,1,0,1,1,1,1,1
+Berkshire County,Major surgery care management,1,1,1,1,1,1,1,1
+Berkshire County,Chronic obstructive pulmonary disease clinical management plan,1,1,0,1,1,1,1,1
+Bristol County,Respiratory therapy,64,64,60,64,64,64,64,64
+Bristol County,Routine antenatal care,39,39,37,39,39,39,39,39
+Bristol County,Diabetes self management plan,30,30,0,30,30,30,30,30
+Bristol County,Lifestyle education regarding hypertension,26,26,0,26,26,26,26,26
+Bristol County,Self-care interventions (procedure),25,25,0,25,25,25,0,0
+Bristol County,Wound care,23,23,23,23,23,23,23,23
+Bristol County,Musculoskeletal care,20,20,6,20,20,20,20,20
+Bristol County,Fracture care,19,19,17,19,19,19,19,19
+Bristol County,Physical therapy procedure,19,19,19,19,19,19,19,19
+Bristol County,Hyperlipidemia clinical management plan,11,11,0,11,11,11,11,11
+Bristol County,Head injury rehabilitation,10,10,10,10,10,10,10,10
+Bristol County,Care plan (record artifact),10,10,0,10,10,10,10,10
+Bristol County,Burn care,6,6,6,6,6,6,6,6
+Bristol County,Cancer care plan,5,5,2,5,5,5,5,5
+Bristol County,Minor surgery care management (procedure),5,5,5,5,5,5,0,0
+Bristol County,Chronic obstructive pulmonary disease clinical management plan,4,4,0,4,4,4,4,4
+Bristol County,Asthma self management,4,4,0,4,4,4,4,4
+Bristol County,Urinary tract infection care,4,4,4,4,4,4,4,4
+Bristol County,Overactivity/inattention behavior management,3,3,1,3,3,3,3,3
+Bristol County,Major surgery care management,2,2,2,2,2,2,2,2
+Bristol County,Demential management,2,2,0,2,2,2,2,2
+Bristol County,Allergic disorder monitoring,2,2,2,2,2,2,0,0
+Bristol County,Skin condition care,1,1,1,1,1,1,1,1
+Bristol County,Psychiatry care plan,1,1,0,1,1,1,1,1
+Bristol County,Mental health care plan,1,1,0,1,1,1,1,1
+Bristol County,Heart failure self management plan,1,1,0,1,1,1,1,1
+Dukes County,Diabetes self management plan,5,5,0,5,5,5,5,5
+Dukes County,Cancer care plan,4,4,0,4,4,4,4,4
+Dukes County,Fracture care,3,3,3,3,3,3,3,3
+Dukes County,Care Plan,2,2,0,2,2,2,1,1
+Dukes County,Lifestyle education regarding hypertension,1,1,0,1,1,1,1,1
+Dukes County,Hyperlipidemia clinical management plan,1,1,0,1,1,1,1,1
+Dukes County,Physical therapy procedure,1,1,1,1,1,1,1,1
+Dukes County,Demential management,1,1,0,1,1,1,1,1
+Dukes County,Self-care interventions (procedure),1,1,0,1,1,1,0,0
+Dukes County,Terminal care,1,1,0,1,1,1,1,1
+Dukes County,Wound care,1,1,1,1,1,1,1,1
+Essex County,Respiratory therapy,56,56,56,56,56,56,56,56
+Essex County,Routine antenatal care,37,37,34,37,37,37,37,37
+Essex County,Diabetes self management plan,36,36,0,36,36,36,36,36
+Essex County,Lifestyle education regarding hypertension,29,29,0,29,29,29,29,29
+Essex County,Physical therapy procedure,23,23,23,23,23,23,23,23
+Essex County,Fracture care,15,15,15,15,15,15,15,15
+Essex County,Hyperlipidemia clinical management plan,14,14,0,14,14,14,14,14
+Essex County,Wound care,14,14,14,14,14,14,14,14
+Essex County,Self-care interventions (procedure),13,13,0,13,13,13,0,0
+Essex County,Musculoskeletal care,10,10,3,10,10,10,10,10
+Essex County,Head injury rehabilitation,9,9,9,9,9,9,9,9
+Essex County,Inpatient care plan (record artifact),7,7,3,7,7,7,0,0
+Essex County,Urinary tract infection care,4,4,4,4,4,4,4,4
+Essex County,Heart failure self management plan,4,4,0,4,4,4,4,4
+Essex County,Chronic obstructive pulmonary disease clinical management plan,4,4,0,4,4,4,4,4
+Essex County,Burn care,4,4,4,4,4,4,4,4
+Essex County,Cancer care plan,4,4,1,4,4,4,4,4
+Essex County,Minor surgery care management (procedure),3,3,3,3,3,3,0,0
+Essex County,Care plan (record artifact),3,3,0,3,3,3,3,3
+Essex County,Major surgery care management,2,2,2,2,2,2,2,2
+Essex County,Asthma self management,2,2,0,2,2,2,2,2
+Essex County,Overactivity/inattention behavior management,2,2,2,2,2,2,2,2
+Essex County,Demential management,2,2,0,2,2,2,2,2
+Essex County,Care Plan,2,2,0,2,2,2,0,0
+Essex County,Psychiatry care plan,1,1,0,1,1,1,1,1
+Essex County,Major depressive disorder clinical management plan,1,1,0,1,1,1,1,1
+Essex County,Mental health care plan,1,1,0,1,1,1,1,1
+Essex County,Skin condition care,1,1,0,1,1,1,1,1
+Essex County,Terminal care,1,1,0,1,1,1,1,1
+Franklin County,Respiratory therapy,9,9,8,9,9,9,9,9
+Franklin County,Lifestyle education regarding hypertension,5,5,0,5,5,5,5,5
+Franklin County,Musculoskeletal care,5,5,4,5,5,5,5,5
+Franklin County,Routine antenatal care,5,5,4,5,5,5,5,5
+Franklin County,Diabetes self management plan,3,3,0,3,3,3,3,3
+Franklin County,Physical therapy procedure,3,3,3,3,3,3,3,3
+Franklin County,Wound care,3,3,3,3,3,3,3,3
+Franklin County,Care plan (record artifact),2,2,0,2,2,2,2,2
+Franklin County,Fracture care,2,2,2,2,2,2,2,2
+Franklin County,Self-care interventions (procedure),2,2,0,2,2,2,0,0
+Franklin County,Asthma self management,1,1,0,1,1,1,1,1
+Franklin County,Burn care,1,1,1,1,1,1,1,1
+Franklin County,Head injury rehabilitation,1,1,1,1,1,1,1,1
+Franklin County,Hyperlipidemia clinical management plan,1,1,0,1,1,1,1,1
+Hampden County,Respiratory therapy,53,53,50,53,53,53,53,53
+Hampden County,Routine antenatal care,22,22,18,22,22,22,22,22
+Hampden County,Physical therapy procedure,21,21,21,21,21,21,21,21
+Hampden County,Diabetes self management plan,20,20,0,20,20,20,20,20
+Hampden County,Lifestyle education regarding hypertension,20,20,0,20,20,20,20,20
+Hampden County,Self-care interventions (procedure),12,12,0,12,12,12,0,0
+Hampden County,Musculoskeletal care,10,10,5,10,10,10,10,10
+Hampden County,Fracture care,9,9,9,9,9,9,9,9
+Hampden County,Head injury rehabilitation,9,9,9,9,9,9,9,9
+Hampden County,Hyperlipidemia clinical management plan,6,6,0,6,6,6,6,6
+Hampden County,Wound care,6,6,6,6,6,6,6,6
+Hampden County,Inpatient care plan (record artifact),6,6,0,6,6,6,0,0
+Hampden County,Heart failure self management plan,6,6,0,6,6,6,6,6
+Hampden County,Urinary tract infection care,6,6,6,6,6,6,6,6
+Hampden County,Care plan (record artifact),4,4,0,4,4,4,4,4
+Hampden County,Minor surgery care management (procedure),4,4,4,4,4,4,0,0
+Hampden County,Skin condition care,3,3,0,3,3,3,3,3
+Hampden County,Asthma self management,3,3,0,3,3,3,3,3
+Hampden County,Allergic disorder monitoring,2,2,2,2,2,2,0,0
+Hampden County,Cancer care plan,1,1,1,1,1,1,1,1
+Hampden County,Care Plan,1,1,0,1,1,1,1,1
+Hampden County,Major surgery care management,1,1,1,1,1,1,1,1
+Hampden County,Overactivity/inattention behavior management,1,1,1,1,1,1,1,1
+Hampshire County,Respiratory therapy,32,32,29,32,32,32,32,32
+Hampshire County,Diabetes self management plan,17,17,0,17,17,17,17,17
+Hampshire County,Lifestyle education regarding hypertension,13,13,0,13,13,13,13,13
+Hampshire County,Self-care interventions (procedure),12,12,0,12,12,12,0,0
+Hampshire County,Musculoskeletal care,8,8,4,8,8,8,8,8
+Hampshire County,Routine antenatal care,8,8,8,8,8,8,8,8
+Hampshire County,Wound care,6,6,6,6,6,6,6,6
+Hampshire County,Hyperlipidemia clinical management plan,4,4,0,4,4,4,4,4
+Hampshire County,Fracture care,4,4,4,4,4,4,4,4
+Hampshire County,Physical therapy procedure,4,4,4,4,4,4,4,4
+Hampshire County,Heart failure self management plan,3,3,0,3,3,3,3,3
+Hampshire County,Terminal care,3,3,0,3,3,3,3,3
+Hampshire County,Inpatient care plan (record artifact),3,3,0,3,3,3,0,0
+Hampshire County,Minor surgery care management (procedure),2,2,2,2,2,2,0,0
+Hampshire County,Allergic disorder monitoring,2,2,2,2,2,2,0,0
+Hampshire County,Psychiatry care plan,1,1,0,1,1,1,1,1
+Hampshire County,Skin condition care,1,1,1,1,1,1,1,1
+Hampshire County,Urinary tract infection care,1,1,1,1,1,1,1,1
+Hampshire County,Head injury rehabilitation,1,1,1,1,1,1,1,1
+Hampshire County,Care plan (record artifact),1,1,0,1,1,1,1,1
+Hampshire County,Asthma self management,1,1,0,1,1,1,1,1
+Middlesex County,Respiratory therapy,139,139,131,139,139,139,139,139
+Middlesex County,Routine antenatal care,96,96,87,96,96,96,96,96
+Middlesex County,Lifestyle education regarding hypertension,71,71,0,71,71,71,71,71
+Middlesex County,Diabetes self management plan,64,64,0,64,64,64,64,64
+Middlesex County,Physical therapy procedure,56,56,55,56,56,56,56,56
+Middlesex County,Self-care interventions (procedure),46,46,0,46,46,46,0,0
+Middlesex County,Wound care,45,45,45,45,45,45,45,45
+Middlesex County,Musculoskeletal care,38,38,15,38,38,38,38,38
+Middlesex County,Fracture care,33,33,33,33,33,33,33,33
+Middlesex County,Hyperlipidemia clinical management plan,24,24,0,24,24,24,24,24
+Middlesex County,Urinary tract infection care,23,23,23,23,23,23,23,23
+Middlesex County,Head injury rehabilitation,22,22,21,22,22,22,22,22
+Middlesex County,Asthma self management,16,16,0,16,16,16,16,16
+Middlesex County,Inpatient care plan (record artifact),12,12,2,12,12,12,0,0
+Middlesex County,Heart failure self management plan,12,12,0,12,12,12,12,12
+Middlesex County,Allergic disorder monitoring,11,11,9,11,11,11,0,0
+Middlesex County,Burn care,9,9,9,9,9,9,9,9
+Middlesex County,Care plan (record artifact),8,8,0,8,8,8,8,8
+Middlesex County,Skin condition care,7,7,1,7,7,7,7,7
+Middlesex County,Demential management,6,6,0,6,6,6,6,6
+Middlesex County,Cancer care plan,5,5,0,5,5,5,5,5
+Middlesex County,Chronic obstructive pulmonary disease clinical management plan,5,5,0,5,5,5,5,5
+Middlesex County,Minor surgery care management (procedure),4,4,4,4,4,4,0,0
+Middlesex County,Overactivity/inattention behavior management,3,3,3,3,3,3,3,3
+Middlesex County,Psychiatry care plan,3,3,0,3,3,3,3,3
+Middlesex County,Care Plan,3,3,0,3,3,3,0,0
+Middlesex County,Terminal care,3,3,0,3,3,3,3,3
+Middlesex County,Major depressive disorder clinical management plan,1,1,0,1,1,1,1,1
+Middlesex County,Major surgery care management,1,1,1,1,1,1,1,1
+Middlesex County,Mental health care plan,1,1,0,1,1,1,1,1
+Nantucket County,Respiratory therapy,4,4,4,4,4,4,4,4
+Nantucket County,Routine antenatal care,4,4,3,4,4,4,4,4
+Nantucket County,Lifestyle education regarding hypertension,1,1,0,1,1,1,1,1
+Nantucket County,Wound care,1,1,1,1,1,1,1,1
+Norfolk County,Respiratory therapy,67,67,64,67,67,67,67,67
+Norfolk County,Routine antenatal care,61,61,54,61,61,61,61,61
+Norfolk County,Diabetes self management plan,35,35,0,35,35,35,35,35
+Norfolk County,Lifestyle education regarding hypertension,32,32,0,32,32,32,32,32
+Norfolk County,Physical therapy procedure,28,28,27,28,28,28,28,28
+Norfolk County,Self-care interventions (procedure),24,24,0,24,24,24,0,0
+Norfolk County,Wound care,23,23,23,23,23,23,23,23
+Norfolk County,Musculoskeletal care,20,20,10,20,20,20,20,20
+Norfolk County,Fracture care,16,16,16,16,16,16,16,16
+Norfolk County,Hyperlipidemia clinical management plan,14,14,0,14,14,14,14,14
+Norfolk County,Urinary tract infection care,9,9,9,9,9,9,9,9
+Norfolk County,Asthma self management,9,9,0,9,9,9,9,9
+Norfolk County,Head injury rehabilitation,9,9,9,9,9,9,9,9
+Norfolk County,Inpatient care plan (record artifact),7,7,0,7,7,7,0,0
+Norfolk County,Heart failure self management plan,7,7,0,7,7,7,7,7
+Norfolk County,Burn care,6,6,6,6,6,6,6,6
+Norfolk County,Skin condition care,5,5,3,5,5,5,5,5
+Norfolk County,Demential management,5,5,0,5,5,5,5,5
+Norfolk County,Chronic obstructive pulmonary disease clinical management plan,5,5,0,5,5,5,5,5
+Norfolk County,Allergic disorder monitoring,4,4,2,4,4,4,0,0
+Norfolk County,Cancer care plan,4,4,0,4,4,4,4,4
+Norfolk County,Care Plan,2,2,0,2,2,2,1,1
+Norfolk County,Overactivity/inattention behavior management,2,2,2,2,2,2,2,2
+Norfolk County,Minor surgery care management (procedure),2,2,2,2,2,2,0,0
+Norfolk County,Care plan (record artifact),2,2,0,2,2,2,2,2
+Norfolk County,Terminal care,1,1,0,1,1,1,1,1
+Norfolk County,Dialysis care plan (record artifact),1,1,0,1,1,1,0,0
+Norfolk County,Major surgery care management,1,1,1,1,1,1,1,1
+Norfolk County,Spinal cord injury rehabilitation,1,1,1,1,1,1,1,1
+Plymouth County,Respiratory therapy,44,44,41,44,44,44,44,44
+Plymouth County,Routine antenatal care,25,25,21,25,25,25,25,25
+Plymouth County,Diabetes self management plan,19,19,0,19,19,19,19,19
+Plymouth County,Lifestyle education regarding hypertension,19,19,0,19,19,19,19,19
+Plymouth County,Musculoskeletal care,12,12,5,12,12,12,12,12
+Plymouth County,Hyperlipidemia clinical management plan,11,11,0,11,11,11,11,11
+Plymouth County,Fracture care,9,9,9,9,9,9,9,9
+Plymouth County,Wound care,9,9,9,9,9,9,9,9
+Plymouth County,Physical therapy procedure,9,9,9,9,9,9,9,9
+Plymouth County,Self-care interventions (procedure),7,7,0,7,7,7,0,0
+Plymouth County,Head injury rehabilitation,5,5,5,5,5,5,5,5
+Plymouth County,Asthma self management,4,4,0,4,4,4,4,4
+Plymouth County,Overactivity/inattention behavior management,3,3,2,3,3,3,3,3
+Plymouth County,Urinary tract infection care,3,3,3,3,3,3,3,3
+Plymouth County,Care plan (record artifact),2,2,0,2,2,2,2,2
+Plymouth County,Care Plan,2,2,0,2,2,2,0,0
+Plymouth County,Burn care,2,2,2,2,2,2,2,2
+Plymouth County,Demential management,2,2,0,2,2,2,2,2
+Plymouth County,Minor surgery care management (procedure),2,2,2,2,2,2,0,0
+Plymouth County,Inpatient care plan (record artifact),1,1,0,1,1,1,0,0
+Plymouth County,Heart failure self management plan,1,1,0,1,1,1,1,1
+Plymouth County,Chronic obstructive pulmonary disease clinical management plan,1,1,0,1,1,1,1,1
+Plymouth County,Cancer care plan,1,1,0,1,1,1,1,1
+Plymouth County,Allergic disorder monitoring,1,1,1,1,1,1,0,0
+Plymouth County,Terminal care,1,1,0,1,1,1,1,1
+Suffolk County,Respiratory therapy,66,66,65,66,66,66,66,66
+Suffolk County,Routine antenatal care,42,42,41,42,42,42,42,42
+Suffolk County,Diabetes self management plan,37,37,0,37,37,37,37,37
+Suffolk County,Lifestyle education regarding hypertension,30,30,0,30,30,30,30,30
+Suffolk County,Physical therapy procedure,24,24,24,24,24,24,24,24
+Suffolk County,Fracture care,22,22,22,22,22,22,22,22
+Suffolk County,Musculoskeletal care,20,20,9,20,20,20,20,20
+Suffolk County,Self-care interventions (procedure),20,20,0,20,20,20,0,0
+Suffolk County,Wound care,19,19,19,19,19,19,19,19
+Suffolk County,Head injury rehabilitation,15,15,15,15,15,15,15,15
+Suffolk County,Hyperlipidemia clinical management plan,12,12,0,12,12,12,12,12
+Suffolk County,Urinary tract infection care,10,10,10,10,10,10,10,10
+Suffolk County,Asthma self management,6,6,1,6,6,6,6,6
+Suffolk County,Minor surgery care management (procedure),5,5,5,5,5,5,0,0
+Suffolk County,Burn care,5,5,5,5,5,5,5,5
+Suffolk County,Cancer care plan,4,4,0,4,4,4,4,4
+Suffolk County,Care Plan,4,4,0,4,4,4,0,0
+Suffolk County,Care plan (record artifact),4,4,0,4,4,4,4,4
+Suffolk County,Demential management,3,3,0,3,3,3,3,3
+Suffolk County,Overactivity/inattention behavior management,3,3,3,3,3,3,3,3
+Suffolk County,Heart failure self management plan,3,3,0,3,3,3,3,3
+Suffolk County,Inpatient care plan (record artifact),3,3,0,3,3,3,0,0
+Suffolk County,Terminal care,2,2,0,2,2,2,2,2
+Suffolk County,Skin condition care,2,2,0,2,2,2,2,2
+Suffolk County,Allergic disorder monitoring,2,2,1,2,2,2,0,0
+Suffolk County,Dialysis care plan (record artifact),1,1,0,1,1,1,0,0
+Suffolk County,Mental health care plan,1,1,0,1,1,1,1,1
+Suffolk County,Chronic obstructive pulmonary disease clinical management plan,1,1,0,1,1,1,1,1
+Worcester County,Respiratory therapy,64,64,63,64,64,64,64,64
+Worcester County,Routine antenatal care,49,49,43,49,49,49,49,49
+Worcester County,Diabetes self management plan,48,48,0,48,48,48,48,48
+Worcester County,Lifestyle education regarding hypertension,37,37,0,37,37,37,37,37
+Worcester County,Musculoskeletal care,31,31,13,31,31,31,31,31
+Worcester County,Wound care,27,27,27,27,27,27,27,27
+Worcester County,Physical therapy procedure,26,26,26,26,26,26,26,26
+Worcester County,Hyperlipidemia clinical management plan,26,26,0,26,26,26,26,26
+Worcester County,Fracture care,25,25,25,25,25,25,25,25
+Worcester County,Self-care interventions (procedure),21,21,0,21,21,21,0,0
+Worcester County,Cancer care plan,14,14,3,14,14,14,14,14
+Worcester County,Inpatient care plan (record artifact),12,12,2,12,12,12,0,0
+Worcester County,Heart failure self management plan,12,12,0,12,12,12,12,12
+Worcester County,Head injury rehabilitation,11,11,10,11,11,11,11,11
+Worcester County,Urinary tract infection care,9,9,9,9,9,9,9,9
+Worcester County,Care Plan,5,5,0,5,5,5,3,3
+Worcester County,Skin condition care,5,5,3,5,5,5,5,5
+Worcester County,Major surgery care management,5,5,5,5,5,5,5,5
+Worcester County,Allergic disorder monitoring,4,4,4,4,4,4,0,0
+Worcester County,Asthma self management,4,4,0,4,4,4,4,4
+Worcester County,Demential management,3,3,0,3,3,3,3,3
+Worcester County,Minor surgery care management (procedure),3,3,3,3,3,3,0,0
+Worcester County,Chronic obstructive pulmonary disease clinical management plan,3,3,0,3,3,3,3,3
+Worcester County,Overactivity/inattention behavior management,3,3,2,3,3,3,3,3
+Worcester County,Terminal care,2,2,0,2,2,2,2,2
+Worcester County,Burn care,1,1,1,1,1,1,1,1
+Worcester County,Care plan (record artifact),1,1,0,1,1,1,1,1
+Worcester County,Mental health care plan,1,1,0,1,1,1,1,1
+Worcester County,Dialysis care plan (record artifact),1,1,0,1,1,1,0,0
+Worcester County,Psychiatry care plan,1,1,0,1,1,1,1,1

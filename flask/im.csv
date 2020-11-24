@@ -1,0 +1,217 @@
+COUNTY,DESCRIPTION,DATE,PATIENT,ENCOUNTER,CODE,BASE_COST
+Barnstable County,Influenza  seasonal  injectable  preservative free,418,418,418,418,418
+Barnstable County,Td (adult) preservative free,34,34,34,34,34
+Barnstable County,HPV  quadrivalent,17,17,17,17,17
+Barnstable County,meningococcal MCV4P,15,15,15,15,15
+Barnstable County,Pneumococcal conjugate PCV 13,9,9,9,9,9
+Barnstable County,Hep B  adult,8,8,8,8,8
+Barnstable County,Hep A  adult,6,6,6,6,6
+Barnstable County,pneumococcal polysaccharide vaccine  23 valent,6,6,6,6,6
+Barnstable County,zoster,6,6,6,6,6
+Barnstable County,Tdap,5,5,5,5,5
+Barnstable County,IPV,3,3,3,3,3
+Barnstable County,DTaP,3,3,3,3,3
+Barnstable County,rotavirus  monovalent,2,2,2,2,2
+Barnstable County,Hib (PRP-OMP),2,2,2,2,2
+Barnstable County,Hep B  adolescent or pediatric,2,2,2,2,2
+Barnstable County,varicella,1,1,1,1,1
+Barnstable County,MMR,1,1,1,1,1
+Berkshire County,Influenza  seasonal  injectable  preservative free,200,200,200,200,200
+Berkshire County,Pneumococcal conjugate PCV 13,20,20,20,20,20
+Berkshire County,DTaP,17,17,17,17,17
+Berkshire County,Td (adult) preservative free,14,14,14,14,14
+Berkshire County,IPV,14,14,14,14,14
+Berkshire County,Hep B  adolescent or pediatric,12,12,12,12,12
+Berkshire County,Hib (PRP-OMP),12,12,12,12,12
+Berkshire County,rotavirus  monovalent,8,8,8,8,8
+Berkshire County,Hep A  ped/adol  2 dose,7,7,7,7,7
+Berkshire County,varicella,6,6,6,6,6
+Berkshire County,MMR,6,6,6,6,6
+Berkshire County,zoster,5,5,5,5,5
+Berkshire County,HPV  quadrivalent,5,5,5,5,5
+Berkshire County,pneumococcal polysaccharide vaccine  23 valent,4,4,4,4,4
+Berkshire County,Hep A  adult,4,4,4,4,4
+Berkshire County,meningococcal MCV4P,3,3,3,3,3
+Berkshire County,Hep B  adult,2,2,2,2,2
+Berkshire County,Tdap,1,1,1,1,1
+Bristol County,Influenza  seasonal  injectable  preservative free,833,833,833,833,833
+Bristol County,Td (adult) preservative free,85,85,85,85,85
+Bristol County,meningococcal MCV4P,44,44,44,44,44
+Bristol County,Pneumococcal conjugate PCV 13,44,44,44,44,44
+Bristol County,HPV  quadrivalent,33,33,33,33,33
+Bristol County,Hep B  adult,31,31,31,31,31
+Bristol County,DTaP,30,30,30,30,30
+Bristol County,zoster,27,27,27,27,27
+Bristol County,IPV,26,26,26,26,26
+Bristol County,Hib (PRP-OMP),19,19,19,19,19
+Bristol County,Hep B  adolescent or pediatric,18,18,18,18,18
+Bristol County,Hep A  adult,17,17,17,17,17
+Bristol County,varicella,12,12,12,12,12
+Bristol County,rotavirus  monovalent,12,12,12,12,12
+Bristol County,pneumococcal polysaccharide vaccine  23 valent,12,12,12,12,12
+Bristol County,MMR,12,12,12,12,12
+Bristol County,Hep A  ped/adol  2 dose,11,11,11,11,11
+Bristol County,Tdap,9,9,9,9,9
+Dukes County,Influenza  seasonal  injectable  preservative free,43,43,43,43,43
+Dukes County,Td (adult) preservative free,1,1,1,1,1
+Essex County,Influenza  seasonal  injectable  preservative free,881,881,881,881,881
+Essex County,Td (adult) preservative free,81,81,81,81,81
+Essex County,Pneumococcal conjugate PCV 13,69,69,69,69,69
+Essex County,DTaP,66,66,66,66,66
+Essex County,IPV,51,51,51,51,51
+Essex County,meningococcal MCV4P,45,45,45,45,45
+Essex County,Hep B  adolescent or pediatric,43,43,43,43,43
+Essex County,Hib (PRP-OMP),42,42,42,42,42
+Essex County,zoster,36,36,36,36,36
+Essex County,HPV  quadrivalent,32,32,32,32,32
+Essex County,rotavirus  monovalent,28,28,28,28,28
+Essex County,Hep B  adult,26,26,26,26,26
+Essex County,Hep A  ped/adol  2 dose,26,26,26,26,26
+Essex County,Hep A  adult,25,25,25,25,25
+Essex County,varicella,22,22,22,22,22
+Essex County,MMR,22,22,22,22,22
+Essex County,Tdap,12,12,12,12,12
+Essex County,pneumococcal polysaccharide vaccine  23 valent,9,9,9,9,9
+Franklin County,Influenza  seasonal  injectable  preservative free,130,130,130,130,130
+Franklin County,Td (adult) preservative free,10,10,10,10,10
+Franklin County,Pneumococcal conjugate PCV 13,6,6,6,6,6
+Franklin County,HPV  quadrivalent,6,6,6,6,6
+Franklin County,Hep A  adult,6,6,6,6,6
+Franklin County,Hib (PRP-OMP),5,5,5,5,5
+Franklin County,meningococcal MCV4P,5,5,5,5,5
+Franklin County,pneumococcal polysaccharide vaccine  23 valent,4,4,4,4,4
+Franklin County,IPV,4,4,4,4,4
+Franklin County,DTaP,3,3,3,3,3
+Franklin County,Hep B  adolescent or pediatric,3,3,3,3,3
+Franklin County,Hep B  adult,3,3,3,3,3
+Franklin County,Tdap,2,2,2,2,2
+Franklin County,rotavirus  monovalent,2,2,2,2,2
+Franklin County,MMR,1,1,1,1,1
+Hampden County,Influenza  seasonal  injectable  preservative free,629,629,629,629,629
+Hampden County,Pneumococcal conjugate PCV 13,59,59,59,59,59
+Hampden County,DTaP,53,53,53,53,53
+Hampden County,Td (adult) preservative free,52,52,52,52,52
+Hampden County,IPV,43,43,43,43,43
+Hampden County,HPV  quadrivalent,35,35,35,35,35
+Hampden County,Hib (PRP-OMP),33,33,33,33,33
+Hampden County,Hep B  adolescent or pediatric,31,31,31,31,31
+Hampden County,meningococcal MCV4P,28,28,28,28,28
+Hampden County,Hep A  adult,28,28,28,28,28
+Hampden County,MMR,23,23,23,23,23
+Hampden County,Hep A  ped/adol  2 dose,23,23,23,23,23
+Hampden County,varicella,22,22,22,22,22
+Hampden County,rotavirus  monovalent,20,20,20,20,20
+Hampden County,Hep B  adult,18,18,18,18,18
+Hampden County,zoster,15,15,15,15,15
+Hampden County,Tdap,13,13,13,13,13
+Hampden County,pneumococcal polysaccharide vaccine  23 valent,4,4,4,4,4
+Hampshire County,Influenza  seasonal  injectable  preservative free,318,318,318,318,318
+Hampshire County,Td (adult) preservative free,28,28,28,28,28
+Hampshire County,zoster,20,20,20,20,20
+Hampshire County,HPV  quadrivalent,17,17,17,17,17
+Hampshire County,meningococcal MCV4P,17,17,17,17,17
+Hampshire County,Pneumococcal conjugate PCV 13,16,16,16,16,16
+Hampshire County,DTaP,12,12,12,12,12
+Hampshire County,Hep B  adult,11,11,11,11,11
+Hampshire County,IPV,9,9,9,9,9
+Hampshire County,pneumococcal polysaccharide vaccine  23 valent,6,6,6,6,6
+Hampshire County,Hep B  adolescent or pediatric,6,6,6,6,6
+Hampshire County,Hib (PRP-OMP),6,6,6,6,6
+Hampshire County,varicella,5,5,5,5,5
+Hampshire County,Tdap,5,5,5,5,5
+Hampshire County,MMR,5,5,5,5,5
+Hampshire County,Hep A  ped/adol  2 dose,5,5,5,5,5
+Hampshire County,Hep A  adult,4,4,4,4,4
+Hampshire County,rotavirus  monovalent,4,4,4,4,4
+Middlesex County,Influenza  seasonal  injectable  preservative free,2001,2001,2001,2001,2001
+Middlesex County,Td (adult) preservative free,181,181,181,181,181
+Middlesex County,Pneumococcal conjugate PCV 13,155,155,155,155,155
+Middlesex County,DTaP,139,139,139,139,139
+Middlesex County,IPV,118,118,118,118,118
+Middlesex County,meningococcal MCV4P,99,99,99,99,99
+Middlesex County,HPV  quadrivalent,94,94,94,94,94
+Middlesex County,Hep B  adolescent or pediatric,90,90,90,90,90
+Middlesex County,Hib (PRP-OMP),90,90,90,90,90
+Middlesex County,Hep A  adult,74,74,74,74,74
+Middlesex County,MMR,60,60,60,60,60
+Middlesex County,Hep A  ped/adol  2 dose,60,60,60,60,60
+Middlesex County,varicella,59,59,59,59,59
+Middlesex County,Hep B  adult,57,57,57,57,57
+Middlesex County,zoster,56,56,56,56,56
+Middlesex County,rotavirus  monovalent,53,53,53,53,53
+Middlesex County,Tdap,33,33,33,33,33
+Middlesex County,pneumococcal polysaccharide vaccine  23 valent,17,17,17,17,17
+Nantucket County,Influenza  seasonal  injectable  preservative free,14,14,14,14,14
+Nantucket County,Td (adult) preservative free,2,2,2,2,2
+Norfolk County,Influenza  seasonal  injectable  preservative free,1054,1054,1054,1054,1054
+Norfolk County,Td (adult) preservative free,86,86,86,86,86
+Norfolk County,DTaP,74,74,74,74,74
+Norfolk County,Pneumococcal conjugate PCV 13,74,74,74,74,74
+Norfolk County,IPV,60,60,60,60,60
+Norfolk County,HPV  quadrivalent,55,55,55,55,55
+Norfolk County,meningococcal MCV4P,49,49,49,49,49
+Norfolk County,Hib (PRP-OMP),42,42,42,42,42
+Norfolk County,Hep B  adolescent or pediatric,41,41,41,41,41
+Norfolk County,Hep A  adult,35,35,35,35,35
+Norfolk County,Hep B  adult,34,34,34,34,34
+Norfolk County,MMR,32,32,32,32,32
+Norfolk County,varicella,32,32,32,32,32
+Norfolk County,Hep A  ped/adol  2 dose,28,28,28,28,28
+Norfolk County,zoster,27,27,27,27,27
+Norfolk County,rotavirus  monovalent,26,26,26,26,26
+Norfolk County,Tdap,18,18,18,18,18
+Norfolk County,pneumococcal polysaccharide vaccine  23 valent,10,10,10,10,10
+Plymouth County,Influenza  seasonal  injectable  preservative free,629,629,629,629,629
+Plymouth County,Td (adult) preservative free,56,56,56,56,56
+Plymouth County,Pneumococcal conjugate PCV 13,43,43,43,43,43
+Plymouth County,HPV  quadrivalent,39,39,39,39,39
+Plymouth County,DTaP,33,33,33,33,33
+Plymouth County,IPV,31,31,31,31,31
+Plymouth County,meningococcal MCV4P,28,28,28,28,28
+Plymouth County,Hep B  adolescent or pediatric,21,21,21,21,21
+Plymouth County,Hib (PRP-OMP),20,20,20,20,20
+Plymouth County,zoster,19,19,19,19,19
+Plymouth County,rotavirus  monovalent,14,14,14,14,14
+Plymouth County,MMR,13,13,13,13,13
+Plymouth County,Tdap,13,13,13,13,13
+Plymouth County,Hep A  adult,13,13,13,13,13
+Plymouth County,varicella,12,12,12,12,12
+Plymouth County,Hep A  ped/adol  2 dose,12,12,12,12,12
+Plymouth County,Hep B  adult,9,9,9,9,9
+Plymouth County,pneumococcal polysaccharide vaccine  23 valent,5,5,5,5,5
+Suffolk County,Influenza  seasonal  injectable  preservative free,996,996,996,996,996
+Suffolk County,Td (adult) preservative free,96,96,96,96,96
+Suffolk County,Pneumococcal conjugate PCV 13,79,79,79,79,79
+Suffolk County,DTaP,73,73,73,73,73
+Suffolk County,IPV,58,58,58,58,58
+Suffolk County,Hep B  adolescent or pediatric,47,47,47,47,47
+Suffolk County,meningococcal MCV4P,45,45,45,45,45
+Suffolk County,Hib (PRP-OMP),45,45,45,45,45
+Suffolk County,Hep B  adult,39,39,39,39,39
+Suffolk County,zoster,38,38,38,38,38
+Suffolk County,Hep A  adult,33,33,33,33,33
+Suffolk County,HPV  quadrivalent,31,31,31,31,31
+Suffolk County,rotavirus  monovalent,30,30,30,30,30
+Suffolk County,Hep A  ped/adol  2 dose,30,30,30,30,30
+Suffolk County,MMR,28,28,28,28,28
+Suffolk County,varicella,28,28,28,28,28
+Suffolk County,Tdap,9,9,9,9,9
+Suffolk County,pneumococcal polysaccharide vaccine  23 valent,7,7,7,7,7
+Worcester County,Influenza  seasonal  injectable  preservative free,1239,1239,1239,1239,1239
+Worcester County,Td (adult) preservative free,104,104,104,104,104
+Worcester County,Pneumococcal conjugate PCV 13,87,87,87,87,87
+Worcester County,DTaP,69,69,69,69,69
+Worcester County,IPV,64,64,64,64,64
+Worcester County,HPV  quadrivalent,60,60,60,60,60
+Worcester County,meningococcal MCV4P,54,54,54,54,54
+Worcester County,Hib (PRP-OMP),38,38,38,38,38
+Worcester County,Hep B  adolescent or pediatric,38,38,38,38,38
+Worcester County,Hep A  adult,36,36,36,36,36
+Worcester County,zoster,31,31,31,31,31
+Worcester County,MMR,30,30,30,30,30
+Worcester County,varicella,29,29,29,29,29
+Worcester County,Hep A  ped/adol  2 dose,28,28,28,28,28
+Worcester County,rotavirus  monovalent,26,26,26,26,26
+Worcester County,Hep B  adult,25,25,25,25,25
+Worcester County,Tdap,22,22,22,22,22
+Worcester County,pneumococcal polysaccharide vaccine  23 valent,21,21,21,21,21

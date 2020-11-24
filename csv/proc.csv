@@ -1,0 +1,1266 @@
+COUNTY,DESCRIPTION,DATE,PATIENT,ENCOUNTER,CODE,BASE_COST,REASONCODE,REASONDESCRIPTION
+Barnstable County,Medication Reconciliation (procedure),239,239,239,239,239,0,0
+Barnstable County,Evaluation of uterine fundal height,74,74,74,74,74,74,74
+Barnstable County,Auscultation of the fetal heart,74,74,74,74,74,74,74
+Barnstable County,Subcutaneous immunotherapy,41,41,41,41,41,0,0
+Barnstable County,Combined chemotherapy and radiation therapy (procedure),38,38,38,38,38,38,38
+Barnstable County,Spirometry (procedure),35,35,35,35,35,35,35
+Barnstable County,Extraction of wisdom tooth,28,28,28,28,28,0,0
+Barnstable County,Colonoscopy,26,26,26,26,26,0,0
+Barnstable County,Hearing examination (procedure),24,24,24,24,24,0,0
+Barnstable County,High resolution computed tomography of chest without contrast (procedure),24,24,24,24,24,0,0
+Barnstable County,Hemoglobin / Hematocrit / Platelet count,17,17,17,17,17,17,17
+Barnstable County,Standard pregnancy test,15,15,15,15,15,15,15
+Barnstable County,Ultrasound scan for fetal viability,15,15,15,15,15,15,15
+Barnstable County,Depression screening,14,14,14,14,14,7,7
+Barnstable County,Transthoracic three dimensional ultrasonography of heart (procedure),13,13,13,13,13,0,0
+Barnstable County,Plain chest X-ray (procedure),12,12,12,12,12,3,3
+Barnstable County,Measurement of respiratory function (procedure),12,12,12,12,12,12,12
+Barnstable County,RhD passive immunization,10,10,10,10,10,7,7
+Barnstable County,Urine screening test for diabetes,9,9,9,9,9,9,9
+Barnstable County,Digital examination of rectum,9,9,9,9,9,0,0
+Barnstable County,Cytopathology procedure  preparation of smear  genital source,9,9,9,9,9,9,9
+Barnstable County,Chlamydia antigen test,9,9,9,9,9,9,9
+Barnstable County,Gonorrhea infection test,9,9,9,9,9,9,9
+Barnstable County,Blood typing  RH typing,9,9,9,9,9,9,9
+Barnstable County,Urine protein test,9,9,9,9,9,9,9
+Barnstable County,Human immunodeficiency virus antigen test,9,9,9,9,9,9,9
+Barnstable County,Hepatitis B Surface Antigen Measurement,9,9,9,9,9,9,9
+Barnstable County,Urine culture,9,9,9,9,9,9,9
+Barnstable County,Hepatitis C antibody test,9,9,9,9,9,9,9
+Barnstable County,Throat culture (procedure),9,9,9,9,9,9,9
+Barnstable County,Syphilis infection test,9,9,9,9,9,9,9
+Barnstable County,Skin test for tuberculosis,9,9,9,9,9,9,9
+Barnstable County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,9,9,9,9,9,9,9
+Barnstable County,Rubella screening,9,9,9,9,9,9,9
+Barnstable County,Measurement of Varicella-zoster virus antibody,9,9,9,9,9,9,9
+Barnstable County,Physical examination of mother,9,9,9,9,9,9,9
+Barnstable County,Fetal anatomy study,8,8,8,8,8,8,8
+Barnstable County,Alpha-fetoprotein test,8,8,8,8,8,8,8
+Barnstable County,Vaccination for diphtheria  pertussis  and tetanus,8,8,8,8,8,8,8
+Barnstable County,Urine screening for glucose,8,8,8,8,8,8,8
+Barnstable County,Rectal polypectomy,7,7,7,7,7,7,7
+Barnstable County,Streptococcus pneumoniae group B antigen test,7,7,7,7,7,7,7
+Barnstable County,Pulmonary rehabilitation (regime/therapy),7,7,7,7,7,7,7
+Barnstable County,Plain chest X-ray,7,7,7,7,7,0,0
+Barnstable County,Physical examination following birth,7,7,7,7,7,0,0
+Barnstable County,Echocardiography (procedure),7,7,7,7,7,7,7
+Barnstable County,Sputum examination (procedure),6,6,6,6,6,6,6
+Barnstable County,Suture open wound,6,6,6,6,6,6,6
+Barnstable County,Transthoracic echocardiography,6,6,6,6,6,0,0
+Barnstable County,Bone immobilization,6,6,6,6,6,6,6
+Barnstable County,Electrical cardioversion,6,6,6,6,6,6,6
+Barnstable County,Childbirth,5,5,5,5,5,5,5
+Barnstable County,Physical exam following abortion,5,5,5,5,5,5,5
+Barnstable County,Counseling for termination of pregnancy,5,5,5,5,5,5,5
+Barnstable County,Pregnancy termination care,5,5,5,5,5,5,5
+Barnstable County,Insertion of intrauterine contraceptive device,5,5,5,5,5,0,0
+Barnstable County,Induced termination of pregnancy,5,5,5,5,5,5,5
+Barnstable County,Screening for occult blood in feces (procedure),5,5,5,5,5,5,5
+Barnstable County,X-ray or wrist,5,5,5,5,5,0,0
+Barnstable County,Insertion of subcutaneous contraceptive,4,4,4,4,4,0,0
+Barnstable County,Injection of tetanus antitoxin,3,3,3,3,3,3,3
+Barnstable County,Removal of subcutaneous contraceptive,3,3,3,3,3,0,0
+Barnstable County,Peripheral blood smear interpretation,3,3,3,3,3,0,0
+Barnstable County,Review of systems (procedure),3,3,3,3,3,0,0
+Barnstable County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,3,3,3,3,3,3,3
+Barnstable County,Percutaneous coronary intervention,3,3,3,3,3,3,3
+Barnstable County,Biopsy of prostate,3,3,3,3,3,0,0
+Barnstable County,Brief general examination (procedure),3,3,3,3,3,0,0
+Barnstable County,Antenatal RhD antibody screening,3,3,3,3,3,3,3
+Barnstable County,Coronary artery bypass grafting,3,3,3,3,3,3,3
+Barnstable County,Nasal sinus endoscopy (procedure),2,2,2,2,2,0,0
+Barnstable County,Cesarean section,2,2,2,2,2,2,2
+Barnstable County,Partial resection of colon,2,2,2,2,2,2,2
+Barnstable County,Physical examination,2,2,2,2,2,2,2
+Barnstable County,Catheter ablation of tissue of heart,2,2,2,2,2,2,2
+Barnstable County,Intramuscular injection,2,2,2,2,2,0,0
+Barnstable County,Epidural anesthesia,2,2,2,2,2,2,2
+Barnstable County,Augmentation of labor,2,2,2,2,2,2,2
+Barnstable County,Bone density scan (procedure),2,2,2,2,2,2,2
+Barnstable County,Ankle X-ray,1,1,1,1,1,0,0
+Barnstable County,Computed tomography of chest and abdomen,1,1,1,1,1,1,1
+Barnstable County,Bilateral tubal ligation,1,1,1,1,1,0,0
+Barnstable County,Episiotomy,1,1,1,1,1,1,1
+Barnstable County,Fine needle aspiration biopsy of lung (procedure),1,1,1,1,1,1,1
+Barnstable County,Insertion of biventricular implantable cardioverter defibrillator,1,1,1,1,1,1,1
+Barnstable County,Magnetic resonance imaging for measurement of brain volume (procedure),1,1,1,1,1,1,1
+Barnstable County,Prostatectomy,1,1,1,1,1,1,1
+Barnstable County,Instrumental delivery,1,1,1,1,1,1,1
+Barnstable County,Allergy screening test,1,1,1,1,1,0,0
+Berkshire County,Medication Reconciliation (procedure),112,112,112,112,112,0,0
+Berkshire County,Colonoscopy,13,13,13,13,13,0,0
+Berkshire County,Information gathering (procedure),13,13,13,13,13,0,0
+Berkshire County,Spirometry (procedure),10,10,10,10,10,10,10
+Berkshire County,Combined chemotherapy and radiation therapy (procedure),6,6,6,6,6,6,6
+Berkshire County,Transthoracic three dimensional ultrasonography of heart (procedure),5,5,5,5,5,0,0
+Berkshire County,Bone immobilization,4,4,4,4,4,4,4
+Berkshire County,Measurement of respiratory function (procedure),4,4,4,4,4,4,4
+Berkshire County,Rectal polypectomy,3,3,3,3,3,3,3
+Berkshire County,Pulmonary rehabilitation (regime/therapy),3,3,3,3,3,3,3
+Berkshire County,Echocardiography (procedure),3,3,3,3,3,3,3
+Berkshire County,Plain chest X-ray (procedure),3,3,3,3,3,1,1
+Berkshire County,Plain chest X-ray,2,2,2,2,2,0,0
+Berkshire County,Upper arm X-ray,2,2,2,2,2,0,0
+Berkshire County,Replacement of contraceptive intrauterine device,2,2,2,2,2,0,0
+Berkshire County,Screening for occult blood in feces (procedure),2,2,2,2,2,2,2
+Berkshire County,Sputum examination (procedure),2,2,2,2,2,2,2
+Berkshire County,Suture open wound,2,2,2,2,2,2,2
+Berkshire County,Throat culture (procedure),2,2,2,2,2,2,2
+Berkshire County,Transthoracic echocardiography,2,2,2,2,2,0,0
+Berkshire County,Catheter ablation of tissue of heart,2,2,2,2,2,2,2
+Berkshire County,Insertion of biventricular implantable cardioverter defibrillator,2,2,2,2,2,2,2
+Berkshire County,Admission to orthopedic department,2,2,2,2,2,2,2
+Berkshire County,Ankle X-ray,2,2,2,2,2,0,0
+Berkshire County,Insertion of subcutaneous contraceptive,1,1,1,1,1,0,0
+Berkshire County,Allergy screening test,1,1,1,1,1,0,0
+Berkshire County,Asthma screening,1,1,1,1,1,1,1
+Berkshire County,Bone density scan (procedure),1,1,1,1,1,1,1
+Berkshire County,Physical examination,1,1,1,1,1,1,1
+Berkshire County,Peripheral blood smear interpretation,1,1,1,1,1,0,0
+Berkshire County,Brief general examination (procedure),1,1,1,1,1,0,0
+Berkshire County,Ultrasound scan for fetal viability,1,1,1,1,1,1,1
+Berkshire County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,1,1,1,1,1,1,1
+Berkshire County,Clavicle X-ray,1,1,1,1,1,0,0
+Berkshire County,Depression screening,1,1,1,1,1,1,1
+Berkshire County,Pelvis X-ray,1,1,1,1,1,0,0
+Berkshire County,Partial resection of colon,1,1,1,1,1,1,1
+Berkshire County,Knee X-ray,1,1,1,1,1,0,0
+Berkshire County,Injection of tetanus antitoxin,1,1,1,1,1,1,1
+Berkshire County,Insertion of intrauterine contraceptive device,1,1,1,1,1,0,0
+Berkshire County,Transplant of lung (procedure),1,1,1,1,1,1,1
+Berkshire County,Intramuscular injection,1,1,1,1,1,0,0
+Berkshire County,Surgical manipulation of joint of knee,1,1,1,1,1,1,1
+Berkshire County,Standard pregnancy test,1,1,1,1,1,1,1
+Berkshire County,Review of systems (procedure),1,1,1,1,1,0,0
+Berkshire County,Removal of intrauterine device,1,1,1,1,1,0,0
+Bristol County,Medication Reconciliation (procedure),414,414,414,414,414,0,0
+Bristol County,Auscultation of the fetal heart,291,291,291,291,291,291,291
+Bristol County,Evaluation of uterine fundal height,291,291,291,291,291,291,291
+Bristol County,Intramuscular injection,202,202,202,202,202,0,0
+Bristol County,Subcutaneous immunotherapy,120,120,120,120,120,0,0
+Bristol County,Hemoglobin / Hematocrit / Platelet count,66,66,66,66,66,66,66
+Bristol County,Ultrasound scan for fetal viability,57,57,57,57,57,57,57
+Bristol County,Standard pregnancy test,57,57,57,57,57,57,57
+Bristol County,Depression screening,57,57,57,57,57,25,25
+Bristol County,Colonoscopy,54,54,54,54,54,0,0
+Bristol County,Spirometry (procedure),36,36,36,36,36,36,36
+Bristol County,Throat culture (procedure),36,36,36,36,36,36,36
+Bristol County,Physical examination of mother,34,34,34,34,34,34,34
+Bristol County,Urine screening test for diabetes,34,34,34,34,34,34,34
+Bristol County,Syphilis infection test,34,34,34,34,34,34,34
+Bristol County,Skin test for tuberculosis,34,34,34,34,34,34,34
+Bristol County,Urine protein test,34,34,34,34,34,34,34
+Bristol County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,34,34,34,34,34,34,34
+Bristol County,Rubella screening,34,34,34,34,34,34,34
+Bristol County,Urine culture,34,34,34,34,34,34,34
+Bristol County,Measurement of Varicella-zoster virus antibody,34,34,34,34,34,34,34
+Bristol County,Hepatitis C antibody test,34,34,34,34,34,34,34
+Bristol County,Chlamydia antigen test,34,34,34,34,34,34,34
+Bristol County,Cytopathology procedure  preparation of smear  genital source,34,34,34,34,34,34,34
+Bristol County,Blood typing  RH typing,34,34,34,34,34,34,34
+Bristol County,Gonorrhea infection test,34,34,34,34,34,34,34
+Bristol County,Hepatitis B Surface Antigen Measurement,34,34,34,34,34,34,34
+Bristol County,Human immunodeficiency virus antigen test,34,34,34,34,34,34,34
+Bristol County,Fetal anatomy study,32,32,32,32,32,32,32
+Bristol County,Alpha-fetoprotein test,32,32,32,32,32,32,32
+Bristol County,Vaccination for diphtheria  pertussis  and tetanus,32,32,32,32,32,32,32
+Bristol County,Urine screening for glucose,32,32,32,32,32,32,32
+Bristol County,Physical examination following birth,32,32,32,32,32,0,0
+Bristol County,Streptococcus pneumoniae group B antigen test,29,29,29,29,29,29,29
+Bristol County,Measurement of respiratory function (procedure),27,27,27,27,27,27,27
+Bristol County,Childbirth,25,25,25,25,25,25,25
+Bristol County,Suture open wound,23,23,23,23,23,23,23
+Bristol County,Pulmonary rehabilitation (regime/therapy),22,22,22,22,22,22,22
+Bristol County,Bone density scan (procedure),21,21,21,21,21,18,18
+Bristol County,Extraction of wisdom tooth,20,20,20,20,20,0,0
+Bristol County,Insertion of intrauterine contraceptive device,18,18,18,18,18,0,0
+Bristol County,Combined chemotherapy and radiation therapy (procedure),18,18,18,18,18,18,18
+Bristol County,Pregnancy termination care,16,16,16,16,16,16,16
+Bristol County,Physical exam following abortion,16,16,16,16,16,16,16
+Bristol County,Counseling for termination of pregnancy,16,16,16,16,16,16,16
+Bristol County,Induced termination of pregnancy,16,16,16,16,16,16,16
+Bristol County,Bone immobilization,14,14,14,14,14,14,14
+Bristol County,Insertion of subcutaneous contraceptive,13,13,13,13,13,0,0
+Bristol County,Sputum examination (procedure),12,12,12,12,12,12,12
+Bristol County,RhD passive immunization,12,12,12,12,12,7,7
+Bristol County,Removal of intrauterine device,11,11,11,11,11,0,0
+Bristol County,Mammography (procedure),11,11,11,11,11,11,11
+Bristol County,Manual pelvic examination (procedure),10,10,10,10,10,10,10
+Bristol County,Cytopathology procedure  preparation of smear  genital source (procedure),10,10,10,10,10,10,10
+Bristol County,Physical examination,9,9,9,9,9,9,9
+Bristol County,Echocardiography (procedure),8,8,8,8,8,8,8
+Bristol County,Chemotherapy (procedure),8,8,8,8,8,8,8
+Bristol County,X-ray or wrist,8,8,8,8,8,0,0
+Bristol County,Cognitive and behavioral therapy,7,7,7,7,7,7,7
+Bristol County,Rectal polypectomy,7,7,7,7,7,7,7
+Bristol County,Replacement of contraceptive intrauterine device,7,7,7,7,7,0,0
+Bristol County,Screening for occult blood in feces (procedure),6,6,6,6,6,6,6
+Bristol County,Episiotomy,6,6,6,6,6,6,6
+Bristol County,Allergy screening test,6,6,6,6,6,0,0
+Bristol County,Review of systems (procedure),5,5,5,5,5,0,0
+Bristol County,Removal of subcutaneous contraceptive,5,5,5,5,5,0,0
+Bristol County,Peripheral blood smear interpretation,5,5,5,5,5,0,0
+Bristol County,Medical induction of labor,5,5,5,5,5,5,5
+Bristol County,Admission to orthopedic department,5,5,5,5,5,5,5
+Bristol County,Information gathering (procedure),5,5,5,5,5,0,0
+Bristol County,Antenatal RhD antibody screening,5,5,5,5,5,5,5
+Bristol County,Epidural anesthesia,5,5,5,5,5,5,5
+Bristol County,Augmentation of labor,5,5,5,5,5,5,5
+Bristol County,Brief general examination (procedure),5,5,5,5,5,0,0
+Bristol County,Bilateral tubal ligation,4,4,4,4,4,0,0
+Bristol County,Cesarean section,4,4,4,4,4,4,4
+Bristol County,Knee X-ray,4,4,4,4,4,0,0
+Bristol County,Surgical manipulation of joint of knee,3,3,3,3,3,3,3
+Bristol County,Digital examination of rectum,3,3,3,3,3,0,0
+Bristol County,Coronary artery bypass grafting,3,3,3,3,3,3,3
+Bristol County,Clavicle X-ray,3,3,3,3,3,0,0
+Bristol County,Percutaneous coronary intervention,3,3,3,3,3,3,3
+Bristol County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,3,3,3,3,3,3,3
+Bristol County,Plain chest X-ray (procedure),3,3,3,3,3,3,3
+Bristol County,Premature birth of newborn,3,3,3,3,3,3,3
+Bristol County,Injection of tetanus antitoxin,2,2,2,2,2,2,2
+Bristol County,Partial resection of colon,2,2,2,2,2,2,2
+Bristol County,Ankle X-ray,2,2,2,2,2,0,0
+Bristol County,Intravenous injection (procedure),2,2,2,2,2,2,2
+Bristol County,Instrumental delivery,2,2,2,2,2,2,2
+Bristol County,Insertion of biventricular implantable cardioverter defibrillator,2,2,2,2,2,2,2
+Bristol County,Injection of adrenaline,2,2,2,2,2,0,0
+Bristol County,Catheter ablation of tissue of heart,2,2,2,2,2,2,2
+Bristol County,Chest X-ray,2,2,2,2,2,0,0
+Bristol County,Pelvis X-ray,2,2,2,2,2,0,0
+Bristol County,Upper arm X-ray,2,2,2,2,2,0,0
+Bristol County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),2,2,2,2,2,0,0
+Bristol County,Biopsy of breast (procedure),1,1,1,1,1,0,0
+Bristol County,Biopsy of prostate,1,1,1,1,1,0,0
+Bristol County,Transplant of lung (procedure),1,1,1,1,1,1,1
+Bristol County,Transthoracic three dimensional ultrasonography of heart (procedure),1,1,1,1,1,0,0
+Bristol County,Vasectomy,1,1,1,1,1,0,0
+Bristol County,Prostatectomy,1,1,1,1,1,1,1
+Bristol County,Excision of axillary lymph node (procedure),1,1,1,1,1,1,1
+Bristol County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),1,1,1,1,1,1,1
+Bristol County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),1,1,1,1,1,1,1
+Bristol County,Lumpectomy of breast (procedure),1,1,1,1,1,1,1
+Bristol County,Magnetic resonance imaging of breast (procedure),1,1,1,1,1,0,0
+Bristol County,Mammogram - symptomatic (procedure),1,1,1,1,1,0,0
+Bristol County,Nasal sinus endoscopy (procedure),1,1,1,1,1,0,0
+Dukes County,Medication Reconciliation (procedure),59,59,59,59,59,0,0
+Dukes County,Combined chemotherapy and radiation therapy (procedure),37,37,37,37,37,37,37
+Dukes County,Digital examination of rectum,7,7,7,7,7,0,0
+Dukes County,Biopsy of prostate,4,4,4,4,4,0,0
+Dukes County,Bone immobilization,3,3,3,3,3,3,3
+Dukes County,Electrical cardioversion,2,2,2,2,2,2,2
+Dukes County,Prostatectomy,2,2,2,2,2,2,2
+Dukes County,Bone density scan (procedure),2,2,2,2,2,2,2
+Dukes County,Ankle X-ray,2,2,2,2,2,0,0
+Dukes County,Computed tomography of chest and abdomen,1,1,1,1,1,1,1
+Dukes County,Coronary artery bypass grafting,1,1,1,1,1,1,1
+Dukes County,Echocardiography (procedure),1,1,1,1,1,1,1
+Dukes County,Fine needle aspiration biopsy of lung (procedure),1,1,1,1,1,1,1
+Dukes County,Magnetic resonance imaging for measurement of brain volume (procedure),1,1,1,1,1,1,1
+Dukes County,Percutaneous coronary intervention,1,1,1,1,1,1,1
+Dukes County,Plain chest X-ray (procedure),1,1,1,1,1,1,1
+Dukes County,Suture open wound,1,1,1,1,1,1,1
+Dukes County,Upper arm X-ray,1,1,1,1,1,0,0
+Essex County,Medication Reconciliation (procedure),575,575,575,575,575,0,0
+Essex County,Electrical cardioversion,353,353,353,353,353,353,353
+Essex County,Auscultation of the fetal heart,280,280,280,280,280,280,280
+Essex County,Evaluation of uterine fundal height,280,280,280,280,280,280,280
+Essex County,Intramuscular injection,163,163,163,163,163,0,0
+Essex County,Catheter ablation of tissue of heart,88,88,88,88,88,88,88
+Essex County,Hemoglobin / Hematocrit / Platelet count,61,61,61,61,61,61,61
+Essex County,Standard pregnancy test,50,50,50,50,50,50,50
+Essex County,Ultrasound scan for fetal viability,50,50,50,50,50,50,50
+Essex County,Depression screening,49,49,49,49,49,20,20
+Essex County,Combined chemotherapy and radiation therapy (procedure),48,48,48,48,48,48,48
+Essex County,Spirometry (procedure),43,43,43,43,43,43,43
+Essex County,Colonoscopy,40,40,40,40,40,0,0
+Essex County,High resolution computed tomography of chest without contrast (procedure),36,36,36,36,36,0,0
+Essex County,Hearing examination (procedure),36,36,36,36,36,0,0
+Essex County,Vaccination for diphtheria  pertussis  and tetanus,31,31,31,31,31,31,31
+Essex County,Urine screening for glucose,31,31,31,31,31,31,31
+Essex County,Physical examination of mother,30,30,30,30,30,30,30
+Essex County,Chlamydia antigen test,30,30,30,30,30,30,30
+Essex County,Syphilis infection test,30,30,30,30,30,30,30
+Essex County,Urine culture,30,30,30,30,30,30,30
+Essex County,Urine protein test,30,30,30,30,30,30,30
+Essex County,Rubella screening,30,30,30,30,30,30,30
+Essex County,Cytopathology procedure  preparation of smear  genital source,30,30,30,30,30,30,30
+Essex County,Skin test for tuberculosis,30,30,30,30,30,30,30
+Essex County,Human immunodeficiency virus antigen test,30,30,30,30,30,30,30
+Essex County,Urine screening test for diabetes,30,30,30,30,30,30,30
+Essex County,Measurement of Varicella-zoster virus antibody,30,30,30,30,30,30,30
+Essex County,Fetal anatomy study,30,30,30,30,30,30,30
+Essex County,Gonorrhea infection test,30,30,30,30,30,30,30
+Essex County,Hepatitis B Surface Antigen Measurement,30,30,30,30,30,30,30
+Essex County,Blood typing  RH typing,30,30,30,30,30,30,30
+Essex County,Hepatitis C antibody test,30,30,30,30,30,30,30
+Essex County,Alpha-fetoprotein test,30,30,30,30,30,30,30
+Essex County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,29,29,29,29,29,29,29
+Essex County,Physical examination following birth,29,29,29,29,29,0,0
+Essex County,Streptococcus pneumoniae group B antigen test,28,28,28,28,28,28,28
+Essex County,Measurement of respiratory function (procedure),27,27,27,27,27,27,27
+Essex County,Insertion of intrauterine contraceptive device,24,24,24,24,24,0,0
+Essex County,Pulmonary rehabilitation (regime/therapy),22,22,22,22,22,22,22
+Essex County,Throat culture (procedure),21,21,21,21,21,21,21
+Essex County,Childbirth,21,21,21,21,21,21,21
+Essex County,Insertion of subcutaneous contraceptive,17,17,17,17,17,0,0
+Essex County,Extraction of wisdom tooth,16,16,16,16,16,0,0
+Essex County,Replacement of contraceptive intrauterine device,16,16,16,16,16,0,0
+Essex County,Removal of intrauterine device,15,15,15,15,15,0,0
+Essex County,Suture open wound,14,14,14,14,14,14,14
+Essex County,Sputum examination (procedure),13,13,13,13,13,13,13
+Essex County,Plain chest X-ray (procedure),12,12,12,12,12,5,5
+Essex County,Bone immobilization,12,12,12,12,12,12,12
+Essex County,RhD passive immunization,11,11,11,11,11,7,7
+Essex County,Pregnancy termination care,10,10,10,10,10,10,10
+Essex County,Brief general examination (procedure),10,10,10,10,10,0,0
+Essex County,Counseling for termination of pregnancy,10,10,10,10,10,10,10
+Essex County,Induced termination of pregnancy,10,10,10,10,10,10,10
+Essex County,Peripheral blood smear interpretation,10,10,10,10,10,0,0
+Essex County,Physical exam following abortion,10,10,10,10,10,10,10
+Essex County,Physical examination,10,10,10,10,10,10,10
+Essex County,Review of systems (procedure),10,10,10,10,10,0,0
+Essex County,Transthoracic three dimensional ultrasonography of heart (procedure),9,9,9,9,9,0,0
+Essex County,Plain chest X-ray,7,7,7,7,7,0,0
+Essex County,Bone density scan (procedure),7,7,7,7,7,4,4
+Essex County,Cesarean section,7,7,7,7,7,7,7
+Essex County,Transthoracic echocardiography,7,7,7,7,7,0,0
+Essex County,Rectal polypectomy,6,6,6,6,6,6,6
+Essex County,Cognitive and behavioral therapy,6,6,6,6,6,6,6
+Essex County,Echocardiography (procedure),6,6,6,6,6,6,6
+Essex County,Episiotomy,6,6,6,6,6,6,6
+Essex County,Removal of subcutaneous contraceptive,6,6,6,6,6,0,0
+Essex County,positive screening for depression on phq9,5,5,5,5,5,0,0
+Essex County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),5,5,5,5,5,0,0
+Essex County,Antenatal RhD antibody screening,4,4,4,4,4,4,4
+Essex County,X-ray or wrist,4,4,4,4,4,0,0
+Essex County,Epidural anesthesia,4,4,4,4,4,4,4
+Essex County,Information gathering (procedure),4,4,4,4,4,0,0
+Essex County,Screening for occult blood in feces (procedure),4,4,4,4,4,4,4
+Essex County,Medical induction of labor,4,4,4,4,4,4,4
+Essex County,Bilateral tubal ligation,3,3,3,3,3,0,0
+Essex County,Allergy screening test,3,3,3,3,3,0,0
+Essex County,Admission to orthopedic department,3,3,3,3,3,3,3
+Essex County,Augmentation of labor,3,3,3,3,3,3,3
+Essex County,Upper arm X-ray,3,3,3,3,3,0,0
+Essex County,Insertion of biventricular implantable cardioverter defibrillator,3,3,3,3,3,3,3
+Essex County,Chest X-ray,3,3,3,3,3,0,0
+Essex County,Digital examination of rectum,2,2,2,2,2,0,0
+Essex County,Appendectomy,2,2,2,2,2,2,2
+Essex County,Asthma screening,2,2,2,2,2,2,2
+Essex County,Ankle X-ray,2,2,2,2,2,0,0
+Essex County,Partial resection of colon,2,2,2,2,2,2,2
+Essex County,Instrumental delivery,2,2,2,2,2,2,2
+Essex County,Injection of tetanus antitoxin,2,2,2,2,2,2,2
+Essex County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,2,2,2,2,2,2,2
+Essex County,Pelvis X-ray,2,2,2,2,2,0,0
+Essex County,Surgical manipulation of joint of knee,1,1,1,1,1,1,1
+Essex County,negative screening for depression on phq9,1,1,1,1,1,0,0
+Essex County,positive screening for PHQ-9,1,1,1,1,1,1,1
+Essex County,Sputum microscopy (procedure),1,1,1,1,1,1,1
+Essex County,Percutaneous coronary intervention,1,1,1,1,1,1,1
+Essex County,Premature birth of newborn,1,1,1,1,1,1,1
+Essex County,Prostatectomy,1,1,1,1,1,1,1
+Essex County,Referral to hypertension clinic,1,1,1,1,1,0,0
+Essex County,Nasal sinus endoscopy (procedure),1,1,1,1,1,0,0
+Essex County,Coronary artery bypass grafting,1,1,1,1,1,1,1
+Essex County,Excision of fallopian tube and surgical removal of ectopic pregnancy,1,1,1,1,1,0,0
+Essex County,Injection of adrenaline,1,1,1,1,1,0,0
+Essex County,Knee X-ray,1,1,1,1,1,0,0
+Essex County,Magnetic resonance imaging for measurement of brain volume (procedure),1,1,1,1,1,1,1
+Essex County,Methotrexate injection into tubal pregnancy,1,1,1,1,1,0,0
+Essex County,Computed tomography of chest and abdomen,1,1,1,1,1,1,1
+Essex County,Biopsy of prostate,1,1,1,1,1,0,0
+Essex County,Clavicle X-ray,1,1,1,1,1,0,0
+Franklin County,Medication Reconciliation (procedure),103,103,103,103,103,0,0
+Franklin County,Auscultation of the fetal heart,39,39,39,39,39,39,39
+Franklin County,Evaluation of uterine fundal height,39,39,39,39,39,39,39
+Franklin County,Hemoglobin / Hematocrit / Platelet count,9,9,9,9,9,9,9
+Franklin County,Chemotherapy (procedure),8,8,8,8,8,0,0
+Franklin County,Ultrasound scan for fetal viability,8,8,8,8,8,8,8
+Franklin County,Standard pregnancy test,8,8,8,8,8,8,8
+Franklin County,Depression screening,7,7,7,7,7,3,3
+Franklin County,Bone density scan (procedure),6,6,6,6,6,6,6
+Franklin County,Colonoscopy,6,6,6,6,6,0,0
+Franklin County,Gonorrhea infection test,5,5,5,5,5,5,5
+Franklin County,Urine screening test for diabetes,5,5,5,5,5,5,5
+Franklin County,Chlamydia antigen test,5,5,5,5,5,5,5
+Franklin County,Hepatitis B Surface Antigen Measurement,5,5,5,5,5,5,5
+Franklin County,Hepatitis C antibody test,5,5,5,5,5,5,5
+Franklin County,Blood typing  RH typing,5,5,5,5,5,5,5
+Franklin County,Fetal anatomy study,5,5,5,5,5,5,5
+Franklin County,Alpha-fetoprotein test,5,5,5,5,5,5,5
+Franklin County,Cytopathology procedure  preparation of smear  genital source,5,5,5,5,5,5,5
+Franklin County,Urine protein test,5,5,5,5,5,5,5
+Franklin County,Measurement of Varicella-zoster virus antibody,5,5,5,5,5,5,5
+Franklin County,Skin test for tuberculosis,5,5,5,5,5,5,5
+Franklin County,Rubella screening,5,5,5,5,5,5,5
+Franklin County,Urine culture,5,5,5,5,5,5,5
+Franklin County,Syphilis infection test,5,5,5,5,5,5,5
+Franklin County,Physical examination of mother,5,5,5,5,5,5,5
+Franklin County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,5,5,5,5,5,5,5
+Franklin County,Human immunodeficiency virus antigen test,5,5,5,5,5,5,5
+Franklin County,Physical examination following birth,4,4,4,4,4,0,0
+Franklin County,Measurement of respiratory function (procedure),4,4,4,4,4,4,4
+Franklin County,Mammography (procedure),4,4,4,4,4,4,4
+Franklin County,Information gathering (procedure),4,4,4,4,4,0,0
+Franklin County,Childbirth,4,4,4,4,4,4,4
+Franklin County,Vaccination for diphtheria  pertussis  and tetanus,4,4,4,4,4,4,4
+Franklin County,Urine screening for glucose,4,4,4,4,4,4,4
+Franklin County,Streptococcus pneumoniae group B antigen test,4,4,4,4,4,4,4
+Franklin County,Insertion of intrauterine contraceptive device,3,3,3,3,3,0,0
+Franklin County,Throat culture (procedure),3,3,3,3,3,3,3
+Franklin County,Suture open wound,3,3,3,3,3,3,3
+Franklin County,Counseling for termination of pregnancy,2,2,2,2,2,2,2
+Franklin County,Removal of subcutaneous contraceptive,2,2,2,2,2,0,0
+Franklin County,Brief general examination (procedure),2,2,2,2,2,0,0
+Franklin County,Electrical cardioversion,2,2,2,2,2,2,2
+Franklin County,Physical exam following abortion,2,2,2,2,2,2,2
+Franklin County,Pregnancy termination care,2,2,2,2,2,2,2
+Franklin County,Insertion of subcutaneous contraceptive,2,2,2,2,2,0,0
+Franklin County,Induced termination of pregnancy,2,2,2,2,2,2,2
+Franklin County,Epidural anesthesia,2,2,2,2,2,2,2
+Franklin County,Plain chest X-ray (procedure),2,2,2,2,2,2,2
+Franklin County,Review of systems (procedure),2,2,2,2,2,0,0
+Franklin County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),2,2,2,2,2,0,0
+Franklin County,Peripheral blood smear interpretation,2,2,2,2,2,0,0
+Franklin County,Appendectomy,1,1,1,1,1,1,1
+Franklin County,Admission to orthopedic department,1,1,1,1,1,1,1
+Franklin County,Augmentation of labor,1,1,1,1,1,1,1
+Franklin County,Biopsy of breast (procedure),1,1,1,1,1,0,0
+Franklin County,Bone immobilization,1,1,1,1,1,1,1
+Franklin County,Catheter ablation of tissue of heart,1,1,1,1,1,1,1
+Franklin County,Chest X-ray,1,1,1,1,1,0,0
+Franklin County,Clavicle X-ray,1,1,1,1,1,0,0
+Franklin County,Physical examination,1,1,1,1,1,1,1
+Franklin County,Referral to hypertension clinic,1,1,1,1,1,0,0
+Franklin County,Removal of intrauterine device,1,1,1,1,1,0,0
+Franklin County,Screening mammography (procedure),1,1,1,1,1,0,0
+Franklin County,Percutaneous coronary intervention,1,1,1,1,1,1,1
+Franklin County,Sputum examination (procedure),1,1,1,1,1,1,1
+Franklin County,Coronary artery bypass grafting,1,1,1,1,1,1,1
+Franklin County,Echocardiography (procedure),1,1,1,1,1,1,1
+Franklin County,Excision of breast tissue (procedure),1,1,1,1,1,1,1
+Franklin County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),1,1,1,1,1,1,1
+Franklin County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),1,1,1,1,1,1,1
+Franklin County,Ultrasonography of bilateral breasts (procedure),1,1,1,1,1,0,0
+Franklin County,Injection of tetanus antitoxin,1,1,1,1,1,1,1
+Franklin County,Intramuscular injection,1,1,1,1,1,0,0
+Hampden County,Medication Reconciliation (procedure),367,367,367,367,367,0,0
+Hampden County,Evaluation of uterine fundal height,149,149,149,149,149,149,149
+Hampden County,Auscultation of the fetal heart,149,149,149,149,149,149,149
+Hampden County,Subcutaneous immunotherapy,120,120,120,120,120,0,0
+Hampden County,Intramuscular injection,95,95,95,95,95,0,0
+Hampden County,Colonoscopy,35,35,35,35,35,0,0
+Hampden County,Hemoglobin / Hematocrit / Platelet count,34,34,34,34,34,34,34
+Hampden County,Teleradiotherapy procedure (procedure),34,34,34,34,34,34,34
+Hampden County,Throat culture (procedure),30,30,30,30,30,30,30
+Hampden County,Measurement of respiratory function (procedure),26,26,26,26,26,26,26
+Hampden County,Cognitive and behavioral therapy,24,24,24,24,24,24,24
+Hampden County,Standard pregnancy test,22,22,22,22,22,22,22
+Hampden County,Ultrasound scan for fetal viability,22,22,22,22,22,22,22
+Hampden County,Electrical cardioversion,21,21,21,21,21,21,21
+Hampden County,Depression screening,19,19,19,19,19,5,5
+Hampden County,Blood typing  RH typing,18,18,18,18,18,18,18
+Hampden County,Measurement of Varicella-zoster virus antibody,18,18,18,18,18,18,18
+Hampden County,Urine protein test,18,18,18,18,18,18,18
+Hampden County,Syphilis infection test,18,18,18,18,18,18,18
+Hampden County,Skin test for tuberculosis,18,18,18,18,18,18,18
+Hampden County,Cytopathology procedure  preparation of smear  genital source,18,18,18,18,18,18,18
+Hampden County,Urine culture,18,18,18,18,18,18,18
+Hampden County,Physical examination of mother,18,18,18,18,18,18,18
+Hampden County,Chlamydia antigen test,18,18,18,18,18,18,18
+Hampden County,Gonorrhea infection test,18,18,18,18,18,18,18
+Hampden County,Hepatitis B Surface Antigen Measurement,18,18,18,18,18,18,18
+Hampden County,Hepatitis C antibody test,18,18,18,18,18,18,18
+Hampden County,Urine screening test for diabetes,18,18,18,18,18,18,18
+Hampden County,Human immunodeficiency virus antigen test,18,18,18,18,18,18,18
+Hampden County,Rubella screening,18,18,18,18,18,18,18
+Hampden County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,18,18,18,18,18,18,18
+Hampden County,Fetal anatomy study,17,17,17,17,17,17,17
+Hampden County,Alpha-fetoprotein test,17,17,17,17,17,17,17
+Hampden County,Vaccination for diphtheria  pertussis  and tetanus,16,16,16,16,16,16,16
+Hampden County,Insertion of subcutaneous contraceptive,16,16,16,16,16,0,0
+Hampden County,Urine screening for glucose,16,16,16,16,16,16,16
+Hampden County,Plain chest X-ray (procedure),15,15,15,15,15,1,1
+Hampden County,Transthoracic three dimensional ultrasonography of heart (procedure),14,14,14,14,14,0,0
+Hampden County,Streptococcus pneumoniae group B antigen test,14,14,14,14,14,14,14
+Hampden County,Physical examination following birth,14,14,14,14,14,0,0
+Hampden County,Removal of subcutaneous contraceptive,13,13,13,13,13,0,0
+Hampden County,Childbirth,13,13,13,13,13,13,13
+Hampden County,Information gathering (procedure),12,12,12,12,12,0,0
+Hampden County,Insertion of intrauterine contraceptive device,10,10,10,10,10,0,0
+Hampden County,Catheter ablation of tissue of heart,10,10,10,10,10,10,10
+Hampden County,Sputum examination (procedure),9,9,9,9,9,9,9
+Hampden County,RhD passive immunization,9,9,9,9,9,5,5
+Hampden County,Digital examination of rectum,8,8,8,8,8,0,0
+Hampden County,Manual pelvic examination (procedure),8,8,8,8,8,8,8
+Hampden County,Mammography (procedure),8,8,8,8,8,8,8
+Hampden County,Cytopathology procedure  preparation of smear  genital source (procedure),8,8,8,8,8,8,8
+Hampden County,Bone immobilization,7,7,7,7,7,7,7
+Hampden County,Rectal polypectomy,6,6,6,6,6,6,6
+Hampden County,Replacement of contraceptive intrauterine device,6,6,6,6,6,0,0
+Hampden County,Transthoracic echocardiography,6,6,6,6,6,0,0
+Hampden County,Plain chest X-ray,6,6,6,6,6,0,0
+Hampden County,Episiotomy,6,6,6,6,6,6,6
+Hampden County,Suture open wound,6,6,6,6,6,6,6
+Hampden County,Knee X-ray,5,5,5,5,5,0,0
+Hampden County,Antenatal RhD antibody screening,5,5,5,5,5,5,5
+Hampden County,Brief general examination (procedure),4,4,4,4,4,0,0
+Hampden County,Review of systems (procedure),4,4,4,4,4,0,0
+Hampden County,Allergy screening test,4,4,4,4,4,0,0
+Hampden County,Screening for occult blood in feces (procedure),4,4,4,4,4,4,4
+Hampden County,Bone density scan (procedure),4,4,4,4,4,1,1
+Hampden County,Epidural anesthesia,4,4,4,4,4,4,4
+Hampden County,Echocardiography (procedure),4,4,4,4,4,4,4
+Hampden County,Peripheral blood smear interpretation,4,4,4,4,4,0,0
+Hampden County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),3,3,3,3,3,0,0
+Hampden County,Induced termination of pregnancy,3,3,3,3,3,3,3
+Hampden County,Pregnancy termination care,3,3,3,3,3,3,3
+Hampden County,Bilateral tubal ligation,3,3,3,3,3,0,0
+Hampden County,Physical exam following abortion,3,3,3,3,3,3,3
+Hampden County,Counseling for termination of pregnancy,3,3,3,3,3,3,3
+Hampden County,Upper arm X-ray,3,3,3,3,3,0,0
+Hampden County,Surgical manipulation of joint of knee,3,3,3,3,3,3,3
+Hampden County,Physical examination,2,2,2,2,2,2,2
+Hampden County,X-ray or wrist,2,2,2,2,2,0,0
+Hampden County,Removal of intrauterine device,2,2,2,2,2,0,0
+Hampden County,Percutaneous coronary intervention,2,2,2,2,2,2,2
+Hampden County,Augmentation of labor,2,2,2,2,2,2,2
+Hampden County,Biopsy of colon,2,2,2,2,2,2,2
+Hampden County,Biopsy of prostate,2,2,2,2,2,0,0
+Hampden County,Admission to orthopedic department,2,2,2,2,2,2,2
+Hampden County,Coronary artery bypass grafting,2,2,2,2,2,2,2
+Hampden County,Clavicle X-ray,1,1,1,1,1,0,0
+Hampden County,Chest X-ray,1,1,1,1,1,0,0
+Hampden County,Cesarean section,1,1,1,1,1,1,1
+Hampden County,Biopsy of breast (procedure),1,1,1,1,1,0,0
+Hampden County,Excision of axillary lymph node (procedure),1,1,1,1,1,1,1
+Hampden County,Insertion of biventricular implantable cardioverter defibrillator,1,1,1,1,1,1,1
+Hampden County,Injection of tetanus antitoxin,1,1,1,1,1,1,1
+Hampden County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),1,1,1,1,1,1,1
+Hampden County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),1,1,1,1,1,1,1
+Hampden County,Extraction of wisdom tooth,1,1,1,1,1,0,0
+Hampden County,Ankle X-ray,1,1,1,1,1,0,0
+Hampden County,Lumpectomy of breast (procedure),1,1,1,1,1,1,1
+Hampden County,Referral to hypertension clinic,1,1,1,1,1,0,0
+Hampden County,Ultrasonography of bilateral breasts (procedure),1,1,1,1,1,0,0
+Hampden County,Vasectomy,1,1,1,1,1,0,0
+Hampden County,Pelvis X-ray,1,1,1,1,1,0,0
+Hampden County,Partial resection of colon,1,1,1,1,1,1,1
+Hampden County,Medical induction of labor,1,1,1,1,1,1,1
+Hampden County,Mammogram - symptomatic (procedure),1,1,1,1,1,0,0
+Hampden County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,1,1,1,1,1,1,1
+Hampshire County,Medication Reconciliation (procedure),187,187,187,187,187,0,0
+Hampshire County,Combined chemotherapy and radiation therapy (procedure),154,154,154,154,154,154,154
+Hampshire County,High resolution computed tomography of chest without contrast (procedure),154,154,154,154,154,0,0
+Hampshire County,Hearing examination (procedure),154,154,154,154,154,0,0
+Hampshire County,Subcutaneous immunotherapy,120,120,120,120,120,0,0
+Hampshire County,Intramuscular injection,99,99,99,99,99,0,0
+Hampshire County,Evaluation of uterine fundal height,75,75,75,75,75,75,75
+Hampshire County,Auscultation of the fetal heart,75,75,75,75,75,75,75
+Hampshire County,Colonoscopy,18,18,18,18,18,0,0
+Hampshire County,Hemoglobin / Hematocrit / Platelet count,16,16,16,16,16,16,16
+Hampshire County,Depression screening,14,14,14,14,14,5,5
+Hampshire County,Standard pregnancy test,13,13,13,13,13,13,13
+Hampshire County,Ultrasound scan for fetal viability,13,13,13,13,13,13,13
+Hampshire County,Measurement of respiratory function (procedure),9,9,9,9,9,9,9
+Hampshire County,Physical examination following birth,9,9,9,9,9,0,0
+Hampshire County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,8,8,8,8,8,8,8
+Hampshire County,Skin test for tuberculosis,8,8,8,8,8,8,8
+Hampshire County,Gonorrhea infection test,8,8,8,8,8,8,8
+Hampshire County,Fetal anatomy study,8,8,8,8,8,8,8
+Hampshire County,Vaccination for diphtheria  pertussis  and tetanus,8,8,8,8,8,8,8
+Hampshire County,Rubella screening,8,8,8,8,8,8,8
+Hampshire County,Hepatitis C antibody test,8,8,8,8,8,8,8
+Hampshire County,Hepatitis B Surface Antigen Measurement,8,8,8,8,8,8,8
+Hampshire County,Human immunodeficiency virus antigen test,8,8,8,8,8,8,8
+Hampshire County,Cytopathology procedure  preparation of smear  genital source,8,8,8,8,8,8,8
+Hampshire County,Urine screening for glucose,8,8,8,8,8,8,8
+Hampshire County,Urine protein test,8,8,8,8,8,8,8
+Hampshire County,Urine culture,8,8,8,8,8,8,8
+Hampshire County,Measurement of Varicella-zoster virus antibody,8,8,8,8,8,8,8
+Hampshire County,Streptococcus pneumoniae group B antigen test,8,8,8,8,8,8,8
+Hampshire County,Syphilis infection test,8,8,8,8,8,8,8
+Hampshire County,Urine screening test for diabetes,8,8,8,8,8,8,8
+Hampshire County,Alpha-fetoprotein test,8,8,8,8,8,8,8
+Hampshire County,Chlamydia antigen test,8,8,8,8,8,8,8
+Hampshire County,Physical examination of mother,8,8,8,8,8,8,8
+Hampshire County,Blood typing  RH typing,8,8,8,8,8,8,8
+Hampshire County,Plain chest X-ray (procedure),7,7,7,7,7,4,4
+Hampshire County,Childbirth,7,7,7,7,7,7,7
+Hampshire County,Allergy screening test,6,6,6,6,6,0,0
+Hampshire County,Throat culture (procedure),6,6,6,6,6,6,6
+Hampshire County,Suture open wound,6,6,6,6,6,6,6
+Hampshire County,Sputum examination (procedure),6,6,6,6,6,6,6
+Hampshire County,Plain chest X-ray,4,4,4,4,4,0,0
+Hampshire County,Physical examination,4,4,4,4,4,4,4
+Hampshire County,Bone immobilization,4,4,4,4,4,4,4
+Hampshire County,Electrical cardioversion,4,4,4,4,4,4,4
+Hampshire County,Transthoracic three dimensional ultrasonography of heart (procedure),4,4,4,4,4,0,0
+Hampshire County,Transthoracic echocardiography,3,3,3,3,3,0,0
+Hampshire County,Echocardiography (procedure),3,3,3,3,3,3,3
+Hampshire County,Magnetic resonance imaging for measurement of brain volume (procedure),3,3,3,3,3,3,3
+Hampshire County,Computed tomography of chest and abdomen,3,3,3,3,3,3,3
+Hampshire County,Epidural anesthesia,2,2,2,2,2,2,2
+Hampshire County,Chest X-ray,2,2,2,2,2,0,0
+Hampshire County,Catheter ablation of tissue of heart,2,2,2,2,2,2,2
+Hampshire County,Brief general examination (procedure),2,2,2,2,2,0,0
+Hampshire County,Augmentation of labor,2,2,2,2,2,2,2
+Hampshire County,Diagnostic fiberoptic bronchoscopy (procedure),2,2,2,2,2,2,2
+Hampshire County,Episiotomy,2,2,2,2,2,2,2
+Hampshire County,Insertion of intrauterine contraceptive device,2,2,2,2,2,0,0
+Hampshire County,Injection of tetanus antitoxin,2,2,2,2,2,2,2
+Hampshire County,Removal of intrauterine device,2,2,2,2,2,0,0
+Hampshire County,Removal of subcutaneous contraceptive,2,2,2,2,2,0,0
+Hampshire County,Review of systems (procedure),2,2,2,2,2,0,0
+Hampshire County,Peripheral blood smear interpretation,2,2,2,2,2,0,0
+Hampshire County,Injection of adrenaline,2,2,2,2,2,0,0
+Hampshire County,Rectal polypectomy,1,1,1,1,1,1,1
+Hampshire County,Counseling for termination of pregnancy,1,1,1,1,1,1,1
+Hampshire County,Coronary artery bypass grafting,1,1,1,1,1,1,1
+Hampshire County,Cesarean section,1,1,1,1,1,1,1
+Hampshire County,Pregnancy termination care,1,1,1,1,1,1,1
+Hampshire County,Excision of fallopian tube and surgical removal of ectopic pregnancy,1,1,1,1,1,0,0
+Hampshire County,Induced termination of pregnancy,1,1,1,1,1,1,1
+Hampshire County,Extraction of wisdom tooth,1,1,1,1,1,0,0
+Hampshire County,Vasectomy,1,1,1,1,1,0,0
+Hampshire County,Information gathering (procedure),1,1,1,1,1,0,0
+Hampshire County,Upper arm X-ray,1,1,1,1,1,0,0
+Hampshire County,Physical exam following abortion,1,1,1,1,1,1,1
+Hampshire County,Screening for occult blood in feces (procedure),1,1,1,1,1,1,1
+Hampshire County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,1,1,1,1,1,1,1
+Hampshire County,Percutaneous coronary intervention,1,1,1,1,1,1,1
+Hampshire County,Insertion of subcutaneous contraceptive,1,1,1,1,1,0,0
+Hampshire County,Thoracentesis (procedure),1,1,1,1,1,1,1
+Hampshire County,Insertion of biventricular implantable cardioverter defibrillator,1,1,1,1,1,1,1
+Hampshire County,Bilateral tubal ligation,1,1,1,1,1,0,0
+Hampshire County,Asthma screening,1,1,1,1,1,1,1
+Hampshire County,Appendectomy,1,1,1,1,1,1,1
+Hampshire County,Ankle X-ray,1,1,1,1,1,0,0
+Middlesex County,Medication Reconciliation (procedure),1132,1132,1132,1132,1132,0,0
+Middlesex County,Evaluation of uterine fundal height,636,636,636,636,636,636,636
+Middlesex County,Auscultation of the fetal heart,636,636,636,636,636,636,636
+Middlesex County,Subcutaneous immunotherapy,612,612,612,612,612,0,0
+Middlesex County,Intramuscular injection,300,300,300,300,300,0,0
+Middlesex County,Hemoglobin / Hematocrit / Platelet count,146,146,146,146,146,146,146
+Middlesex County,Combined chemotherapy and radiation therapy (procedure),111,111,111,111,111,111,111
+Middlesex County,Standard pregnancy test,105,105,105,105,105,105,105
+Middlesex County,Ultrasound scan for fetal viability,105,105,105,105,105,105,105
+Middlesex County,Depression screening,102,102,102,102,102,31,31
+Middlesex County,Colonoscopy,97,97,97,97,97,0,0
+Middlesex County,High resolution computed tomography of chest without contrast (procedure),78,78,78,78,78,0,0
+Middlesex County,Hearing examination (procedure),78,78,78,78,78,0,0
+Middlesex County,Electrical cardioversion,77,77,77,77,77,77,77
+Middlesex County,Skin test for tuberculosis,75,75,75,75,75,75,75
+Middlesex County,Gonorrhea infection test,75,75,75,75,75,75,75
+Middlesex County,Rubella screening,75,75,75,75,75,75,75
+Middlesex County,Urine culture,75,75,75,75,75,75,75
+Middlesex County,Hepatitis B Surface Antigen Measurement,75,75,75,75,75,75,75
+Middlesex County,Urine screening test for diabetes,75,75,75,75,75,75,75
+Middlesex County,Chlamydia antigen test,75,75,75,75,75,75,75
+Middlesex County,Urine protein test,75,75,75,75,75,75,75
+Middlesex County,Measurement of Varicella-zoster virus antibody,75,75,75,75,75,75,75
+Middlesex County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,75,75,75,75,75,75,75
+Middlesex County,Hepatitis C antibody test,75,75,75,75,75,75,75
+Middlesex County,Human immunodeficiency virus antigen test,75,75,75,75,75,75,75
+Middlesex County,Physical examination of mother,75,75,75,75,75,75,75
+Middlesex County,Cytopathology procedure  preparation of smear  genital source,75,75,75,75,75,75,75
+Middlesex County,Syphilis infection test,75,75,75,75,75,75,75
+Middlesex County,Blood typing  RH typing,75,75,75,75,75,75,75
+Middlesex County,Fetal anatomy study,72,72,72,72,72,72,72
+Middlesex County,Alpha-fetoprotein test,72,72,72,72,72,72,72
+Middlesex County,Physical examination following birth,71,71,71,71,71,0,0
+Middlesex County,Vaccination for diphtheria  pertussis  and tetanus,71,71,71,71,71,71,71
+Middlesex County,Urine screening for glucose,71,71,71,71,71,71,71
+Middlesex County,Throat culture (procedure),69,69,69,69,69,69,69
+Middlesex County,Spirometry (procedure),68,68,68,68,68,68,68
+Middlesex County,Streptococcus pneumoniae group B antigen test,62,62,62,62,62,62,62
+Middlesex County,Measurement of respiratory function (procedure),62,62,62,62,62,62,62
+Middlesex County,Mammography (procedure),58,58,58,58,58,58,58
+Middlesex County,Childbirth,55,55,55,55,55,55,55
+Middlesex County,Manual pelvic examination (procedure),47,47,47,47,47,47,47
+Middlesex County,Cytopathology procedure  preparation of smear  genital source (procedure),47,47,47,47,47,47,47
+Middlesex County,Suture open wound,44,44,44,44,44,44,44
+Middlesex County,RhD passive immunization,36,36,36,36,36,24,24
+Middlesex County,Radiation oncology AND/OR radiotherapy (procedure),34,34,34,34,34,34,34
+Middlesex County,Teleradiotherapy procedure (procedure),34,34,34,34,34,34,34
+Middlesex County,Insertion of subcutaneous contraceptive,32,32,32,32,32,0,0
+Middlesex County,Pulmonary rehabilitation (regime/therapy),32,32,32,32,32,32,32
+Middlesex County,Bone immobilization,28,28,28,28,28,28,28
+Middlesex County,Bone density scan (procedure),27,27,27,27,27,20,20
+Middlesex County,Insertion of intrauterine contraceptive device,26,26,26,26,26,0,0
+Middlesex County,Catheter ablation of tissue of heart,26,26,26,26,26,26,26
+Middlesex County,Information gathering (procedure),25,25,25,25,25,0,0
+Middlesex County,Allergy screening test,24,24,24,24,24,0,0
+Middlesex County,Transthoracic three dimensional ultrasonography of heart (procedure),24,24,24,24,24,0,0
+Middlesex County,Plain chest X-ray (procedure),24,24,24,24,24,9,9
+Middlesex County,Replacement of contraceptive intrauterine device,22,22,22,22,22,0,0
+Middlesex County,Sputum examination (procedure),22,22,22,22,22,22,22
+Middlesex County,Review of systems (procedure),19,19,19,19,19,0,0
+Middlesex County,Removal of intrauterine device,19,19,19,19,19,0,0
+Middlesex County,Brief general examination (procedure),19,19,19,19,19,0,0
+Middlesex County,Peripheral blood smear interpretation,19,19,19,19,19,0,0
+Middlesex County,Removal of subcutaneous contraceptive,19,19,19,19,19,0,0
+Middlesex County,Physical exam following abortion,18,18,18,18,18,18,18
+Middlesex County,Episiotomy,18,18,18,18,18,18,18
+Middlesex County,Counseling for termination of pregnancy,18,18,18,18,18,18,18
+Middlesex County,Digital examination of rectum,18,18,18,18,18,0,0
+Middlesex County,Induced termination of pregnancy,18,18,18,18,18,18,18
+Middlesex County,Pregnancy termination care,18,18,18,18,18,18,18
+Middlesex County,Epidural anesthesia,15,15,15,15,15,15,15
+Middlesex County,Echocardiography (procedure),14,14,14,14,14,14,14
+Middlesex County,Rectal polypectomy,13,13,13,13,13,13,13
+Middlesex County,Physical examination,13,13,13,13,13,13,13
+Middlesex County,Plain chest X-ray,12,12,12,12,12,0,0
+Middlesex County,Transthoracic echocardiography,12,12,12,12,12,0,0
+Middlesex County,Antenatal RhD antibody screening,11,11,11,11,11,11,11
+Middlesex County,Injection of tetanus antitoxin,11,11,11,11,11,11,11
+Middlesex County,Screening for occult blood in feces (procedure),11,11,11,11,11,11,11
+Middlesex County,Cesarean section,9,9,9,9,9,9,9
+Middlesex County,Medical induction of labor,9,9,9,9,9,9,9
+Middlesex County,Upper arm X-ray,9,9,9,9,9,0,0
+Middlesex County,Augmentation of labor,8,8,8,8,8,8,8
+Middlesex County,X-ray or wrist,8,8,8,8,8,0,0
+Middlesex County,Chemotherapy (procedure),8,8,8,8,8,8,8
+Middlesex County,Ankle X-ray,7,7,7,7,7,0,0
+Middlesex County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,6,6,6,6,6,6,6
+Middlesex County,Premature birth of newborn,6,6,6,6,6,6,6
+Middlesex County,Biopsy of prostate,6,6,6,6,6,0,0
+Middlesex County,Asthma screening,6,6,6,6,6,6,6
+Middlesex County,Percutaneous coronary intervention,5,5,5,5,5,5,5
+Middlesex County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),5,5,5,5,5,0,0
+Middlesex County,Coronary artery bypass grafting,5,5,5,5,5,5,5
+Middlesex County,Knee X-ray,5,5,5,5,5,0,0
+Middlesex County,Clavicle X-ray,4,4,4,4,4,0,0
+Middlesex County,Admission to orthopedic department,4,4,4,4,4,4,4
+Middlesex County,Instrumental delivery,4,4,4,4,4,4,4
+Middlesex County,Chest X-ray,4,4,4,4,4,0,0
+Middlesex County,Surgical manipulation of joint of knee,4,4,4,4,4,4,4
+Middlesex County,Extraction of wisdom tooth,4,4,4,4,4,0,0
+Middlesex County,Insertion of biventricular implantable cardioverter defibrillator,3,3,3,3,3,3,3
+Middlesex County,Bilateral tubal ligation,3,3,3,3,3,0,0
+Middlesex County,Injection of adrenaline,3,3,3,3,3,0,0
+Middlesex County,Computed tomography of chest and abdomen,3,3,3,3,3,3,3
+Middlesex County,Magnetic resonance imaging for measurement of brain volume (procedure),3,3,3,3,3,3,3
+Middlesex County,Mammogram - symptomatic (procedure),2,2,2,2,2,0,0
+Middlesex County,Intravenous blood transfusion of packed cells (procedure),2,2,2,2,2,0,0
+Middlesex County,Appendectomy,2,2,2,2,2,2,2
+Middlesex County,Cognitive and behavioral therapy,2,2,2,2,2,2,2
+Middlesex County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),2,2,2,2,2,2,2
+Middlesex County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2,2,2,2,2,2,2
+Middlesex County,Excision of fallopian tube and surgical removal of ectopic pregnancy,2,2,2,2,2,0,0
+Middlesex County,Biopsy of breast (procedure),2,2,2,2,2,0,0
+Middlesex County,Ultrasonography of bilateral breasts (procedure),2,2,2,2,2,0,0
+Middlesex County,Referral to hypertension clinic,2,2,2,2,2,0,0
+Middlesex County,Nasal sinus endoscopy (procedure),2,2,2,2,2,0,0
+Middlesex County,Biopsy of colon,1,1,1,1,1,1,1
+Middlesex County,Admission to trauma surgery department,1,1,1,1,1,1,1
+Middlesex County,Sputum microscopy (procedure),1,1,1,1,1,1,1
+Middlesex County,Prostatectomy,1,1,1,1,1,1,1
+Middlesex County,Surgical manipulation of shoulder joint,1,1,1,1,1,1,1
+Middlesex County,Thoracentesis (procedure),1,1,1,1,1,1,1
+Middlesex County,Vasectomy,1,1,1,1,1,0,0
+Middlesex County,Partial resection of colon,1,1,1,1,1,1,1
+Middlesex County,Methotrexate injection into tubal pregnancy,1,1,1,1,1,0,0
+Middlesex County,Fine needle aspiration biopsy of lung (procedure),1,1,1,1,1,1,1
+Middlesex County,Excision of breast tissue (procedure),1,1,1,1,1,1,1
+Middlesex County,Excision of axillary lymph node (procedure),1,1,1,1,1,1,1
+Middlesex County,Lumpectomy of breast (procedure),1,1,1,1,1,1,1
+Nantucket County,Intramuscular injection,27,27,27,27,27,0,0
+Nantucket County,Auscultation of the fetal heart,15,15,15,15,15,15,15
+Nantucket County,Evaluation of uterine fundal height,15,15,15,15,15,15,15
+Nantucket County,Medication Reconciliation (procedure),9,9,9,9,9,0,0
+Nantucket County,Ultrasound scan for fetal viability,3,3,3,3,3,3,3
+Nantucket County,Standard pregnancy test,3,3,3,3,3,3,3
+Nantucket County,Hemoglobin / Hematocrit / Platelet count,3,3,3,3,3,3,3
+Nantucket County,Depression screening,2,2,2,2,2,1,1
+Nantucket County,Chlamydia antigen test,2,2,2,2,2,2,2
+Nantucket County,Colonoscopy,2,2,2,2,2,0,0
+Nantucket County,Alpha-fetoprotein test,2,2,2,2,2,2,2
+Nantucket County,Blood typing  RH typing,2,2,2,2,2,2,2
+Nantucket County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,2,2,2,2,2,2,2
+Nantucket County,Rubella screening,2,2,2,2,2,2,2
+Nantucket County,Physical examination of mother,2,2,2,2,2,2,2
+Nantucket County,Cytopathology procedure  preparation of smear  genital source,2,2,2,2,2,2,2
+Nantucket County,Measurement of Varicella-zoster virus antibody,2,2,2,2,2,2,2
+Nantucket County,Human immunodeficiency virus antigen test,2,2,2,2,2,2,2
+Nantucket County,Hepatitis C antibody test,2,2,2,2,2,2,2
+Nantucket County,Hepatitis B Surface Antigen Measurement,2,2,2,2,2,2,2
+Nantucket County,Gonorrhea infection test,2,2,2,2,2,2,2
+Nantucket County,Fetal anatomy study,2,2,2,2,2,2,2
+Nantucket County,Skin test for tuberculosis,2,2,2,2,2,2,2
+Nantucket County,Urine culture,2,2,2,2,2,2,2
+Nantucket County,Urine protein test,2,2,2,2,2,2,2
+Nantucket County,Urine screening test for diabetes,2,2,2,2,2,2,2
+Nantucket County,Syphilis infection test,2,2,2,2,2,2,2
+Nantucket County,Vaccination for diphtheria  pertussis  and tetanus,1,1,1,1,1,1,1
+Nantucket County,Childbirth,1,1,1,1,1,1,1
+Nantucket County,Counseling for termination of pregnancy,1,1,1,1,1,1,1
+Nantucket County,Urine screening for glucose,1,1,1,1,1,1,1
+Nantucket County,Suture open wound,1,1,1,1,1,1,1
+Nantucket County,Streptococcus pneumoniae group B antigen test,1,1,1,1,1,1,1
+Nantucket County,Pregnancy termination care,1,1,1,1,1,1,1
+Nantucket County,Physical examination following birth,1,1,1,1,1,0,0
+Nantucket County,Physical exam following abortion,1,1,1,1,1,1,1
+Nantucket County,Induced termination of pregnancy,1,1,1,1,1,1,1
+Nantucket County,Episiotomy,1,1,1,1,1,1,1
+Norfolk County,Renal dialysis (procedure),959,959,959,959,959,0,0
+Norfolk County,Medication Reconciliation (procedure),676,676,676,676,676,0,0
+Norfolk County,Electrical cardioversion,326,326,326,326,326,326,326
+Norfolk County,Evaluation of uterine fundal height,325,325,325,325,325,325,325
+Norfolk County,Auscultation of the fetal heart,325,325,325,325,325,325,325
+Norfolk County,Subcutaneous immunotherapy,158,158,158,158,158,0,0
+Norfolk County,Intramuscular injection,127,127,127,127,127,0,0
+Norfolk County,Catheter ablation of tissue of heart,92,92,92,92,92,92,92
+Norfolk County,Hemoglobin / Hematocrit / Platelet count,75,75,75,75,75,75,75
+Norfolk County,Standard pregnancy test,64,64,64,64,64,64,64
+Norfolk County,Ultrasound scan for fetal viability,64,64,64,64,64,64,64
+Norfolk County,Depression screening,64,64,64,64,64,29,29
+Norfolk County,Colonoscopy,60,60,60,60,60,0,0
+Norfolk County,Spirometry (procedure),48,48,48,48,48,48,48
+Norfolk County,Throat culture (procedure),40,40,40,40,40,40,40
+Norfolk County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,39,39,39,39,39,39,39
+Norfolk County,Syphilis infection test,38,38,38,38,38,38,38
+Norfolk County,Chlamydia antigen test,38,38,38,38,38,38,38
+Norfolk County,Gonorrhea infection test,38,38,38,38,38,38,38
+Norfolk County,Urine culture,38,38,38,38,38,38,38
+Norfolk County,Urine protein test,38,38,38,38,38,38,38
+Norfolk County,Cytopathology procedure  preparation of smear  genital source,38,38,38,38,38,38,38
+Norfolk County,Blood typing  RH typing,38,38,38,38,38,38,38
+Norfolk County,Hepatitis C antibody test,38,38,38,38,38,38,38
+Norfolk County,Hepatitis B Surface Antigen Measurement,38,38,38,38,38,38,38
+Norfolk County,Urine screening test for diabetes,38,38,38,38,38,38,38
+Norfolk County,Rubella screening,38,38,38,38,38,38,38
+Norfolk County,Human immunodeficiency virus antigen test,38,38,38,38,38,38,38
+Norfolk County,Skin test for tuberculosis,38,38,38,38,38,38,38
+Norfolk County,Measurement of Varicella-zoster virus antibody,38,38,38,38,38,38,38
+Norfolk County,Physical examination of mother,38,38,38,38,38,38,38
+Norfolk County,Urine screening for glucose,37,37,37,37,37,37,37
+Norfolk County,Vaccination for diphtheria  pertussis  and tetanus,37,37,37,37,37,37,37
+Norfolk County,Alpha-fetoprotein test,36,36,36,36,36,36,36
+Norfolk County,Fetal anatomy study,36,36,36,36,36,36,36
+Norfolk County,Physical examination following birth,35,35,35,35,35,0,0
+Norfolk County,Measurement of respiratory function (procedure),34,34,34,34,34,34,34
+Norfolk County,Streptococcus pneumoniae group B antigen test,32,32,32,32,32,32,32
+Norfolk County,Childbirth,31,31,31,31,31,31,31
+Norfolk County,Combined chemotherapy and radiation therapy (procedure),30,30,30,30,30,30,30
+Norfolk County,Suture open wound,23,23,23,23,23,23,23
+Norfolk County,Cognitive and behavioral therapy,23,23,23,23,23,23,23
+Norfolk County,Manual pelvic examination (procedure),21,21,21,21,21,21,21
+Norfolk County,Cytopathology procedure  preparation of smear  genital source (procedure),21,21,21,21,21,21,21
+Norfolk County,Insertion of intrauterine contraceptive device,16,16,16,16,16,0,0
+Norfolk County,Physical examination,16,16,16,16,16,16,16
+Norfolk County,Plain chest X-ray (procedure),16,16,16,16,16,8,8
+Norfolk County,Removal of intrauterine device,14,14,14,14,14,0,0
+Norfolk County,Bone immobilization,14,14,14,14,14,14,14
+Norfolk County,Induced termination of pregnancy,13,13,13,13,13,13,13
+Norfolk County,Pregnancy termination care,13,13,13,13,13,13,13
+Norfolk County,Physical exam following abortion,13,13,13,13,13,13,13
+Norfolk County,Counseling for termination of pregnancy,13,13,13,13,13,13,13
+Norfolk County,RhD passive immunization,12,12,12,12,12,9,9
+Norfolk County,Bone density scan (procedure),12,12,12,12,12,7,7
+Norfolk County,Insertion of subcutaneous contraceptive,11,11,11,11,11,0,0
+Norfolk County,Mammography (procedure),11,11,11,11,11,11,11
+Norfolk County,Transthoracic three dimensional ultrasonography of heart (procedure),10,10,10,10,10,0,0
+Norfolk County,Rectal polypectomy,10,10,10,10,10,10,10
+Norfolk County,Allergy screening test,10,10,10,10,10,0,0
+Norfolk County,Digital examination of rectum,10,10,10,10,10,0,0
+Norfolk County,Medical induction of labor,9,9,9,9,9,9,9
+Norfolk County,Episiotomy,8,8,8,8,8,8,8
+Norfolk County,Information gathering (procedure),8,8,8,8,8,0,0
+Norfolk County,Replacement of contraceptive intrauterine device,8,8,8,8,8,0,0
+Norfolk County,Screening for occult blood in feces (procedure),8,8,8,8,8,8,8
+Norfolk County,Plain chest X-ray,7,7,7,7,7,0,0
+Norfolk County,Transthoracic echocardiography,7,7,7,7,7,0,0
+Norfolk County,Echocardiography (procedure),6,6,6,6,6,6,6
+Norfolk County,Review of systems (procedure),6,6,6,6,6,0,0
+Norfolk County,Peripheral blood smear interpretation,6,6,6,6,6,0,0
+Norfolk County,Brief general examination (procedure),6,6,6,6,6,0,0
+Norfolk County,Removal of subcutaneous contraceptive,5,5,5,5,5,0,0
+Norfolk County,Antenatal RhD antibody screening,5,5,5,5,5,5,5
+Norfolk County,Sputum examination (procedure),5,5,5,5,5,5,5
+Norfolk County,Knee X-ray,5,5,5,5,5,0,0
+Norfolk County,Surgical manipulation of joint of knee,5,5,5,5,5,5,5
+Norfolk County,Injection of tetanus antitoxin,4,4,4,4,4,4,4
+Norfolk County,Instrumental delivery,4,4,4,4,4,4,4
+Norfolk County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,4,4,4,4,4,4,4
+Norfolk County,Ankle X-ray,4,4,4,4,4,0,0
+Norfolk County,X-ray or wrist,4,4,4,4,4,0,0
+Norfolk County,Upper arm X-ray,4,4,4,4,4,0,0
+Norfolk County,Methotrexate injection into tubal pregnancy,3,3,3,3,3,1,1
+Norfolk County,Premature birth of newborn,3,3,3,3,3,3,3
+Norfolk County,Epidural anesthesia,3,3,3,3,3,3,3
+Norfolk County,Biopsy of prostate,3,3,3,3,3,0,0
+Norfolk County,Asthma screening,2,2,2,2,2,2,2
+Norfolk County,Augmentation of labor,2,2,2,2,2,2,2
+Norfolk County,Prostatectomy,2,2,2,2,2,2,2
+Norfolk County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),2,2,2,2,2,0,0
+Norfolk County,Excision of fallopian tube and surgical removal of ectopic pregnancy,2,2,2,2,2,0,0
+Norfolk County,Clavicle X-ray,2,2,2,2,2,0,0
+Norfolk County,Chest X-ray,2,2,2,2,2,0,0
+Norfolk County,Cesarean section,2,2,2,2,2,2,2
+Norfolk County,Injection of adrenaline,2,2,2,2,2,0,0
+Norfolk County,Admission to orthopedic department,2,2,2,2,2,2,2
+Norfolk County,Spontaneous breech delivery,1,1,1,1,1,1,1
+Norfolk County,Referral to hypertension clinic,1,1,1,1,1,0,0
+Norfolk County,Thoracentesis (procedure),1,1,1,1,1,1,1
+Norfolk County,Vasectomy,1,1,1,1,1,0,0
+Norfolk County,Percutaneous coronary intervention,1,1,1,1,1,1,1
+Norfolk County,Biopsy of colon,1,1,1,1,1,1,1
+Norfolk County,Bilateral tubal ligation,1,1,1,1,1,0,0
+Norfolk County,Partial resection of colon,1,1,1,1,1,1,1
+Norfolk County,Computed tomography of chest and abdomen,1,1,1,1,1,1,1
+Norfolk County,Coronary artery bypass grafting,1,1,1,1,1,1,1
+Norfolk County,Magnetic resonance imaging for measurement of brain volume (procedure),1,1,1,1,1,1,1
+Norfolk County,Intravenous blood transfusion of packed cells (procedure),1,1,1,1,1,0,0
+Norfolk County,Insertion of biventricular implantable cardioverter defibrillator,1,1,1,1,1,1,1
+Plymouth County,Medication Reconciliation (procedure),400,400,400,400,400,0,0
+Plymouth County,Auscultation of the fetal heart,185,185,185,185,185,185,185
+Plymouth County,Evaluation of uterine fundal height,185,185,185,185,185,185,185
+Plymouth County,Electrical cardioversion,144,144,144,144,144,144,144
+Plymouth County,Subcutaneous immunotherapy,60,60,60,60,60,0,0
+Plymouth County,Hemoglobin / Hematocrit / Platelet count,40,40,40,40,40,40,40
+Plymouth County,Cognitive and behavioral therapy,38,38,38,38,38,38,38
+Plymouth County,Colonoscopy,37,37,37,37,37,0,0
+Plymouth County,Hearing examination (procedure),36,36,36,36,36,0,0
+Plymouth County,Combined chemotherapy and radiation therapy (procedure),36,36,36,36,36,36,36
+Plymouth County,High resolution computed tomography of chest without contrast (procedure),36,36,36,36,36,0,0
+Plymouth County,Catheter ablation of tissue of heart,34,34,34,34,34,34,34
+Plymouth County,Intramuscular injection,30,30,30,30,30,0,0
+Plymouth County,Ultrasound scan for fetal viability,29,29,29,29,29,29,29
+Plymouth County,Depression screening,29,29,29,29,29,9,9
+Plymouth County,Standard pregnancy test,29,29,29,29,29,29,29
+Plymouth County,Measurement of respiratory function (procedure),25,25,25,25,25,25,25
+Plymouth County,Throat culture (procedure),23,23,23,23,23,23,23
+Plymouth County,Alpha-fetoprotein test,21,21,21,21,21,21,21
+Plymouth County,Physical examination of mother,21,21,21,21,21,21,21
+Plymouth County,Hepatitis B Surface Antigen Measurement,21,21,21,21,21,21,21
+Plymouth County,Blood typing  RH typing,21,21,21,21,21,21,21
+Plymouth County,Syphilis infection test,21,21,21,21,21,21,21
+Plymouth County,Gonorrhea infection test,21,21,21,21,21,21,21
+Plymouth County,Fetal anatomy study,21,21,21,21,21,21,21
+Plymouth County,Urine culture,21,21,21,21,21,21,21
+Plymouth County,Urine protein test,21,21,21,21,21,21,21
+Plymouth County,Hepatitis C antibody test,21,21,21,21,21,21,21
+Plymouth County,Urine screening test for diabetes,21,21,21,21,21,21,21
+Plymouth County,Skin test for tuberculosis,21,21,21,21,21,21,21
+Plymouth County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,21,21,21,21,21,21,21
+Plymouth County,Cytopathology procedure  preparation of smear  genital source,21,21,21,21,21,21,21
+Plymouth County,Human immunodeficiency virus antigen test,21,21,21,21,21,21,21
+Plymouth County,Rubella screening,21,21,21,21,21,21,21
+Plymouth County,Measurement of Varicella-zoster virus antibody,21,21,21,21,21,21,21
+Plymouth County,Chlamydia antigen test,21,21,21,21,21,21,21
+Plymouth County,Physical examination following birth,20,20,20,20,20,0,0
+Plymouth County,Vaccination for diphtheria  pertussis  and tetanus,19,19,19,19,19,19,19
+Plymouth County,Urine screening for glucose,19,19,19,19,19,19,19
+Plymouth County,Streptococcus pneumoniae group B antigen test,18,18,18,18,18,18,18
+Plymouth County,Chemotherapy (procedure),16,16,16,16,16,8,8
+Plymouth County,Childbirth,14,14,14,14,14,14,14
+Plymouth County,Spirometry (procedure),11,11,11,11,11,11,11
+Plymouth County,Pulmonary rehabilitation (regime/therapy),11,11,11,11,11,11,11
+Plymouth County,RhD passive immunization,9,9,9,9,9,5,5
+Plymouth County,Suture open wound,9,9,9,9,9,9,9
+Plymouth County,Replacement of contraceptive intrauterine device,8,8,8,8,8,0,0
+Plymouth County,Review of systems (procedure),6,6,6,6,6,0,0
+Plymouth County,Rectal polypectomy,6,6,6,6,6,6,6
+Plymouth County,Physical examination,6,6,6,6,6,6,6
+Plymouth County,Peripheral blood smear interpretation,6,6,6,6,6,0,0
+Plymouth County,Insertion of intrauterine contraceptive device,6,6,6,6,6,0,0
+Plymouth County,Epidural anesthesia,6,6,6,6,6,6,6
+Plymouth County,Brief general examination (procedure),6,6,6,6,6,0,0
+Plymouth County,Bone density scan (procedure),5,5,5,5,5,4,4
+Plymouth County,Allergy screening test,5,5,5,5,5,0,0
+Plymouth County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),5,5,5,5,5,0,0
+Plymouth County,Plain chest X-ray (procedure),4,4,4,4,4,3,3
+Plymouth County,Echocardiography (procedure),4,4,4,4,4,4,4
+Plymouth County,Cesarean section,4,4,4,4,4,4,4
+Plymouth County,Bone immobilization,4,4,4,4,4,4,4
+Plymouth County,Admission to orthopedic department,4,4,4,4,4,4,4
+Plymouth County,Screening for occult blood in feces (procedure),4,4,4,4,4,4,4
+Plymouth County,Antenatal RhD antibody screening,3,3,3,3,3,3,3
+Plymouth County,Pregnancy termination care,3,3,3,3,3,3,3
+Plymouth County,Sputum examination (procedure),3,3,3,3,3,3,3
+Plymouth County,Removal of subcutaneous contraceptive,3,3,3,3,3,0,0
+Plymouth County,Counseling for termination of pregnancy,3,3,3,3,3,3,3
+Plymouth County,Induced termination of pregnancy,3,3,3,3,3,3,3
+Plymouth County,Clavicle X-ray,3,3,3,3,3,0,0
+Plymouth County,Medical induction of labor,3,3,3,3,3,3,3
+Plymouth County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,3,3,3,3,3,3,3
+Plymouth County,Physical exam following abortion,3,3,3,3,3,3,3
+Plymouth County,Intravenous blood transfusion of packed cells (procedure),2,2,2,2,2,0,0
+Plymouth County,Instrumental delivery,2,2,2,2,2,2,2
+Plymouth County,Manual pelvic examination (procedure),2,2,2,2,2,2,2
+Plymouth County,Mammography (procedure),2,2,2,2,2,2,2
+Plymouth County,Removal of intrauterine device,2,2,2,2,2,0,0
+Plymouth County,Knee X-ray,2,2,2,2,2,0,0
+Plymouth County,Premature birth of newborn,2,2,2,2,2,2,2
+Plymouth County,Insertion of subcutaneous contraceptive,2,2,2,2,2,0,0
+Plymouth County,Surgical manipulation of joint of knee,2,2,2,2,2,2,2
+Plymouth County,Transthoracic three dimensional ultrasonography of heart (procedure),2,2,2,2,2,0,0
+Plymouth County,Cytopathology procedure  preparation of smear  genital source (procedure),2,2,2,2,2,2,2
+Plymouth County,Digital examination of rectum,2,2,2,2,2,0,0
+Plymouth County,Ankle X-ray,2,2,2,2,2,0,0
+Plymouth County,Bilateral tubal ligation,2,2,2,2,2,0,0
+Plymouth County,Transplant of lung (procedure),1,1,1,1,1,1,1
+Plymouth County,Biopsy of prostate,1,1,1,1,1,0,0
+Plymouth County,Biopsy of breast (procedure),1,1,1,1,1,0,0
+Plymouth County,Augmentation of labor,1,1,1,1,1,1,1
+Plymouth County,Asthma screening,1,1,1,1,1,1,1
+Plymouth County,Appendectomy,1,1,1,1,1,1,1
+Plymouth County,Upper arm X-ray,1,1,1,1,1,0,0
+Plymouth County,Transthoracic echocardiography,1,1,1,1,1,0,0
+Plymouth County,Surgical manipulation of shoulder joint,1,1,1,1,1,1,1
+Plymouth County,Excision of sentinel lymph node (procedure),1,1,1,1,1,1,1
+Plymouth County,Excision of breast tissue (procedure),1,1,1,1,1,1,1
+Plymouth County,Episiotomy,1,1,1,1,1,1,1
+Plymouth County,Coronary artery bypass grafting,1,1,1,1,1,1,1
+Plymouth County,Computed tomography of chest and abdomen,1,1,1,1,1,1,1
+Plymouth County,Chest X-ray,1,1,1,1,1,0,0
+Plymouth County,Fine needle aspiration biopsy of lung (procedure),1,1,1,1,1,1,1
+Plymouth County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),1,1,1,1,1,1,1
+Plymouth County,Sentinel lymph node biopsy (procedure),1,1,1,1,1,1,1
+Plymouth County,Screening mammography (procedure),1,1,1,1,1,0,0
+Plymouth County,Referral to hypertension clinic,1,1,1,1,1,0,0
+Plymouth County,Plain chest X-ray,1,1,1,1,1,0,0
+Plymouth County,Percutaneous coronary intervention,1,1,1,1,1,1,1
+Plymouth County,Pelvis X-ray,1,1,1,1,1,0,0
+Plymouth County,Magnetic resonance imaging of breast (procedure),1,1,1,1,1,0,0
+Plymouth County,Magnetic resonance imaging for measurement of brain volume (procedure),1,1,1,1,1,1,1
+Plymouth County,Injection of adrenaline,1,1,1,1,1,0,0
+Plymouth County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),1,1,1,1,1,1,1
+Suffolk County,Renal dialysis (procedure),1215,1215,1215,1215,1215,0,0
+Suffolk County,Medication Reconciliation (procedure),629,629,629,629,629,0,0
+Suffolk County,Auscultation of the fetal heart,332,332,332,332,332,332,332
+Suffolk County,Evaluation of uterine fundal height,332,332,332,332,332,332,332
+Suffolk County,Intramuscular injection,93,93,93,93,93,0,0
+Suffolk County,Subcutaneous immunotherapy,78,78,78,78,78,0,0
+Suffolk County,Cognitive and behavioral therapy,74,74,74,74,74,74,74
+Suffolk County,Combined chemotherapy and radiation therapy (procedure),72,72,72,72,72,72,72
+Suffolk County,Hemoglobin / Hematocrit / Platelet count,71,71,71,71,71,71,71
+Suffolk County,Depression screening,61,61,61,61,61,22,22
+Suffolk County,Colonoscopy,57,57,57,57,57,0,0
+Suffolk County,Ultrasound scan for fetal viability,55,55,55,55,55,55,55
+Suffolk County,Standard pregnancy test,55,55,55,55,55,55,55
+Suffolk County,Digital examination of rectum,44,44,44,44,44,0,0
+Suffolk County,Physical examination following birth,39,39,39,39,39,0,0
+Suffolk County,Streptococcus pneumoniae group B antigen test,38,38,38,38,38,38,38
+Suffolk County,Vaccination for diphtheria  pertussis  and tetanus,37,37,37,37,37,37,37
+Suffolk County,Urine screening for glucose,37,37,37,37,37,37,37
+Suffolk County,Throat culture (procedure),36,36,36,36,36,36,36
+Suffolk County,Childbirth,36,36,36,36,36,36,36
+Suffolk County,Blood typing  RH typing,34,34,34,34,34,34,34
+Suffolk County,Urine culture,34,34,34,34,34,34,34
+Suffolk County,Urine protein test,34,34,34,34,34,34,34
+Suffolk County,Urine screening test for diabetes,34,34,34,34,34,34,34
+Suffolk County,Chlamydia antigen test,34,34,34,34,34,34,34
+Suffolk County,Fetal anatomy study,34,34,34,34,34,34,34
+Suffolk County,Radiation therapy care (regime/therapy),34,34,34,34,34,34,34
+Suffolk County,Cytopathology procedure  preparation of smear  genital source,34,34,34,34,34,34,34
+Suffolk County,Physical examination of mother,34,34,34,34,34,34,34
+Suffolk County,Rubella screening,34,34,34,34,34,34,34
+Suffolk County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,34,34,34,34,34,34,34
+Suffolk County,Skin test for tuberculosis,34,34,34,34,34,34,34
+Suffolk County,Hepatitis C antibody test,34,34,34,34,34,34,34
+Suffolk County,Teleradiotherapy procedure (procedure),34,34,34,34,34,34,34
+Suffolk County,Syphilis infection test,34,34,34,34,34,34,34
+Suffolk County,Alpha-fetoprotein test,34,34,34,34,34,34,34
+Suffolk County,Gonorrhea infection test,34,34,34,34,34,34,34
+Suffolk County,Human immunodeficiency virus antigen test,34,34,34,34,34,34,34
+Suffolk County,Measurement of Varicella-zoster virus antibody,34,34,34,34,34,34,34
+Suffolk County,Hepatitis B Surface Antigen Measurement,34,34,34,34,34,34,34
+Suffolk County,Measurement of respiratory function (procedure),29,29,29,29,29,29,29
+Suffolk County,Suture open wound,19,19,19,19,19,19,19
+Suffolk County,Sputum examination (procedure),19,19,19,19,19,19,19
+Suffolk County,Insertion of intrauterine contraceptive device,17,17,17,17,17,0,0
+Suffolk County,Bone immobilization,16,16,16,16,16,16,16
+Suffolk County,Chemotherapy (procedure),16,16,16,16,16,8,8
+Suffolk County,Review of systems (procedure),15,15,15,15,15,0,0
+Suffolk County,Peripheral blood smear interpretation,15,15,15,15,15,0,0
+Suffolk County,Brief general examination (procedure),15,15,15,15,15,0,0
+Suffolk County,Physical examination,14,14,14,14,14,14,14
+Suffolk County,Electrical cardioversion,13,13,13,13,13,13,13
+Suffolk County,Episiotomy,13,13,13,13,13,13,13
+Suffolk County,Plain chest X-ray (procedure),12,12,12,12,12,8,8
+Suffolk County,Mammography (procedure),10,10,10,10,10,10,10
+Suffolk County,Upper arm X-ray,10,10,10,10,10,0,0
+Suffolk County,Manual pelvic examination (procedure),9,9,9,9,9,9,9
+Suffolk County,Allergy screening test,9,9,9,9,9,0,0
+Suffolk County,Bone density scan (procedure),9,9,9,9,9,4,4
+Suffolk County,Cytopathology procedure  preparation of smear  genital source (procedure),9,9,9,9,9,9,9
+Suffolk County,Epidural anesthesia,9,9,9,9,9,9,9
+Suffolk County,Removal of intrauterine device,9,9,9,9,9,0,0
+Suffolk County,Counseling for termination of pregnancy,8,8,8,8,8,8,8
+Suffolk County,Induced termination of pregnancy,8,8,8,8,8,8,8
+Suffolk County,Physical exam following abortion,8,8,8,8,8,8,8
+Suffolk County,Pregnancy termination care,8,8,8,8,8,8,8
+Suffolk County,Spirometry (procedure),8,8,8,8,8,8,8
+Suffolk County,Extraction of wisdom tooth,7,7,7,7,7,0,0
+Suffolk County,Biopsy of prostate,7,7,7,7,7,0,0
+Suffolk County,Admission to orthopedic department,6,6,6,6,6,6,6
+Suffolk County,Injection of tetanus antitoxin,6,6,6,6,6,6,6
+Suffolk County,Rectal polypectomy,6,6,6,6,6,6,6
+Suffolk County,Transthoracic three dimensional ultrasonography of heart (procedure),6,6,6,6,6,0,0
+Suffolk County,Screening for occult blood in feces (procedure),5,5,5,5,5,5,5
+Suffolk County,Injection of adrenaline,5,5,5,5,5,0,0
+Suffolk County,Replacement of contraceptive intrauterine device,5,5,5,5,5,0,0
+Suffolk County,Clavicle X-ray,5,5,5,5,5,0,0
+Suffolk County,Bilateral tubal ligation,5,5,5,5,5,0,0
+Suffolk County,Ankle X-ray,4,4,4,4,4,0,0
+Suffolk County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),4,4,4,4,4,0,0
+Suffolk County,Prostatectomy,4,4,4,4,4,4,4
+Suffolk County,Medical induction of labor,4,4,4,4,4,4,4
+Suffolk County,Transthoracic echocardiography,3,3,3,3,3,0,0
+Suffolk County,Cesarean section,3,3,3,3,3,3,3
+Suffolk County,RhD passive immunization,3,3,3,3,3,2,2
+Suffolk County,Removal of subcutaneous contraceptive,3,3,3,3,3,0,0
+Suffolk County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,3,3,3,3,3,3,3
+Suffolk County,Plain chest X-ray,3,3,3,3,3,0,0
+Suffolk County,Knee X-ray,3,3,3,3,3,0,0
+Suffolk County,Echocardiography (procedure),3,3,3,3,3,3,3
+Suffolk County,Information gathering (procedure),3,3,3,3,3,0,0
+Suffolk County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2,2,2,2,2,2,2
+Suffolk County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),2,2,2,2,2,2,2
+Suffolk County,Insertion of subcutaneous contraceptive,2,2,2,2,2,0,0
+Suffolk County,Instrumental delivery,2,2,2,2,2,2,2
+Suffolk County,Lumpectomy of breast (procedure),2,2,2,2,2,2,2
+Suffolk County,Magnetic resonance imaging for measurement of brain volume (procedure),2,2,2,2,2,2,2
+Suffolk County,Magnetic resonance imaging of breast (procedure),2,2,2,2,2,0,0
+Suffolk County,Referral to hypertension clinic,2,2,2,2,2,0,0
+Suffolk County,Pulmonary rehabilitation (regime/therapy),2,2,2,2,2,2,2
+Suffolk County,Computed tomography of chest and abdomen,2,2,2,2,2,2,2
+Suffolk County,X-ray or wrist,2,2,2,2,2,0,0
+Suffolk County,Augmentation of labor,2,2,2,2,2,2,2
+Suffolk County,Biopsy of breast (procedure),2,2,2,2,2,0,0
+Suffolk County,Screening mammography (procedure),1,1,1,1,1,0,0
+Suffolk County,Spontaneous breech delivery,1,1,1,1,1,1,1
+Suffolk County,Surgical manipulation of joint of knee,1,1,1,1,1,1,1
+Suffolk County,Thoracentesis (procedure),1,1,1,1,1,1,1
+Suffolk County,Pelvis X-ray,1,1,1,1,1,0,0
+Suffolk County,Catheter ablation of tissue of heart,1,1,1,1,1,1,1
+Suffolk County,Asthma screening,1,1,1,1,1,1,1
+Suffolk County,Antenatal RhD antibody screening,1,1,1,1,1,1,1
+Suffolk County,Methotrexate injection into tubal pregnancy,1,1,1,1,1,0,0
+Suffolk County,Mammogram - symptomatic (procedure),1,1,1,1,1,0,0
+Suffolk County,Intravenous blood transfusion of packed cells (procedure),1,1,1,1,1,0,0
+Suffolk County,Fine needle aspiration biopsy of lung (procedure),1,1,1,1,1,1,1
+Worcester County,Renal dialysis (procedure),1215,1215,1215,1215,1215,0,0
+Worcester County,Medication Reconciliation (procedure),730,730,730,730,730,0,0
+Worcester County,Evaluation of uterine fundal height,304,304,304,304,304,304,304
+Worcester County,Auscultation of the fetal heart,304,304,304,304,304,304,304
+Worcester County,Subcutaneous immunotherapy,188,188,188,188,188,0,0
+Worcester County,Intramuscular injection,184,184,184,184,184,0,0
+Worcester County,Combined chemotherapy and radiation therapy (procedure),105,105,105,105,105,105,105
+Worcester County,Cognitive and behavioral therapy,92,92,92,92,92,92,92
+Worcester County,Colonoscopy,82,82,82,82,82,0,0
+Worcester County,Hemoglobin / Hematocrit / Platelet count,64,64,64,64,64,64,64
+Worcester County,Standard pregnancy test,52,52,52,52,52,52,52
+Worcester County,Ultrasound scan for fetal viability,52,52,52,52,52,52,52
+Worcester County,Depression screening,49,49,49,49,49,19,19
+Worcester County,Throat culture (procedure),41,41,41,41,41,41,41
+Worcester County,Hepatitis B Surface Antigen Measurement,33,33,33,33,33,33,33
+Worcester County,Urine screening test for diabetes,33,33,33,33,33,33,33
+Worcester County,Electrical cardioversion,33,33,33,33,33,33,33
+Worcester County,Urine culture,33,33,33,33,33,33,33
+Worcester County,Syphilis infection test,33,33,33,33,33,33,33
+Worcester County,Hepatitis C antibody test,33,33,33,33,33,33,33
+Worcester County,Urine protein test,33,33,33,33,33,33,33
+Worcester County,Human immunodeficiency virus antigen test,33,33,33,33,33,33,33
+Worcester County,Chlamydia antigen test,33,33,33,33,33,33,33
+Worcester County,Cytopathology procedure  preparation of smear  genital source,33,33,33,33,33,33,33
+Worcester County,Measurement of Varicella-zoster virus antibody,33,33,33,33,33,33,33
+Worcester County,Fetal anatomy study,33,33,33,33,33,33,33
+Worcester County,Skin test for tuberculosis,33,33,33,33,33,33,33
+Worcester County,Blood typing  RH typing,33,33,33,33,33,33,33
+Worcester County,Alpha-fetoprotein test,33,33,33,33,33,33,33
+Worcester County,Physical examination of mother,33,33,33,33,33,33,33
+Worcester County,Gonorrhea infection test,33,33,33,33,33,33,33
+Worcester County,Screening for chromosomal aneuploidy in prenatal amniotic fluid,33,33,33,33,33,33,33
+Worcester County,Rubella screening,33,33,33,33,33,33,33
+Worcester County,Digital examination of rectum,32,32,32,32,32,0,0
+Worcester County,Chemotherapy (procedure),32,32,32,32,32,8,8
+Worcester County,Urine screening for glucose,31,31,31,31,31,31,31
+Worcester County,Vaccination for diphtheria  pertussis  and tetanus,31,31,31,31,31,31,31
+Worcester County,Mammography (procedure),31,31,31,31,31,31,31
+Worcester County,Physical examination following birth,30,30,30,30,30,0,0
+Worcester County,Streptococcus pneumoniae group B antigen test,30,30,30,30,30,30,30
+Worcester County,Measurement of respiratory function (procedure),29,29,29,29,29,29,29
+Worcester County,Suture open wound,26,26,26,26,26,26,26
+Worcester County,Spirometry (procedure),26,26,26,26,26,26,26
+Worcester County,Transthoracic three dimensional ultrasonography of heart (procedure),25,25,25,25,25,0,0
+Worcester County,Cytopathology procedure  preparation of smear  genital source (procedure),22,22,22,22,22,22,22
+Worcester County,Manual pelvic examination (procedure),22,22,22,22,22,22,22
+Worcester County,Childbirth,21,21,21,21,21,21,21
+Worcester County,Plain chest X-ray (procedure),19,19,19,19,19,6,6
+Worcester County,Insertion of intrauterine contraceptive device,19,19,19,19,19,0,0
+Worcester County,Bone immobilization,18,18,18,18,18,18,18
+Worcester County,Sputum examination (procedure),15,15,15,15,15,15,15
+Worcester County,Bone density scan (procedure),14,14,14,14,14,9,9
+Worcester County,RhD passive immunization,13,13,13,13,13,9,9
+Worcester County,Rectal polypectomy,12,12,12,12,12,12,12
+Worcester County,Insertion of subcutaneous contraceptive,12,12,12,12,12,0,0
+Worcester County,Plain chest X-ray,12,12,12,12,12,0,0
+Worcester County,Pulmonary rehabilitation (regime/therapy),12,12,12,12,12,12,12
+Worcester County,Transthoracic echocardiography,12,12,12,12,12,0,0
+Worcester County,Physical examination,11,11,11,11,11,11,11
+Worcester County,Epidural anesthesia,11,11,11,11,11,11,11
+Worcester County,Replacement of contraceptive intrauterine device,11,11,11,11,11,0,0
+Worcester County,Screening for occult blood in feces (procedure),11,11,11,11,11,11,11
+Worcester County,Extraction of wisdom tooth,10,10,10,10,10,0,0
+Worcester County,Episiotomy,9,9,9,9,9,9,9
+Worcester County,Biopsy of prostate,9,9,9,9,9,0,0
+Worcester County,Cesarean section,9,9,9,9,9,9,9
+Worcester County,Allergy screening test,9,9,9,9,9,0,0
+Worcester County,Upper arm X-ray,8,8,8,8,8,0,0
+Worcester County,Information gathering (procedure),8,8,8,8,8,0,0
+Worcester County,Induced termination of pregnancy,8,8,8,8,8,8,8
+Worcester County,Review of systems (procedure),8,8,8,8,8,0,0
+Worcester County,Echocardiography (procedure),8,8,8,8,8,8,8
+Worcester County,Counseling for termination of pregnancy,8,8,8,8,8,8,8
+Worcester County,Removal of intrauterine device,8,8,8,8,8,0,0
+Worcester County,Brief general examination (procedure),8,8,8,8,8,0,0
+Worcester County,Peripheral blood smear interpretation,8,8,8,8,8,0,0
+Worcester County,Pregnancy termination care,8,8,8,8,8,8,8
+Worcester County,Physical exam following abortion,8,8,8,8,8,8,8
+Worcester County,X-ray or wrist,7,7,7,7,7,0,0
+Worcester County,Catheter ablation of tissue of heart,6,6,6,6,6,6,6
+Worcester County,Removal of subcutaneous contraceptive,6,6,6,6,6,0,0
+Worcester County,Admission to orthopedic department,6,6,6,6,6,6,6
+Worcester County,Prostatectomy,5,5,5,5,5,5,5
+Worcester County,Seizure Count Cerebral Cortex Electroencephalogram (EEG),5,5,5,5,5,0,0
+Worcester County,Medical induction of labor,5,5,5,5,5,5,5
+Worcester County,Injection of tetanus antitoxin,5,5,5,5,5,5,5
+Worcester County,Antenatal RhD antibody screening,5,5,5,5,5,5,5
+Worcester County,Clavicle X-ray,5,5,5,5,5,0,0
+Worcester County,Partial resection of colon,4,4,4,4,4,4,4
+Worcester County,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),3,3,3,3,3,3,3
+Worcester County,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),3,3,3,3,3,3,3
+Worcester County,Injection of adrenaline,3,3,3,3,3,0,0
+Worcester County,Bilateral tubal ligation,3,3,3,3,3,0,0
+Worcester County,Percutaneous coronary intervention,3,3,3,3,3,3,3
+Worcester County,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,3,3,3,3,3,3,3
+Worcester County,Biopsy of breast (procedure),3,3,3,3,3,0,0
+Worcester County,Ultrasonography of bilateral breasts (procedure),3,3,3,3,3,0,0
+Worcester County,Coronary artery bypass grafting,3,3,3,3,3,3,3
+Worcester County,Biopsy of colon,2,2,2,2,2,2,2
+Worcester County,Computed tomography of chest and abdomen,2,2,2,2,2,2,2
+Worcester County,Augmentation of labor,2,2,2,2,2,2,2
+Worcester County,Appendectomy,2,2,2,2,2,2,2
+Worcester County,Ankle X-ray,2,2,2,2,2,0,0
+Worcester County,Thoracentesis (procedure),2,2,2,2,2,2,2
+Worcester County,Sentinel lymph node biopsy (procedure),2,2,2,2,2,2,2
+Worcester County,Screening mammography (procedure),2,2,2,2,2,0,0
+Worcester County,Surgical manipulation of joint of knee,2,2,2,2,2,2,2
+Worcester County,Excision of breast tissue (procedure),2,2,2,2,2,2,2
+Worcester County,Excision of sentinel lymph node (procedure),2,2,2,2,2,2,2
+Worcester County,Insertion of biventricular implantable cardioverter defibrillator,2,2,2,2,2,2,2
+Worcester County,Knee X-ray,2,2,2,2,2,0,0
+Worcester County,Magnetic resonance imaging for measurement of brain volume (procedure),2,2,2,2,2,2,2
+Worcester County,Excision of fallopian tube and surgical removal of ectopic pregnancy,1,1,1,1,1,0,0
+Worcester County,Chest X-ray,1,1,1,1,1,0,0
+Worcester County,Construction of diverting colostomy,1,1,1,1,1,1,1
+Worcester County,Lumpectomy of breast (procedure),1,1,1,1,1,1,1
+Worcester County,Mammogram - symptomatic (procedure),1,1,1,1,1,0,0
+Worcester County,Premature birth of newborn,1,1,1,1,1,1,1
+Worcester County,Pelvis X-ray,1,1,1,1,1,0,0

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+  border-spacing: 5px;
+}
+    </style>
+    <body>
+        <center><h1>Expense and Coverage Prediction</h1></center>
+        <table>
+            <tr>
+                <th> Predicted Health Care Expense</th>
+                <td> {{ expense }} </td>
+            </tr>
+            <tr>
+                <th> Predicted Health Care Coverage</th>
+                <td> {{ coverage }} </td>
+            </tr>
+        </table><br>
+        <a href={{url_for('data')}}>Get data about problems in your new location</a><br>
+    </body>
+</html>

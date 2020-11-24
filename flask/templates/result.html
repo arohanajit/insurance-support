@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+  border-spacing: 5px;
+}
+    </style>
+    <body>
+        <center><h1> {{ loc }} </h1>
+        <h3>Details you need to keep in mind</h3></center>
+        <strong>Most common providers in {{ loc }}</strong>
+        <ol>
+            <li>{{ prov[0]|safe }}</li>
+            <li>{{ prov[1]|safe }}</li>
+            <li>{{ prov[2]|safe }}</li>
+        </ol><br><br>
+        <strong> Most common diseases and problems in {{ loc }}: </strong><br><br>
+        <table>
+            <tr>
+                <th>Sl No.</th>
+                <th>Allergies</th>
+                <th>Observations</th>
+                <th>Encounters</th>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>{{ al[0]|safe }}</td>
+                <td>{{ ob[0]|safe }}</td>
+                <td>{{ enc[0]|safe }}</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>{{ al[1]|safe }}</td>
+                <td>{{ ob[1]|safe }}</td>
+                <td>{{ enc[1]|safe }}</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>{{ al[2]|safe }}</td>
+                <td>{{ ob[2]|safe }}</td>
+                <td>{{ enc[2]|safe }}</td>
+            </tr>
+        </table>
+        <br><br>
+        <strong> Most common treatment and procedures in {{ loc }}: </strong><br><br>
+        <table>
+            <tr>
+                <th>Sl No.</th>
+                <th>Care Plans</th>
+                <th>Immunizations</th>
+                <th>Procedures</th>
+                <th>Cost</th>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>{{ cp[0]|safe }}</td>
+                <td>{{ im[0]|safe }}</td>
+                <td>{{ proc[0]|safe }}</td>
+                <td>${{ cost[0]|safe }}</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>{{ cp[1]|safe }}</td>
+                <td>{{ im[1]|safe }}</td>
+                <td>{{ proc[1]|safe }}</td>
+                <td>${{ cost[1]|safe }}</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>{{ cp[2]|safe }}</td>
+                <td>{{ im[2]|safe }}</td>
+                <td>{{ proc[2]|safe }}</td>
+                <td>${{ cost[2]|safe }}</td>
+            </tr>
+        </table><br><br>
+        <a href={{url_for('predict')}}>Get prediction on health care expenses and coverage</a>
+    </body>
+</html>

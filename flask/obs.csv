@@ -1,0 +1,1384 @@
+COUNTY,DESCRIPTION,DATE,PATIENT,ENCOUNTER,CODE,VALUE,UNITS,TYPE
+Barnstable County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,671,671,671,671,671,671,671
+Barnstable County,Diastolic Blood Pressure,536,536,536,536,536,536,536
+Barnstable County,Systolic Blood Pressure,536,536,536,536,536,536,536
+Barnstable County,Tobacco smoking status NHIS,535,535,535,535,535,0,535
+Barnstable County,Body Weight,535,535,535,535,535,535,535
+Barnstable County,Heart rate,535,535,535,535,535,535,535
+Barnstable County,Body Height,535,535,535,535,535,535,535
+Barnstable County,Respiratory rate,535,535,535,535,535,535,535
+Barnstable County,Body Mass Index,531,531,531,531,531,531,531
+Barnstable County,Creatinine,382,382,382,382,382,382,382
+Barnstable County,Potassium,382,382,382,382,382,382,382
+Barnstable County,Chloride,382,382,382,382,382,382,382
+Barnstable County,Urea Nitrogen,382,382,382,382,382,382,382
+Barnstable County,Glucose,382,382,382,382,382,382,382
+Barnstable County,Sodium,382,382,382,382,382,382,382
+Barnstable County,Carbon Dioxide,382,382,382,382,382,382,382
+Barnstable County,Calcium,382,382,382,382,382,382,382
+Barnstable County,DALY,300,300,0,300,300,300,300
+Barnstable County,QALY,300,300,0,300,300,300,300
+Barnstable County,QOLS,300,300,0,300,300,300,300
+Barnstable County,Total Cholesterol,295,295,295,295,295,295,295
+Barnstable County,Low Density Lipoprotein Cholesterol,295,295,295,295,295,295,295
+Barnstable County,High Density Lipoprotein Cholesterol,295,295,295,295,295,295,295
+Barnstable County,Triglycerides,295,295,295,295,295,295,295
+Barnstable County,Hemoglobin A1c/Hemoglobin.total in Blood,259,259,259,259,259,259,259
+Barnstable County,Microalbumin Creatinine Ratio,148,148,148,148,148,148,148
+Barnstable County,Estimated Glomerular Filtration Rate,148,148,148,148,148,148,148
+Barnstable County,MCV [Entitic volume] by Automated count,132,132,132,132,132,132,132
+Barnstable County,Platelet mean volume [Entitic volume] in Blood by Automated count,132,132,132,132,132,132,132
+Barnstable County,MCH [Entitic mass] by Automated count,132,132,132,132,132,132,132
+Barnstable County,Hemoglobin [Mass/volume] in Blood,132,132,132,132,132,132,132
+Barnstable County,MCHC [Mass/volume] by Automated count,132,132,132,132,132,132,132
+Barnstable County,Platelets [#/volume] in Blood by Automated count,132,132,132,132,132,132,132
+Barnstable County,Platelet distribution width [Entitic volume] in Blood by Automated count,132,132,132,132,132,132,132
+Barnstable County,Erythrocyte distribution width [Entitic volume] by Automated count,129,129,129,129,129,129,129
+Barnstable County,Erythrocytes [#/volume] in Blood by Automated count,129,129,129,129,129,129,129
+Barnstable County,Hematocrit [Volume Fraction] of Blood by Automated count,129,129,129,129,129,129,129
+Barnstable County,Leukocytes [#/volume] in Blood by Automated count,129,129,129,129,129,129,129
+Barnstable County,Glomerular filtration rate/1.73 sq M.predicted,111,111,111,111,111,111,111
+Barnstable County,Protein [Mass/volume] in Serum or Plasma,109,109,109,109,109,109,109
+Barnstable County,Albumin [Mass/volume] in Serum or Plasma,109,109,109,109,109,109,109
+Barnstable County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,109,109,109,109,109,109,109
+Barnstable County,Bilirubin.total [Mass/volume] in Serum or Plasma,109,109,109,109,109,109,109
+Barnstable County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,109,109,109,109,109,109,109
+Barnstable County,Globulin [Mass/volume] in Serum by calculation,109,109,109,109,109,109,109
+Barnstable County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,109,109,109,109,109,109,109
+Barnstable County,Body mass index (BMI) [Percentile] Per age and gender,79,79,79,79,79,79,79
+Barnstable County,FEV1/FVC,35,35,35,35,35,35,35
+Barnstable County,Body temperature,34,34,34,34,34,34,34
+Barnstable County,Leukocyte esterase [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Appearance of Urine,27,27,27,27,27,27,27
+Barnstable County,Glucose [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Hemoglobin [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Odor of Urine,27,27,27,27,27,27,27
+Barnstable County,Nitrite [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Ketones [Mass/volume] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Ketones [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Protein [Mass/volume] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Glucose [Mass/volume] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Protein [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Specific gravity of Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Color of Urine,27,27,27,27,27,27,27
+Barnstable County,Bilirubin.total [Mass/volume] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Bilirubin.total [Presence] in Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,pH of Urine by Test strip,27,27,27,27,27,27,27
+Barnstable County,Clarity of Urine,27,27,27,27,27,27,27
+Barnstable County,Left ventricular Ejection fraction,26,26,26,26,26,26,26
+Barnstable County,Total score [MMSE],15,15,15,15,15,15,15
+Barnstable County,Prostate specific Ag [Mass/volume] in Serum or Plasma,9,9,9,9,9,9,9
+Barnstable County,Physical findings of Prostate,9,9,9,9,9,9,9
+Barnstable County,Oxygen saturation in Arterial blood,7,7,7,7,7,7,7
+Barnstable County,NT-proBNP,7,7,7,7,7,7,7
+Barnstable County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,5,5,5,5,5,5,5
+Barnstable County,Polyp size greatest dimension by CAP cancer protocols,5,5,5,5,5,5,5
+Barnstable County,Weight-for-length Per age and sex,4,4,4,4,4,4,4
+Barnstable County,Head Occipital-frontal circumference,4,4,4,4,4,4,4
+Barnstable County,RBC Auto (Bld) [#/Vol],3,3,3,3,3,3,3
+Barnstable County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],3,3,3,3,3,3,3
+Barnstable County,WBC Auto (Bld) [#/Vol],3,3,3,3,3,3,3
+Barnstable County,Hematocrit [Volume Fraction] of Blood,3,3,3,3,3,3,3
+Barnstable County,US Guidance for biopsy of Prostate,3,3,3,3,3,3,3
+Barnstable County,DXA [T-score] Bone density,2,2,2,2,2,2,2
+Barnstable County,Cladosporium herbarum IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Egg white IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Cow milk IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,American house dust mite IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Cat dander IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Cause of Death [US Standard Certificate of Death],1,1,1,1,1,0,1
+Barnstable County,Codfish IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Common Ragweed IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Wheat IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Walnut IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Soybean IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Shrimp IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,White oak IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Latex IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Honey bee IgE Ab in Serum,1,1,1,1,1,1,1
+Barnstable County,Peanut IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,265,265,265,265,265,265,265
+Berkshire County,Systolic Blood Pressure,251,251,251,251,251,251,251
+Berkshire County,Diastolic Blood Pressure,251,251,251,251,251,251,251
+Berkshire County,Heart rate,250,250,250,250,250,250,250
+Berkshire County,Tobacco smoking status NHIS,250,250,250,250,250,0,250
+Berkshire County,Respiratory rate,250,250,250,250,250,250,250
+Berkshire County,Body Weight,250,250,250,250,250,250,250
+Berkshire County,Body Height,250,250,250,250,250,250,250
+Berkshire County,Body Mass Index,216,216,216,216,216,216,216
+Berkshire County,QOLS,175,175,0,175,175,175,175
+Berkshire County,QALY,175,175,0,175,175,175,175
+Berkshire County,DALY,175,175,0,175,175,175,175
+Berkshire County,Calcium,101,101,101,101,101,101,101
+Berkshire County,Carbon Dioxide,101,101,101,101,101,101,101
+Berkshire County,Sodium,101,101,101,101,101,101,101
+Berkshire County,Urea Nitrogen,101,101,101,101,101,101,101
+Berkshire County,Chloride,101,101,101,101,101,101,101
+Berkshire County,Creatinine,101,101,101,101,101,101,101
+Berkshire County,Potassium,101,101,101,101,101,101,101
+Berkshire County,Glucose,101,101,101,101,101,101,101
+Berkshire County,Triglycerides,94,94,94,94,94,94,94
+Berkshire County,Total Cholesterol,94,94,94,94,94,94,94
+Berkshire County,Low Density Lipoprotein Cholesterol,94,94,94,94,94,94,94
+Berkshire County,High Density Lipoprotein Cholesterol,94,94,94,94,94,94,94
+Berkshire County,Hemoglobin A1c/Hemoglobin.total in Blood,59,59,59,59,59,59,59
+Berkshire County,MCHC [Mass/volume] by Automated count,53,53,53,53,53,53,53
+Berkshire County,MCV [Entitic volume] by Automated count,53,53,53,53,53,53,53
+Berkshire County,Platelet mean volume [Entitic volume] in Blood by Automated count,53,53,53,53,53,53,53
+Berkshire County,Hemoglobin [Mass/volume] in Blood,53,53,53,53,53,53,53
+Berkshire County,Platelets [#/volume] in Blood by Automated count,53,53,53,53,53,53,53
+Berkshire County,MCH [Entitic mass] by Automated count,53,53,53,53,53,53,53
+Berkshire County,Platelet distribution width [Entitic volume] in Blood by Automated count,53,53,53,53,53,53,53
+Berkshire County,Leukocytes [#/volume] in Blood by Automated count,52,52,52,52,52,52,52
+Berkshire County,Hematocrit [Volume Fraction] of Blood by Automated count,52,52,52,52,52,52,52
+Berkshire County,Erythrocyte distribution width [Entitic volume] by Automated count,52,52,52,52,52,52,52
+Berkshire County,Erythrocytes [#/volume] in Blood by Automated count,52,52,52,52,52,52,52
+Berkshire County,Body mass index (BMI) [Percentile] Per age and gender,51,51,51,51,51,51,51
+Berkshire County,Weight-for-length Per age and sex,46,46,46,46,46,46,46
+Berkshire County,Head Occipital-frontal circumference,46,46,46,46,46,46,46
+Berkshire County,Glomerular filtration rate/1.73 sq M.predicted,42,42,42,42,42,42,42
+Berkshire County,Protein [Mass/volume] in Serum or Plasma,40,40,40,40,40,40,40
+Berkshire County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,40,40,40,40,40,40,40
+Berkshire County,Globulin [Mass/volume] in Serum by calculation,40,40,40,40,40,40,40
+Berkshire County,Bilirubin.total [Mass/volume] in Serum or Plasma,40,40,40,40,40,40,40
+Berkshire County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,40,40,40,40,40,40,40
+Berkshire County,Albumin [Mass/volume] in Serum or Plasma,40,40,40,40,40,40,40
+Berkshire County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,40,40,40,40,40,40,40
+Berkshire County,Sexual orientation,13,13,13,13,13,13,13
+Berkshire County,Are you covered by health insurance or some other kind of health care plan [PhenX],13,13,13,13,13,13,13
+Berkshire County,Housing status,13,13,13,13,13,13,13
+Berkshire County,Abuse Status [OMAHA],13,13,13,13,13,13,13
+Berkshire County,HIV status,13,13,13,13,13,13,13
+Berkshire County,History of Hospitalizations+Outpatient visits,13,13,13,13,13,13,13
+Berkshire County,Estimated Glomerular Filtration Rate,12,12,12,12,12,12,12
+Berkshire County,Microalbumin Creatinine Ratio,12,12,12,12,12,12,12
+Berkshire County,Left ventricular Ejection fraction,10,10,10,10,10,10,10
+Berkshire County,FEV1/FVC,10,10,10,10,10,10,10
+Berkshire County,Body temperature,9,9,9,9,9,9,9
+Berkshire County,Protein [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Protein [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Oxygen saturation in Arterial blood,2,2,2,2,2,2,2
+Berkshire County,Odor of Urine,2,2,2,2,2,2,2
+Berkshire County,Nitrite [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Appearance of Urine,2,2,2,2,2,2,2
+Berkshire County,pH of Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Specific gravity of Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,2,2,2,2,2,2,2
+Berkshire County,Polyp size greatest dimension by CAP cancer protocols,2,2,2,2,2,2,2
+Berkshire County,Glucose [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Glucose [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Ketones [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Clarity of Urine,2,2,2,2,2,2,2
+Berkshire County,Color of Urine,2,2,2,2,2,2,2
+Berkshire County,Ketones [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Leukocyte esterase [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Hemoglobin [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Bilirubin.total [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,Bilirubin.total [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Berkshire County,DXA [T-score] Bone density,1,1,1,1,1,1,1
+Berkshire County,Latex IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,WBC Auto (Bld) [#/Vol],1,1,1,1,1,1,1
+Berkshire County,Walnut IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Egg white IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,White oak IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Wheat IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Hematocrit [Volume Fraction] of Blood,1,1,1,1,1,1,1
+Berkshire County,Honey bee IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Peanut IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],1,1,1,1,1,1,1
+Berkshire County,Cat dander IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Cladosporium herbarum IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,American house dust mite IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,NT-proBNP,1,1,1,1,1,1,1
+Berkshire County,RBC Auto (Bld) [#/Vol],1,1,1,1,1,1,1
+Berkshire County,Codfish IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Cow milk IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Soybean IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Berkshire County,Common Ragweed IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Shrimp IgE Ab in Serum,1,1,1,1,1,1,1
+Berkshire County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Bristol County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1066,1066,1066,1066,1066,1066,1066
+Bristol County,DALY,960,960,0,960,960,960,960
+Bristol County,QALY,960,960,0,960,960,960,960
+Bristol County,QOLS,960,960,0,960,960,960,960
+Bristol County,Systolic Blood Pressure,958,958,958,958,958,958,958
+Bristol County,Diastolic Blood Pressure,958,958,958,958,958,958,958
+Bristol County,Tobacco smoking status NHIS,953,953,953,953,953,0,953
+Bristol County,Body Height,953,953,953,953,953,953,953
+Bristol County,Body Weight,953,953,953,953,953,953,953
+Bristol County,Respiratory rate,953,953,953,953,953,953,953
+Bristol County,Heart rate,953,953,953,953,953,953,953
+Bristol County,Body Mass Index,895,895,895,895,895,895,895
+Bristol County,Carbon Dioxide,422,422,422,422,422,422,422
+Bristol County,Chloride,422,422,422,422,422,422,422
+Bristol County,Sodium,422,422,422,422,422,422,422
+Bristol County,Calcium,422,422,422,422,422,422,422
+Bristol County,Creatinine,422,422,422,422,422,422,422
+Bristol County,Potassium,422,422,422,422,422,422,422
+Bristol County,Glucose,422,422,422,422,422,422,422
+Bristol County,Urea Nitrogen,422,422,422,422,422,422,422
+Bristol County,Total Cholesterol,334,334,334,334,334,334,334
+Bristol County,Triglycerides,334,334,334,334,334,334,334
+Bristol County,Low Density Lipoprotein Cholesterol,334,334,334,334,334,334,334
+Bristol County,High Density Lipoprotein Cholesterol,334,334,334,334,334,334,334
+Bristol County,Hemoglobin A1c/Hemoglobin.total in Blood,302,302,302,302,302,302,302
+Bristol County,Body mass index (BMI) [Percentile] Per age and gender,216,216,216,216,216,216,216
+Bristol County,Platelets [#/volume] in Blood by Automated count,215,215,215,215,215,215,215
+Bristol County,Platelet mean volume [Entitic volume] in Blood by Automated count,215,215,215,215,215,215,215
+Bristol County,Platelet distribution width [Entitic volume] in Blood by Automated count,215,215,215,215,215,215,215
+Bristol County,MCV [Entitic volume] by Automated count,215,215,215,215,215,215,215
+Bristol County,MCHC [Mass/volume] by Automated count,215,215,215,215,215,215,215
+Bristol County,MCH [Entitic mass] by Automated count,215,215,215,215,215,215,215
+Bristol County,Hemoglobin [Mass/volume] in Blood,215,215,215,215,215,215,215
+Bristol County,Hematocrit [Volume Fraction] of Blood by Automated count,210,210,210,210,210,210,210
+Bristol County,Erythrocytes [#/volume] in Blood by Automated count,210,210,210,210,210,210,210
+Bristol County,Erythrocyte distribution width [Entitic volume] by Automated count,210,210,210,210,210,210,210
+Bristol County,Leukocytes [#/volume] in Blood by Automated count,210,210,210,210,210,210,210
+Bristol County,Protein [Mass/volume] in Serum or Plasma,121,121,121,121,121,121,121
+Bristol County,Globulin [Mass/volume] in Serum by calculation,121,121,121,121,121,121,121
+Bristol County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,121,121,121,121,121,121,121
+Bristol County,Glomerular filtration rate/1.73 sq M.predicted,121,121,121,121,121,121,121
+Bristol County,Albumin [Mass/volume] in Serum or Plasma,121,121,121,121,121,121,121
+Bristol County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,121,121,121,121,121,121,121
+Bristol County,Bilirubin.total [Mass/volume] in Serum or Plasma,121,121,121,121,121,121,121
+Bristol County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,121,121,121,121,121,121,121
+Bristol County,Body temperature,80,80,80,80,80,80,80
+Bristol County,Weight-for-length Per age and sex,78,78,78,78,78,78,78
+Bristol County,Head Occipital-frontal circumference,78,78,78,78,78,78,78
+Bristol County,Microalbumin Creatinine Ratio,49,49,49,49,49,49,49
+Bristol County,Estimated Glomerular Filtration Rate,49,49,49,49,49,49,49
+Bristol County,FEV1/FVC,36,36,36,36,36,36,36
+Bristol County,DXA [T-score] Bone density,10,10,10,10,10,10,10
+Bristol County,American house dust mite IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Cat dander IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Honey bee IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Cladosporium herbarum IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Common Ragweed IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,6,6,6,6,6,6,6
+Bristol County,Polyp size greatest dimension by CAP cancer protocols,6,6,6,6,6,6,6
+Bristol County,White oak IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Wheat IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Peanut IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Cow milk IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Soybean IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Latex IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Shrimp IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Walnut IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Egg white IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Codfish IgE Ab in Serum,6,6,6,6,6,6,6
+Bristol County,Sexual orientation,5,5,5,5,5,5,5
+Bristol County,Housing status,5,5,5,5,5,5,5
+Bristol County,Response to cancer treatment,5,5,5,5,5,0,5
+Bristol County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],5,5,5,5,5,5,5
+Bristol County,Are you covered by health insurance or some other kind of health care plan [PhenX],5,5,5,5,5,5,5
+Bristol County,WBC Auto (Bld) [#/Vol],5,5,5,5,5,5,5
+Bristol County,Hematocrit [Volume Fraction] of Blood,5,5,5,5,5,5,5
+Bristol County,HIV status,5,5,5,5,5,5,5
+Bristol County,Abuse Status [OMAHA],5,5,5,5,5,5,5
+Bristol County,RBC Auto (Bld) [#/Vol],5,5,5,5,5,5,5
+Bristol County,History of Hospitalizations+Outpatient visits,5,5,5,5,5,5,5
+Bristol County,Total score [MMSE],3,3,3,3,3,3,3
+Bristol County,Physical findings of Prostate,3,3,3,3,3,3,3
+Bristol County,Prostate specific Ag [Mass/volume] in Serum or Plasma,3,3,3,3,3,3,3
+Bristol County,Leukocyte esterase [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Left ventricular Ejection fraction,2,2,2,2,2,2,2
+Bristol County,Specific gravity of Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Nitrite [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Odor of Urine,2,2,2,2,2,2,2
+Bristol County,Cause of Death [US Standard Certificate of Death],2,2,2,2,2,0,2
+Bristol County,Color of Urine,2,2,2,2,2,2,2
+Bristol County,Protein [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Bilirubin.total [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Bilirubin.total [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Appearance of Urine,2,2,2,2,2,2,2
+Bristol County,Protein [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Ketones [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,pH of Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Clarity of Urine,2,2,2,2,2,2,2
+Bristol County,Hemoglobin [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Ketones [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Glucose [Presence] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,Glucose [Mass/volume] in Urine by Test strip,2,2,2,2,2,2,2
+Bristol County,HER2 [Presence] in Breast cancer specimen by FISH,1,1,1,1,1,1,1
+Bristol County,HER2 [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Bristol County,US Guidance for biopsy of Prostate,1,1,1,1,1,1,1
+Bristol County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Bristol County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Bristol County,Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Bristol County,Size.maximum dimension in Tumor,1,1,1,1,1,1,1
+Bristol County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Bristol County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Bristol County,Stage group.clinical Cancer,1,1,1,1,1,0,1
+Bristol County,Regional lymph nodes.clinical [Class] Cancer,1,1,1,1,1,0,1
+Bristol County,Primary tumor.clinical [Class] Cancer,1,1,1,1,1,0,1
+Bristol County,Distant metastases.clinical [Class] Cancer,1,1,1,1,1,0,1
+Bristol County,NT-proBNP,1,1,1,1,1,1,1
+Dukes County,Potassium,129,129,129,129,129,129,129
+Dukes County,Carbon Dioxide,129,129,129,129,129,129,129
+Dukes County,Glucose,129,129,129,129,129,129,129
+Dukes County,Urea Nitrogen,129,129,129,129,129,129,129
+Dukes County,Creatinine,129,129,129,129,129,129,129
+Dukes County,Calcium,129,129,129,129,129,129,129
+Dukes County,Sodium,129,129,129,129,129,129,129
+Dukes County,Chloride,129,129,129,129,129,129,129
+Dukes County,Hemoglobin A1c/Hemoglobin.total in Blood,116,116,116,116,116,116,116
+Dukes County,Body Height,116,116,116,116,116,116,116
+Dukes County,Respiratory rate,116,116,116,116,116,116,116
+Dukes County,Body Mass Index,116,116,116,116,116,116,116
+Dukes County,Heart rate,116,116,116,116,116,116,116
+Dukes County,Body Weight,116,116,116,116,116,116,116
+Dukes County,Diastolic Blood Pressure,116,116,116,116,116,116,116
+Dukes County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,116,116,116,116,116,116,116
+Dukes County,Systolic Blood Pressure,116,116,116,116,116,116,116
+Dukes County,Tobacco smoking status NHIS,116,116,116,116,116,0,116
+Dukes County,Low Density Lipoprotein Cholesterol,99,99,99,99,99,99,99
+Dukes County,High Density Lipoprotein Cholesterol,99,99,99,99,99,99,99
+Dukes County,Triglycerides,99,99,99,99,99,99,99
+Dukes County,Total Cholesterol,99,99,99,99,99,99,99
+Dukes County,Microalbumin Creatinine Ratio,76,76,76,76,76,76,76
+Dukes County,Estimated Glomerular Filtration Rate,76,76,76,76,76,76,76
+Dukes County,Platelets [#/volume] in Blood by Automated count,13,13,13,13,13,13,13
+Dukes County,Platelet mean volume [Entitic volume] in Blood by Automated count,13,13,13,13,13,13,13
+Dukes County,Platelet distribution width [Entitic volume] in Blood by Automated count,13,13,13,13,13,13,13
+Dukes County,Hemoglobin [Mass/volume] in Blood,13,13,13,13,13,13,13
+Dukes County,MCV [Entitic volume] by Automated count,13,13,13,13,13,13,13
+Dukes County,MCHC [Mass/volume] by Automated count,13,13,13,13,13,13,13
+Dukes County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,13,13,13,13,13,13,13
+Dukes County,Hematocrit [Volume Fraction] of Blood by Automated count,13,13,13,13,13,13,13
+Dukes County,MCH [Entitic mass] by Automated count,13,13,13,13,13,13,13
+Dukes County,Protein [Mass/volume] in Serum or Plasma,13,13,13,13,13,13,13
+Dukes County,Erythrocyte distribution width [Entitic volume] by Automated count,13,13,13,13,13,13,13
+Dukes County,Bilirubin.total [Mass/volume] in Serum or Plasma,13,13,13,13,13,13,13
+Dukes County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,13,13,13,13,13,13,13
+Dukes County,Albumin [Mass/volume] in Serum or Plasma,13,13,13,13,13,13,13
+Dukes County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,13,13,13,13,13,13,13
+Dukes County,Leukocytes [#/volume] in Blood by Automated count,13,13,13,13,13,13,13
+Dukes County,Erythrocytes [#/volume] in Blood by Automated count,13,13,13,13,13,13,13
+Dukes County,Globulin [Mass/volume] in Serum by calculation,13,13,13,13,13,13,13
+Dukes County,Glomerular filtration rate/1.73 sq M.predicted,13,13,13,13,13,13,13
+Dukes County,DALY,10,10,0,10,10,10,10
+Dukes County,QALY,10,10,0,10,10,10,10
+Dukes County,QOLS,10,10,0,10,10,10,10
+Dukes County,Prostate specific Ag [Mass/volume] in Serum or Plasma,7,7,7,7,7,7,7
+Dukes County,Physical findings of Prostate,7,7,7,7,7,7,7
+Dukes County,Body temperature,5,5,5,5,5,5,5
+Dukes County,US Guidance for biopsy of Prostate,4,4,4,4,4,4,4
+Dukes County,Total score [MMSE],4,4,4,4,4,4,4
+Dukes County,Color of Urine,3,3,3,3,3,3,3
+Dukes County,Bilirubin.total [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Appearance of Urine,3,3,3,3,3,3,3
+Dukes County,pH of Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Leukocyte esterase [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Ketones [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Odor of Urine,3,3,3,3,3,3,3
+Dukes County,Protein [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Ketones [Mass/volume] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Clarity of Urine,3,3,3,3,3,3,3
+Dukes County,Bilirubin.total [Mass/volume] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Specific gravity of Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Hemoglobin [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Glucose [Mass/volume] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Protein [Mass/volume] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Glucose [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,Nitrite [Presence] in Urine by Test strip,3,3,3,3,3,3,3
+Dukes County,DXA [T-score] Bone density,2,2,2,2,2,2,2
+Essex County,Diastolic Blood Pressure,1518,1518,1518,1518,1518,1518,1518
+Essex County,Systolic Blood Pressure,1518,1518,1518,1518,1518,1518,1518
+Essex County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1340,1340,1340,1340,1340,1340,1340
+Essex County,Heart rate,1231,1231,1231,1231,1231,1231,1231
+Essex County,Body Height,1231,1231,1231,1231,1231,1231,1231
+Essex County,Respiratory rate,1231,1231,1231,1231,1231,1231,1231
+Essex County,Body Weight,1231,1231,1231,1231,1231,1231,1231
+Essex County,Tobacco smoking status NHIS,1231,1231,1231,1231,1231,0,1231
+Essex County,Body Mass Index,1103,1103,1103,1103,1103,1103,1103
+Essex County,DALY,999,999,0,999,999,999,999
+Essex County,QALY,999,999,0,999,999,999,999
+Essex County,QOLS,999,999,0,999,999,999,999
+Essex County,Sodium,624,624,624,624,624,624,624
+Essex County,Carbon Dioxide,624,624,624,624,624,624,624
+Essex County,Glucose,624,624,624,624,624,624,624
+Essex County,Urea Nitrogen,624,624,624,624,624,624,624
+Essex County,Chloride,624,624,624,624,624,624,624
+Essex County,Calcium,624,624,624,624,624,624,624
+Essex County,Potassium,624,624,624,624,624,624,624
+Essex County,Creatinine,624,624,624,624,624,624,624
+Essex County,Low Density Lipoprotein Cholesterol,546,546,546,546,546,546,546
+Essex County,Triglycerides,546,546,546,546,546,546,546
+Essex County,Total Cholesterol,546,546,546,546,546,546,546
+Essex County,High Density Lipoprotein Cholesterol,546,546,546,546,546,546,546
+Essex County,Hemoglobin A1c/Hemoglobin.total in Blood,478,478,478,478,478,478,478
+Essex County,Estimated Glomerular Filtration Rate,295,295,295,295,295,295,295
+Essex County,Microalbumin Creatinine Ratio,295,295,295,295,295,295,295
+Essex County,Platelets [#/volume] in Blood by Automated count,267,267,267,267,267,267,267
+Essex County,MCV [Entitic volume] by Automated count,267,267,267,267,267,267,267
+Essex County,Platelet distribution width [Entitic volume] in Blood by Automated count,267,267,267,267,267,267,267
+Essex County,Hemoglobin [Mass/volume] in Blood,267,267,267,267,267,267,267
+Essex County,Platelet mean volume [Entitic volume] in Blood by Automated count,267,267,267,267,267,267,267
+Essex County,MCHC [Mass/volume] by Automated count,267,267,267,267,267,267,267
+Essex County,MCH [Entitic mass] by Automated count,267,267,267,267,267,267,267
+Essex County,Body mass index (BMI) [Percentile] Per age and gender,266,266,266,266,266,266,266
+Essex County,Erythrocytes [#/volume] in Blood by Automated count,257,257,257,257,257,257,257
+Essex County,Leukocytes [#/volume] in Blood by Automated count,257,257,257,257,257,257,257
+Essex County,Hematocrit [Volume Fraction] of Blood by Automated count,257,257,257,257,257,257,257
+Essex County,Erythrocyte distribution width [Entitic volume] by Automated count,257,257,257,257,257,257,257
+Essex County,Head Occipital-frontal circumference,175,175,175,175,175,175,175
+Essex County,Weight-for-length Per age and sex,175,175,175,175,175,175,175
+Essex County,Glomerular filtration rate/1.73 sq M.predicted,142,142,142,142,142,142,142
+Essex County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,142,142,142,142,142,142,142
+Essex County,Globulin [Mass/volume] in Serum by calculation,142,142,142,142,142,142,142
+Essex County,Albumin [Mass/volume] in Serum or Plasma,142,142,142,142,142,142,142
+Essex County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,142,142,142,142,142,142,142
+Essex County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,142,142,142,142,142,142,142
+Essex County,Protein [Mass/volume] in Serum or Plasma,142,142,142,142,142,142,142
+Essex County,Bilirubin.total [Mass/volume] in Serum or Plasma,142,142,142,142,142,142,142
+Essex County,Body temperature,63,63,63,63,63,63,63
+Essex County,Mental health Outpatient Note,51,51,51,51,51,51,51
+Essex County,FEV1/FVC,43,43,43,43,43,43,43
+Essex County,Protein [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Protein [Mass/volume] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Specific gravity of Urine by Test strip,38,38,38,38,38,38,38
+Essex County,pH of Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Glucose [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Bilirubin.total [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Hemoglobin [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Appearance of Urine,38,38,38,38,38,38,38
+Essex County,Ketones [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Clarity of Urine,38,38,38,38,38,38,38
+Essex County,Leukocyte esterase [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Nitrite [Presence] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Odor of Urine,38,38,38,38,38,38,38
+Essex County,Bilirubin.total [Mass/volume] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Ketones [Mass/volume] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Color of Urine,38,38,38,38,38,38,38
+Essex County,Glucose [Mass/volume] in Urine by Test strip,38,38,38,38,38,38,38
+Essex County,Left ventricular Ejection fraction,18,18,18,18,18,18,18
+Essex County,WBC Auto (Bld) [#/Vol],10,10,10,10,10,10,10
+Essex County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],10,10,10,10,10,10,10
+Essex County,RBC Auto (Bld) [#/Vol],10,10,10,10,10,10,10
+Essex County,Hematocrit [Volume Fraction] of Blood,10,10,10,10,10,10,10
+Essex County,DXA [T-score] Bone density,7,7,7,7,7,7,7
+Essex County,Oxygen saturation in Arterial blood,7,7,7,7,7,7,7
+Essex County,HIV status,4,4,4,4,4,4,4
+Essex County,Abuse Status [OMAHA],4,4,4,4,4,4,4
+Essex County,Sexual orientation,4,4,4,4,4,4,4
+Essex County,Polyp size greatest dimension by CAP cancer protocols,4,4,4,4,4,4,4
+Essex County,History of Hospitalizations+Outpatient visits,4,4,4,4,4,4,4
+Essex County,Housing status,4,4,4,4,4,4,4
+Essex County,Are you covered by health insurance or some other kind of health care plan [PhenX],4,4,4,4,4,4,4
+Essex County,NT-proBNP,4,4,4,4,4,4,4
+Essex County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,4,4,4,4,4,4,4
+Essex County,Total score [MMSE],4,4,4,4,4,4,4
+Essex County,Walnut IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Soybean IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Shrimp IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Wheat IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Latex IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,White oak IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Peanut IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Honey bee IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Codfish IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Common Ragweed IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Egg white IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Cause of Death [US Standard Certificate of Death],3,3,3,3,3,0,3
+Essex County,Cladosporium herbarum IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Cat dander IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,American house dust mite IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Cow milk IgE Ab in Serum,3,3,3,3,3,3,3
+Essex County,Prostate specific Ag [Mass/volume] in Serum or Plasma,2,2,2,2,2,2,2
+Essex County,Physical findings of Prostate,2,2,2,2,2,2,2
+Essex County,US Guidance for biopsy of Prostate,1,1,1,1,1,1,1
+Essex County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Essex County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Franklin County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,224,224,224,224,224,224,224
+Franklin County,Diastolic Blood Pressure,222,222,222,222,222,222,222
+Franklin County,Systolic Blood Pressure,222,222,222,222,222,222,222
+Franklin County,Body Height,219,219,219,219,219,219,219
+Franklin County,Body Weight,219,219,219,219,219,219,219
+Franklin County,Respiratory rate,219,219,219,219,219,219,219
+Franklin County,Heart rate,219,219,219,219,219,219,219
+Franklin County,Tobacco smoking status NHIS,219,219,219,219,219,0,219
+Franklin County,Body Mass Index,212,212,212,212,212,212,212
+Franklin County,DALY,122,122,0,122,122,122,122
+Franklin County,QOLS,122,122,0,122,122,122,122
+Franklin County,QALY,122,122,0,122,122,122,122
+Franklin County,Triglycerides,120,120,120,120,120,120,120
+Franklin County,Total Cholesterol,120,120,120,120,120,120,120
+Franklin County,High Density Lipoprotein Cholesterol,120,120,120,120,120,120,120
+Franklin County,Low Density Lipoprotein Cholesterol,120,120,120,120,120,120,120
+Franklin County,Potassium,104,104,104,104,104,104,104
+Franklin County,Chloride,104,104,104,104,104,104,104
+Franklin County,Urea Nitrogen,104,104,104,104,104,104,104
+Franklin County,Glucose,104,104,104,104,104,104,104
+Franklin County,Creatinine,104,104,104,104,104,104,104
+Franklin County,Sodium,104,104,104,104,104,104,104
+Franklin County,Calcium,104,104,104,104,104,104,104
+Franklin County,Carbon Dioxide,104,104,104,104,104,104,104
+Franklin County,Hemoglobin A1c/Hemoglobin.total in Blood,95,95,95,95,95,95,95
+Franklin County,Estimated Glomerular Filtration Rate,84,84,84,84,84,84,84
+Franklin County,Microalbumin Creatinine Ratio,84,84,84,84,84,84,84
+Franklin County,Body mass index (BMI) [Percentile] Per age and gender,39,39,39,39,39,39,39
+Franklin County,MCHC [Mass/volume] by Automated count,31,31,31,31,31,31,31
+Franklin County,MCH [Entitic mass] by Automated count,31,31,31,31,31,31,31
+Franklin County,Hemoglobin [Mass/volume] in Blood,31,31,31,31,31,31,31
+Franklin County,Platelet distribution width [Entitic volume] in Blood by Automated count,31,31,31,31,31,31,31
+Franklin County,Platelet mean volume [Entitic volume] in Blood by Automated count,31,31,31,31,31,31,31
+Franklin County,Platelets [#/volume] in Blood by Automated count,31,31,31,31,31,31,31
+Franklin County,MCV [Entitic volume] by Automated count,31,31,31,31,31,31,31
+Franklin County,Leukocytes [#/volume] in Blood by Automated count,29,29,29,29,29,29,29
+Franklin County,Hematocrit [Volume Fraction] of Blood by Automated count,29,29,29,29,29,29,29
+Franklin County,Erythrocytes [#/volume] in Blood by Automated count,29,29,29,29,29,29,29
+Franklin County,Erythrocyte distribution width [Entitic volume] by Automated count,29,29,29,29,29,29,29
+Franklin County,Weight-for-length Per age and sex,11,11,11,11,11,11,11
+Franklin County,Head Occipital-frontal circumference,11,11,11,11,11,11,11
+Franklin County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Franklin County,Bilirubin.total [Mass/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Franklin County,Glomerular filtration rate/1.73 sq M.predicted,10,10,10,10,10,10,10
+Franklin County,Protein [Mass/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Franklin County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Franklin County,Albumin [Mass/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Franklin County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Franklin County,Globulin [Mass/volume] in Serum by calculation,10,10,10,10,10,10,10
+Franklin County,Body temperature,7,7,7,7,7,7,7
+Franklin County,Response to cancer treatment,5,5,5,5,5,0,5
+Franklin County,Sexual orientation,4,4,4,4,4,4,4
+Franklin County,Abuse Status [OMAHA],4,4,4,4,4,4,4
+Franklin County,Housing status,4,4,4,4,4,4,4
+Franklin County,History of Hospitalizations+Outpatient visits,4,4,4,4,4,4,4
+Franklin County,HIV status,4,4,4,4,4,4,4
+Franklin County,Are you covered by health insurance or some other kind of health care plan [PhenX],4,4,4,4,4,4,4
+Franklin County,DXA [T-score] Bone density,2,2,2,2,2,2,2
+Franklin County,Hematocrit [Volume Fraction] of Blood,2,2,2,2,2,2,2
+Franklin County,RBC Auto (Bld) [#/Vol],2,2,2,2,2,2,2
+Franklin County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],2,2,2,2,2,2,2
+Franklin County,Stage group.clinical Cancer,2,2,2,2,2,0,2
+Franklin County,WBC Auto (Bld) [#/Vol],2,2,2,2,2,2,2
+Franklin County,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Franklin County,Primary tumor.clinical [Class] Cancer,1,1,1,1,1,0,1
+Franklin County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Franklin County,Size.maximum dimension in Tumor,1,1,1,1,1,1,1
+Franklin County,Site of distant metastasis in Breast tumor,1,1,1,1,1,0,1
+Franklin County,Regional lymph nodes.clinical [Class] Cancer,1,1,1,1,1,0,1
+Franklin County,Distant metastases.clinical [Class] Cancer,1,1,1,1,1,0,1
+Franklin County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Franklin County,HER2 [Presence] in Breast cancer specimen by FISH,1,1,1,1,1,1,1
+Franklin County,HER2 [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Franklin County,Treatment status Cancer,1,1,1,1,1,0,1
+Hampden County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,840,840,840,840,840,840,840
+Hampden County,Diastolic Blood Pressure,830,830,830,830,830,830,830
+Hampden County,Systolic Blood Pressure,830,830,830,830,830,830,830
+Hampden County,Body Height,822,822,822,822,822,822,822
+Hampden County,Body Weight,822,822,822,822,822,822,822
+Hampden County,Heart rate,822,822,822,822,822,822,822
+Hampden County,Respiratory rate,822,822,822,822,822,822,822
+Hampden County,Tobacco smoking status NHIS,822,822,822,822,822,0,822
+Hampden County,Body Mass Index,727,727,727,727,727,727,727
+Hampden County,DALY,678,678,0,678,678,678,678
+Hampden County,QOLS,678,678,0,678,678,678,678
+Hampden County,QALY,678,678,0,678,678,678,678
+Hampden County,Calcium,265,265,265,265,265,265,265
+Hampden County,Creatinine,265,265,265,265,265,265,265
+Hampden County,Carbon Dioxide,265,265,265,265,265,265,265
+Hampden County,Sodium,265,265,265,265,265,265,265
+Hampden County,Urea Nitrogen,265,265,265,265,265,265,265
+Hampden County,Chloride,265,265,265,265,265,265,265
+Hampden County,Glucose,265,265,265,265,265,265,265
+Hampden County,Potassium,265,265,265,265,265,265,265
+Hampden County,Low Density Lipoprotein Cholesterol,262,262,262,262,262,262,262
+Hampden County,High Density Lipoprotein Cholesterol,262,262,262,262,262,262,262
+Hampden County,Total Cholesterol,262,262,262,262,262,262,262
+Hampden County,Triglycerides,262,262,262,262,262,262,262
+Hampden County,Body mass index (BMI) [Percentile] Per age and gender,247,247,247,247,247,247,247
+Hampden County,Hemoglobin A1c/Hemoglobin.total in Blood,206,206,206,206,206,206,206
+Hampden County,Weight-for-length Per age and sex,142,142,142,142,142,142,142
+Hampden County,Head Occipital-frontal circumference,142,142,142,142,142,142,142
+Hampden County,MCV [Entitic volume] by Automated count,138,138,138,138,138,138,138
+Hampden County,Platelets [#/volume] in Blood by Automated count,138,138,138,138,138,138,138
+Hampden County,Platelet mean volume [Entitic volume] in Blood by Automated count,138,138,138,138,138,138,138
+Hampden County,Hemoglobin [Mass/volume] in Blood,138,138,138,138,138,138,138
+Hampden County,Platelet distribution width [Entitic volume] in Blood by Automated count,138,138,138,138,138,138,138
+Hampden County,MCH [Entitic mass] by Automated count,138,138,138,138,138,138,138
+Hampden County,MCHC [Mass/volume] by Automated count,138,138,138,138,138,138,138
+Hampden County,Erythrocytes [#/volume] in Blood by Automated count,134,134,134,134,134,134,134
+Hampden County,Hematocrit [Volume Fraction] of Blood by Automated count,134,134,134,134,134,134,134
+Hampden County,Leukocytes [#/volume] in Blood by Automated count,134,134,134,134,134,134,134
+Hampden County,Erythrocyte distribution width [Entitic volume] by Automated count,134,134,134,134,134,134,134
+Hampden County,Microalbumin Creatinine Ratio,107,107,107,107,107,107,107
+Hampden County,Estimated Glomerular Filtration Rate,107,107,107,107,107,107,107
+Hampden County,Body temperature,54,54,54,54,54,54,54
+Hampden County,Protein [Mass/volume] in Serum or Plasma,52,52,52,52,52,52,52
+Hampden County,Glomerular filtration rate/1.73 sq M.predicted,52,52,52,52,52,52,52
+Hampden County,Globulin [Mass/volume] in Serum by calculation,52,52,52,52,52,52,52
+Hampden County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,52,52,52,52,52,52,52
+Hampden County,Albumin [Mass/volume] in Serum or Plasma,52,52,52,52,52,52,52
+Hampden County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,52,52,52,52,52,52,52
+Hampden County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,52,52,52,52,52,52,52
+Hampden County,Bilirubin.total [Mass/volume] in Serum or Plasma,52,52,52,52,52,52,52
+Hampden County,Left ventricular Ejection fraction,28,28,28,28,28,28,28
+Hampden County,Sexual orientation,12,12,12,12,12,12,12
+Hampden County,HIV status,12,12,12,12,12,12,12
+Hampden County,Housing status,12,12,12,12,12,12,12
+Hampden County,History of Hospitalizations+Outpatient visits,12,12,12,12,12,12,12
+Hampden County,Abuse Status [OMAHA],12,12,12,12,12,12,12
+Hampden County,Are you covered by health insurance or some other kind of health care plan [PhenX],12,12,12,12,12,12,12
+Hampden County,Prostate specific Ag [Mass/volume] in Serum or Plasma,8,8,8,8,8,8,8
+Hampden County,Physical findings of Prostate,8,8,8,8,8,8,8
+Hampden County,NT-proBNP,6,6,6,6,6,6,6
+Hampden County,Oxygen saturation in Arterial blood,6,6,6,6,6,6,6
+Hampden County,Response to cancer treatment,5,5,5,5,5,0,5
+Hampden County,WBC Auto (Bld) [#/Vol],4,4,4,4,4,4,4
+Hampden County,Soybean IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Walnut IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Hematocrit [Volume Fraction] of Blood,4,4,4,4,4,4,4
+Hampden County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,4,4,4,4,4,4,4
+Hampden County,Polyp size greatest dimension by CAP cancer protocols,4,4,4,4,4,4,4
+Hampden County,RBC Auto (Bld) [#/Vol],4,4,4,4,4,4,4
+Hampden County,Peanut IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],4,4,4,4,4,4,4
+Hampden County,Shrimp IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Latex IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Honey bee IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,DXA [T-score] Bone density,4,4,4,4,4,4,4
+Hampden County,American house dust mite IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Wheat IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,White oak IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Egg white IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Cladosporium herbarum IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Codfish IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Common Ragweed IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Cat dander IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Cow milk IgE Ab in Serum,4,4,4,4,4,4,4
+Hampden County,Stage group.clinical Cancer,2,2,2,2,2,0,2
+Hampden County,US Guidance for biopsy of Prostate,2,2,2,2,2,2,2
+Hampden County,Regional lymph nodes.clinical [Class] Cancer,1,1,1,1,1,0,1
+Hampden County,Treatment status Cancer,1,1,1,1,1,0,1
+Hampden County,Size.maximum dimension in Tumor,1,1,1,1,1,1,1
+Hampden County,Site of distant metastasis in Breast tumor,1,1,1,1,1,0,1
+Hampden County,Distant metastases.clinical [Class] Cancer,1,1,1,1,1,0,1
+Hampden County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Hampden County,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,1,1,1,1,1,0,1
+Hampden County,HER2 [Presence] in Breast cancer specimen by FISH,1,1,1,1,1,1,1
+Hampden County,HER2 [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Hampden County,Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Hampden County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Hampden County,Primary tumor.clinical [Class] Cancer,1,1,1,1,1,0,1
+Hampshire County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,565,565,565,565,565,565,565
+Hampshire County,Chloride,416,416,416,416,416,416,416
+Hampshire County,Calcium,416,416,416,416,416,416,416
+Hampshire County,Glucose,416,416,416,416,416,416,416
+Hampshire County,Creatinine,416,416,416,416,416,416,416
+Hampshire County,Potassium,416,416,416,416,416,416,416
+Hampshire County,Urea Nitrogen,416,416,416,416,416,416,416
+Hampshire County,Sodium,416,416,416,416,416,416,416
+Hampshire County,Carbon Dioxide,416,416,416,416,416,416,416
+Hampshire County,Systolic Blood Pressure,408,408,408,408,408,408,408
+Hampshire County,Diastolic Blood Pressure,408,408,408,408,408,408,408
+Hampshire County,Body Weight,401,401,401,401,401,401,401
+Hampshire County,Heart rate,401,401,401,401,401,401,401
+Hampshire County,Body Height,401,401,401,401,401,401,401
+Hampshire County,Tobacco smoking status NHIS,401,401,401,401,401,0,401
+Hampshire County,Respiratory rate,401,401,401,401,401,401,401
+Hampshire County,Body Mass Index,381,381,381,381,381,381,381
+Hampshire County,DALY,325,325,0,325,325,325,325
+Hampshire County,QALY,325,325,0,325,325,325,325
+Hampshire County,QOLS,325,325,0,325,325,325,325
+Hampshire County,Hemoglobin A1c/Hemoglobin.total in Blood,225,225,225,225,225,225,225
+Hampshire County,Hemoglobin [Mass/volume] in Blood,221,221,221,221,221,221,221
+Hampshire County,MCH [Entitic mass] by Automated count,221,221,221,221,221,221,221
+Hampshire County,MCHC [Mass/volume] by Automated count,221,221,221,221,221,221,221
+Hampshire County,MCV [Entitic volume] by Automated count,221,221,221,221,221,221,221
+Hampshire County,Platelet distribution width [Entitic volume] in Blood by Automated count,221,221,221,221,221,221,221
+Hampshire County,Platelet mean volume [Entitic volume] in Blood by Automated count,221,221,221,221,221,221,221
+Hampshire County,Platelets [#/volume] in Blood by Automated count,221,221,221,221,221,221,221
+Hampshire County,Leukocytes [#/volume] in Blood by Automated count,219,219,219,219,219,219,219
+Hampshire County,Erythrocytes [#/volume] in Blood by Automated count,219,219,219,219,219,219,219
+Hampshire County,Erythrocyte distribution width [Entitic volume] by Automated count,219,219,219,219,219,219,219
+Hampshire County,Hematocrit [Volume Fraction] of Blood by Automated count,219,219,219,219,219,219,219
+Hampshire County,Glomerular filtration rate/1.73 sq M.predicted,187,187,187,187,187,187,187
+Hampshire County,Globulin [Mass/volume] in Serum by calculation,186,186,186,186,186,186,186
+Hampshire County,Protein [Mass/volume] in Serum or Plasma,186,186,186,186,186,186,186
+Hampshire County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,186,186,186,186,186,186,186
+Hampshire County,Albumin [Mass/volume] in Serum or Plasma,186,186,186,186,186,186,186
+Hampshire County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,186,186,186,186,186,186,186
+Hampshire County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,186,186,186,186,186,186,186
+Hampshire County,Bilirubin.total [Mass/volume] in Serum or Plasma,186,186,186,186,186,186,186
+Hampshire County,Total Cholesterol,168,168,168,168,168,168,168
+Hampshire County,Triglycerides,168,168,168,168,168,168,168
+Hampshire County,Low Density Lipoprotein Cholesterol,168,168,168,168,168,168,168
+Hampshire County,High Density Lipoprotein Cholesterol,168,168,168,168,168,168,168
+Hampshire County,Protein [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Bilirubin.total [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Ketones [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Appearance of Urine,155,155,155,155,155,155,155
+Hampshire County,Bilirubin.total [Mass/volume] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Glucose [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Specific gravity of Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Hemoglobin [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Glucose [Mass/volume] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Color of Urine,155,155,155,155,155,155,155
+Hampshire County,Clarity of Urine,155,155,155,155,155,155,155
+Hampshire County,Leukocyte esterase [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Ketones [Mass/volume] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Nitrite [Presence] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,pH of Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Protein [Mass/volume] in Urine by Test strip,155,155,155,155,155,155,155
+Hampshire County,Odor of Urine,155,155,155,155,155,155,155
+Hampshire County,Body mass index (BMI) [Percentile] Per age and gender,95,95,95,95,95,95,95
+Hampshire County,Microalbumin Creatinine Ratio,74,74,74,74,74,74,74
+Hampshire County,Estimated Glomerular Filtration Rate,74,74,74,74,74,74,74
+Hampshire County,Head Occipital-frontal circumference,32,32,32,32,32,32,32
+Hampshire County,Weight-for-length Per age and sex,32,32,32,32,32,32,32
+Hampshire County,Body temperature,25,25,25,25,25,25,25
+Hampshire County,Left ventricular Ejection fraction,8,8,8,8,8,8,8
+Hampshire County,Walnut IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Soybean IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Shrimp IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Peanut IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Wheat IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Latex IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,American house dust mite IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Honey bee IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Egg white IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Cow milk IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Common Ragweed IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Codfish IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Cladosporium herbarum IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Cat dander IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,White oak IgE Ab in Serum,6,6,6,6,6,6,6
+Hampshire County,Oxygen saturation in Arterial blood,4,4,4,4,4,4,4
+Hampshire County,NT-proBNP,3,3,3,3,3,3,3
+Hampshire County,Hematocrit [Volume Fraction] of Blood,2,2,2,2,2,2,2
+Hampshire County,WBC Auto (Bld) [#/Vol],2,2,2,2,2,2,2
+Hampshire County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],2,2,2,2,2,2,2
+Hampshire County,RBC Auto (Bld) [#/Vol],2,2,2,2,2,2,2
+Hampshire County,Sexual orientation,1,1,1,1,1,1,1
+Hampshire County,Are you covered by health insurance or some other kind of health care plan [PhenX],1,1,1,1,1,1,1
+Hampshire County,Polyp size greatest dimension by CAP cancer protocols,1,1,1,1,1,1,1
+Hampshire County,HIV status,1,1,1,1,1,1,1
+Hampshire County,Abuse Status [OMAHA],1,1,1,1,1,1,1
+Hampshire County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,1,1,1,1,1,1,1
+Hampshire County,Housing status,1,1,1,1,1,1,1
+Hampshire County,History of Hospitalizations+Outpatient visits,1,1,1,1,1,1,1
+Middlesex County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2697,2697,2697,2697,2697,2697,2697
+Middlesex County,Systolic Blood Pressure,2627,2627,2627,2627,2627,2627,2627
+Middlesex County,Diastolic Blood Pressure,2627,2627,2627,2627,2627,2627,2627
+Middlesex County,Heart rate,2567,2567,2567,2567,2567,2567,2567
+Middlesex County,Tobacco smoking status NHIS,2567,2567,2567,2567,2567,0,2567
+Middlesex County,Respiratory rate,2567,2567,2567,2567,2567,2567,2567
+Middlesex County,Body Height,2567,2567,2567,2567,2567,2567,2567
+Middlesex County,Body Weight,2567,2567,2567,2567,2567,2567,2567
+Middlesex County,QOLS,2291,2291,0,2291,2291,2291,2291
+Middlesex County,QALY,2291,2291,0,2291,2291,2291,2291
+Middlesex County,DALY,2291,2291,0,2291,2291,2291,2291
+Middlesex County,Body Mass Index,2290,2290,2290,2290,2290,2290,2290
+Middlesex County,Creatinine,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Chloride,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Sodium,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Calcium,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Glucose,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Potassium,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Urea Nitrogen,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Carbon Dioxide,1073,1073,1073,1073,1073,1073,1073
+Middlesex County,Total Cholesterol,920,920,920,920,920,920,920
+Middlesex County,Triglycerides,920,920,920,920,920,920,920
+Middlesex County,Low Density Lipoprotein Cholesterol,920,920,920,920,920,920,920
+Middlesex County,High Density Lipoprotein Cholesterol,920,920,920,920,920,920,920
+Middlesex County,Hemoglobin A1c/Hemoglobin.total in Blood,747,747,747,747,747,747,747
+Middlesex County,Body mass index (BMI) [Percentile] Per age and gender,667,667,667,667,667,667,667
+Middlesex County,Hemoglobin [Mass/volume] in Blood,572,572,572,572,572,572,572
+Middlesex County,Platelet distribution width [Entitic volume] in Blood by Automated count,570,570,570,570,570,570,570
+Middlesex County,MCHC [Mass/volume] by Automated count,570,570,570,570,570,570,570
+Middlesex County,MCH [Entitic mass] by Automated count,570,570,570,570,570,570,570
+Middlesex County,Platelet mean volume [Entitic volume] in Blood by Automated count,570,570,570,570,570,570,570
+Middlesex County,Platelets [#/volume] in Blood by Automated count,570,570,570,570,570,570,570
+Middlesex County,MCV [Entitic volume] by Automated count,570,570,570,570,570,570,570
+Middlesex County,Erythrocytes [#/volume] in Blood by Automated count,551,551,551,551,551,551,551
+Middlesex County,Erythrocyte distribution width [Entitic volume] by Automated count,551,551,551,551,551,551,551
+Middlesex County,Hematocrit [Volume Fraction] of Blood by Automated count,551,551,551,551,551,551,551
+Middlesex County,Leukocytes [#/volume] in Blood by Automated count,551,551,551,551,551,551,551
+Middlesex County,Weight-for-length Per age and sex,405,405,405,405,405,405,405
+Middlesex County,Head Occipital-frontal circumference,405,405,405,405,405,405,405
+Middlesex County,Microalbumin Creatinine Ratio,317,317,317,317,317,317,317
+Middlesex County,Estimated Glomerular Filtration Rate,317,317,317,317,317,317,317
+Middlesex County,Glomerular filtration rate/1.73 sq M.predicted,314,314,314,314,314,314,314
+Middlesex County,Globulin [Mass/volume] in Serum by calculation,308,308,308,308,308,308,308
+Middlesex County,Protein [Mass/volume] in Serum or Plasma,308,308,308,308,308,308,308
+Middlesex County,Bilirubin.total [Mass/volume] in Serum or Plasma,308,308,308,308,308,308,308
+Middlesex County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,308,308,308,308,308,308,308
+Middlesex County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,308,308,308,308,308,308,308
+Middlesex County,Albumin [Mass/volume] in Serum or Plasma,308,308,308,308,308,308,308
+Middlesex County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,308,308,308,308,308,308,308
+Middlesex County,Body temperature,175,175,175,175,175,175,175
+Middlesex County,Specific gravity of Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,pH of Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Clarity of Urine,86,86,86,86,86,86,86
+Middlesex County,Protein [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Bilirubin.total [Mass/volume] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Glucose [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Hemoglobin [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Ketones [Mass/volume] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Ketones [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Leukocyte esterase [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Appearance of Urine,86,86,86,86,86,86,86
+Middlesex County,Glucose [Mass/volume] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Color of Urine,86,86,86,86,86,86,86
+Middlesex County,Nitrite [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Bilirubin.total [Presence] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Protein [Mass/volume] in Urine by Test strip,86,86,86,86,86,86,86
+Middlesex County,Odor of Urine,86,86,86,86,86,86,86
+Middlesex County,FEV1/FVC,68,68,68,68,68,68,68
+Middlesex County,Left ventricular Ejection fraction,48,48,48,48,48,48,48
+Middlesex County,Housing status,25,25,25,25,25,25,25
+Middlesex County,History of Hospitalizations+Outpatient visits,25,25,25,25,25,25,25
+Middlesex County,Are you covered by health insurance or some other kind of health care plan [PhenX],25,25,25,25,25,25,25
+Middlesex County,Sexual orientation,25,25,25,25,25,25,25
+Middlesex County,Abuse Status [OMAHA],25,25,25,25,25,25,25
+Middlesex County,HIV status,25,25,25,25,25,25,25
+Middlesex County,Shrimp IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Cow milk IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Common Ragweed IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Codfish IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Cladosporium herbarum IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,White oak IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Egg white IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Soybean IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Cat dander IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Wheat IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Honey bee IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Walnut IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Peanut IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,American house dust mite IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Latex IgE Ab in Serum,24,24,24,24,24,24,24
+Middlesex County,Hematocrit [Volume Fraction] of Blood,21,21,21,21,21,21,21
+Middlesex County,RBC Auto (Bld) [#/Vol],19,19,19,19,19,19,19
+Middlesex County,WBC Auto (Bld) [#/Vol],19,19,19,19,19,19,19
+Middlesex County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],19,19,19,19,19,19,19
+Middlesex County,Physical findings of Prostate,18,18,18,18,18,18,18
+Middlesex County,Prostate specific Ag [Mass/volume] in Serum or Plasma,18,18,18,18,18,18,18
+Middlesex County,DXA [T-score] Bone density,16,16,16,16,16,16,16
+Middlesex County,Total score [MMSE],15,15,15,15,15,15,15
+Middlesex County,NT-proBNP,12,12,12,12,12,12,12
+Middlesex County,Oxygen saturation in Arterial blood,12,12,12,12,12,12,12
+Middlesex County,Response to cancer treatment,11,11,11,11,11,0,11
+Middlesex County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,11,11,11,11,11,11,11
+Middlesex County,Polyp size greatest dimension by CAP cancer protocols,11,11,11,11,11,11,11
+Middlesex County,US Guidance for biopsy of Prostate,6,6,6,6,6,6,6
+Middlesex County,Stage group.clinical Cancer,4,4,4,4,4,0,4
+Middlesex County,Regional lymph nodes.clinical [Class] Cancer,2,2,2,2,2,0,2
+Middlesex County,Distant metastases.clinical [Class] Cancer,2,2,2,2,2,0,2
+Middlesex County,Primary tumor.clinical [Class] Cancer,2,2,2,2,2,0,2
+Middlesex County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,2,2,2,2,2,0,2
+Middlesex County,Site of distant metastasis in Breast tumor,2,2,2,2,2,0,2
+Middlesex County,Treatment status Cancer,2,2,2,2,2,0,2
+Middlesex County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,2,2,2,2,2,0,2
+Middlesex County,Size.maximum dimension in Tumor,2,2,2,2,2,2,2
+Middlesex County,HER2 [Presence] in Breast cancer specimen by FISH,2,2,2,2,2,2,2
+Middlesex County,HER2 [Presence] in Breast cancer specimen by Immune stain,2,2,2,2,2,0,2
+Middlesex County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Middlesex County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Middlesex County,Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Middlesex County,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Middlesex County,Cause of Death [US Standard Certificate of Death],1,1,1,1,1,0,1
+Nantucket County,QOLS,21,21,0,21,21,21,21
+Nantucket County,QALY,21,21,0,21,21,21,21
+Nantucket County,DALY,21,21,0,21,21,21,21
+Nantucket County,Body Height,16,16,16,16,16,16,16
+Nantucket County,Diastolic Blood Pressure,16,16,16,16,16,16,16
+Nantucket County,Tobacco smoking status NHIS,16,16,16,16,16,0,16
+Nantucket County,Systolic Blood Pressure,16,16,16,16,16,16,16
+Nantucket County,Respiratory rate,16,16,16,16,16,16,16
+Nantucket County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,16,16,16,16,16,16,16
+Nantucket County,Heart rate,16,16,16,16,16,16,16
+Nantucket County,Body Mass Index,16,16,16,16,16,16,16
+Nantucket County,Body Weight,16,16,16,16,16,16,16
+Nantucket County,Triglycerides,5,5,5,5,5,5,5
+Nantucket County,Total Cholesterol,5,5,5,5,5,5,5
+Nantucket County,Low Density Lipoprotein Cholesterol,5,5,5,5,5,5,5
+Nantucket County,High Density Lipoprotein Cholesterol,5,5,5,5,5,5,5
+Nantucket County,Platelet distribution width [Entitic volume] in Blood by Automated count,4,4,4,4,4,4,4
+Nantucket County,Platelets [#/volume] in Blood by Automated count,4,4,4,4,4,4,4
+Nantucket County,Platelet mean volume [Entitic volume] in Blood by Automated count,4,4,4,4,4,4,4
+Nantucket County,MCV [Entitic volume] by Automated count,4,4,4,4,4,4,4
+Nantucket County,MCHC [Mass/volume] by Automated count,4,4,4,4,4,4,4
+Nantucket County,MCH [Entitic mass] by Automated count,4,4,4,4,4,4,4
+Nantucket County,Leukocytes [#/volume] in Blood by Automated count,4,4,4,4,4,4,4
+Nantucket County,Hemoglobin [Mass/volume] in Blood,4,4,4,4,4,4,4
+Nantucket County,Hematocrit [Volume Fraction] of Blood by Automated count,4,4,4,4,4,4,4
+Nantucket County,Erythrocytes [#/volume] in Blood by Automated count,4,4,4,4,4,4,4
+Nantucket County,Erythrocyte distribution width [Entitic volume] by Automated count,4,4,4,4,4,4,4
+Norfolk County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2474,2474,2474,2474,2474,2474,2474
+Norfolk County,Diastolic Blood Pressure,1504,1504,1504,1504,1504,1504,1504
+Norfolk County,Systolic Blood Pressure,1504,1504,1504,1504,1504,1504,1504
+Norfolk County,Body Height,1493,1493,1493,1493,1493,1493,1493
+Norfolk County,Tobacco smoking status NHIS,1493,1493,1493,1493,1493,0,1493
+Norfolk County,Heart rate,1493,1493,1493,1493,1493,1493,1493
+Norfolk County,Respiratory rate,1493,1493,1493,1493,1493,1493,1493
+Norfolk County,Body Weight,1493,1493,1493,1493,1493,1493,1493
+Norfolk County,Body Mass Index,1356,1356,1356,1356,1356,1356,1356
+Norfolk County,DALY,1120,1120,0,1120,1120,1120,1120
+Norfolk County,QOLS,1120,1120,0,1120,1120,1120,1120
+Norfolk County,QALY,1120,1120,0,1120,1120,1120,1120
+Norfolk County,Weight difference [Mass difference] --pre dialysis - post dialysis,959,959,959,959,959,959,959
+Norfolk County,Potassium,769,769,769,769,769,769,769
+Norfolk County,Sodium,769,769,769,769,769,769,769
+Norfolk County,Urea Nitrogen,769,769,769,769,769,769,769
+Norfolk County,Calcium,769,769,769,769,769,769,769
+Norfolk County,Carbon Dioxide,769,769,769,769,769,769,769
+Norfolk County,Glucose,769,769,769,769,769,769,769
+Norfolk County,Creatinine,769,769,769,769,769,769,769
+Norfolk County,Chloride,769,769,769,769,769,769,769
+Norfolk County,Low Density Lipoprotein Cholesterol,613,613,613,613,613,613,613
+Norfolk County,Triglycerides,613,613,613,613,613,613,613
+Norfolk County,High Density Lipoprotein Cholesterol,613,613,613,613,613,613,613
+Norfolk County,Total Cholesterol,613,613,613,613,613,613,613
+Norfolk County,Hemoglobin A1c/Hemoglobin.total in Blood,535,535,535,535,535,535,535
+Norfolk County,Body mass index (BMI) [Percentile] Per age and gender,352,352,352,352,352,352,352
+Norfolk County,Microalbumin Creatinine Ratio,296,296,296,296,296,296,296
+Norfolk County,Estimated Glomerular Filtration Rate,296,296,296,296,296,296,296
+Norfolk County,Hemoglobin [Mass/volume] in Blood,253,253,253,253,253,253,253
+Norfolk County,Platelet mean volume [Entitic volume] in Blood by Automated count,252,252,252,252,252,252,252
+Norfolk County,Platelets [#/volume] in Blood by Automated count,252,252,252,252,252,252,252
+Norfolk County,Platelet distribution width [Entitic volume] in Blood by Automated count,252,252,252,252,252,252,252
+Norfolk County,MCH [Entitic mass] by Automated count,252,252,252,252,252,252,252
+Norfolk County,MCHC [Mass/volume] by Automated count,252,252,252,252,252,252,252
+Norfolk County,MCV [Entitic volume] by Automated count,252,252,252,252,252,252,252
+Norfolk County,Leukocytes [#/volume] in Blood by Automated count,246,246,246,246,246,246,246
+Norfolk County,Erythrocytes [#/volume] in Blood by Automated count,246,246,246,246,246,246,246
+Norfolk County,Hematocrit [Volume Fraction] of Blood by Automated count,246,246,246,246,246,246,246
+Norfolk County,Erythrocyte distribution width [Entitic volume] by Automated count,246,246,246,246,246,246,246
+Norfolk County,Glomerular filtration rate/1.73 sq M.predicted,226,226,226,226,226,226,226
+Norfolk County,Albumin [Mass/volume] in Serum or Plasma,224,224,224,224,224,224,224
+Norfolk County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,224,224,224,224,224,224,224
+Norfolk County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,224,224,224,224,224,224,224
+Norfolk County,Bilirubin.total [Mass/volume] in Serum or Plasma,224,224,224,224,224,224,224
+Norfolk County,Protein [Mass/volume] in Serum or Plasma,224,224,224,224,224,224,224
+Norfolk County,Globulin [Mass/volume] in Serum by calculation,224,224,224,224,224,224,224
+Norfolk County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,224,224,224,224,224,224,224
+Norfolk County,Weight-for-length Per age and sex,206,206,206,206,206,206,206
+Norfolk County,Head Occipital-frontal circumference,206,206,206,206,206,206,206
+Norfolk County,pH of Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Glucose [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Ketones [Mass/volume] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Appearance of Urine,102,102,102,102,102,102,102
+Norfolk County,Hemoglobin [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Bilirubin.total [Mass/volume] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Ketones [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Glucose [Mass/volume] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Specific gravity of Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Leukocyte esterase [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Protein [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Color of Urine,102,102,102,102,102,102,102
+Norfolk County,Clarity of Urine,102,102,102,102,102,102,102
+Norfolk County,Nitrite [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Odor of Urine,102,102,102,102,102,102,102
+Norfolk County,Protein [Mass/volume] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Bilirubin.total [Presence] in Urine by Test strip,102,102,102,102,102,102,102
+Norfolk County,Body temperature,82,82,82,82,82,82,82
+Norfolk County,FEV1/FVC,48,48,48,48,48,48,48
+Norfolk County,Left ventricular Ejection fraction,20,20,20,20,20,20,20
+Norfolk County,Total score [MMSE],14,14,14,14,14,14,14
+Norfolk County,DXA [T-score] Bone density,12,12,12,12,12,12,12
+Norfolk County,Latex IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Peanut IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Physical findings of Prostate,10,10,10,10,10,10,10
+Norfolk County,Prostate specific Ag [Mass/volume] in Serum or Plasma,10,10,10,10,10,10,10
+Norfolk County,White oak IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Honey bee IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Shrimp IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Wheat IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,American house dust mite IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Soybean IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Walnut IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Egg white IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Cow milk IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Cat dander IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Cladosporium herbarum IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Codfish IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,Common Ragweed IgE Ab in Serum,10,10,10,10,10,10,10
+Norfolk County,HIV status,8,8,8,8,8,8,8
+Norfolk County,Sexual orientation,8,8,8,8,8,8,8
+Norfolk County,Polyp size greatest dimension by CAP cancer protocols,8,8,8,8,8,8,8
+Norfolk County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,8,8,8,8,8,8,8
+Norfolk County,History of Hospitalizations+Outpatient visits,8,8,8,8,8,8,8
+Norfolk County,Housing status,8,8,8,8,8,8,8
+Norfolk County,Are you covered by health insurance or some other kind of health care plan [PhenX],8,8,8,8,8,8,8
+Norfolk County,Abuse Status [OMAHA],8,8,8,8,8,8,8
+Norfolk County,Oxygen saturation in Arterial blood,7,7,7,7,7,7,7
+Norfolk County,NT-proBNP,7,7,7,7,7,7,7
+Norfolk County,Hematocrit [Volume Fraction] of Blood,7,7,7,7,7,7,7
+Norfolk County,WBC Auto (Bld) [#/Vol],6,6,6,6,6,6,6
+Norfolk County,RBC Auto (Bld) [#/Vol],6,6,6,6,6,6,6
+Norfolk County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],6,6,6,6,6,6,6
+Norfolk County,Cause of Death [US Standard Certificate of Death],4,4,4,4,4,0,4
+Norfolk County,US Guidance for biopsy of Prostate,3,3,3,3,3,3,3
+Norfolk County,Percentage area affected by eczema Upper extremitiy - bilateral,1,1,1,1,1,1,1
+Norfolk County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Norfolk County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Norfolk County,Percentage area affected by eczema Trunk,1,1,1,1,1,1,1
+Norfolk County,Percentage area affected by eczema Head and Neck,1,1,1,1,1,1,1
+Norfolk County,Percentage area affected by eczema Lower extremitiy - bilateral,1,1,1,1,1,1,1
+Plymouth County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,915,915,915,915,915,915,915
+Plymouth County,Systolic Blood Pressure,871,871,871,871,871,871,871
+Plymouth County,Diastolic Blood Pressure,871,871,871,871,871,871,871
+Plymouth County,Body Height,864,864,864,864,864,864,864
+Plymouth County,Body Weight,864,864,864,864,864,864,864
+Plymouth County,Heart rate,864,864,864,864,864,864,864
+Plymouth County,Respiratory rate,864,864,864,864,864,864,864
+Plymouth County,Tobacco smoking status NHIS,864,864,864,864,864,0,864
+Plymouth County,Body Mass Index,791,791,791,791,791,791,791
+Plymouth County,QOLS,662,662,0,662,662,662,662
+Plymouth County,DALY,662,662,0,662,662,662,662
+Plymouth County,QALY,662,662,0,662,662,662,662
+Plymouth County,Chloride,428,428,428,428,428,428,428
+Plymouth County,Creatinine,428,428,428,428,428,428,428
+Plymouth County,Carbon Dioxide,428,428,428,428,428,428,428
+Plymouth County,Sodium,428,428,428,428,428,428,428
+Plymouth County,Glucose,428,428,428,428,428,428,428
+Plymouth County,Urea Nitrogen,428,428,428,428,428,428,428
+Plymouth County,Potassium,428,428,428,428,428,428,428
+Plymouth County,Calcium,428,428,428,428,428,428,428
+Plymouth County,High Density Lipoprotein Cholesterol,422,422,422,422,422,422,422
+Plymouth County,Total Cholesterol,422,422,422,422,422,422,422
+Plymouth County,Triglycerides,422,422,422,422,422,422,422
+Plymouth County,Low Density Lipoprotein Cholesterol,422,422,422,422,422,422,422
+Plymouth County,Hemoglobin A1c/Hemoglobin.total in Blood,293,293,293,293,293,293,293
+Plymouth County,Body mass index (BMI) [Percentile] Per age and gender,214,214,214,214,214,214,214
+Plymouth County,Microalbumin Creatinine Ratio,194,194,194,194,194,194,194
+Plymouth County,Estimated Glomerular Filtration Rate,194,194,194,194,194,194,194
+Plymouth County,Hemoglobin [Mass/volume] in Blood,184,184,184,184,184,184,184
+Plymouth County,MCHC [Mass/volume] by Automated count,182,182,182,182,182,182,182
+Plymouth County,Platelets [#/volume] in Blood by Automated count,182,182,182,182,182,182,182
+Plymouth County,MCV [Entitic volume] by Automated count,182,182,182,182,182,182,182
+Plymouth County,Platelet distribution width [Entitic volume] in Blood by Automated count,182,182,182,182,182,182,182
+Plymouth County,Platelet mean volume [Entitic volume] in Blood by Automated count,182,182,182,182,182,182,182
+Plymouth County,MCH [Entitic mass] by Automated count,182,182,182,182,182,182,182
+Plymouth County,Leukocytes [#/volume] in Blood by Automated count,176,176,176,176,176,176,176
+Plymouth County,Hematocrit [Volume Fraction] of Blood by Automated count,176,176,176,176,176,176,176
+Plymouth County,Erythrocyte distribution width [Entitic volume] by Automated count,176,176,176,176,176,176,176
+Plymouth County,Erythrocytes [#/volume] in Blood by Automated count,176,176,176,176,176,176,176
+Plymouth County,Glomerular filtration rate/1.73 sq M.predicted,137,137,137,137,137,137,137
+Plymouth County,Globulin [Mass/volume] in Serum by calculation,134,134,134,134,134,134,134
+Plymouth County,Protein [Mass/volume] in Serum or Plasma,134,134,134,134,134,134,134
+Plymouth County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,134,134,134,134,134,134,134
+Plymouth County,Albumin [Mass/volume] in Serum or Plasma,134,134,134,134,134,134,134
+Plymouth County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,134,134,134,134,134,134,134
+Plymouth County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,134,134,134,134,134,134,134
+Plymouth County,Bilirubin.total [Mass/volume] in Serum or Plasma,134,134,134,134,134,134,134
+Plymouth County,Weight-for-length Per age and sex,113,113,113,113,113,113,113
+Plymouth County,Head Occipital-frontal circumference,113,113,113,113,113,113,113
+Plymouth County,Body temperature,49,49,49,49,49,49,49
+Plymouth County,Leukocyte esterase [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Clarity of Urine,39,39,39,39,39,39,39
+Plymouth County,Ketones [Mass/volume] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Ketones [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Hemoglobin [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Color of Urine,39,39,39,39,39,39,39
+Plymouth County,Appearance of Urine,39,39,39,39,39,39,39
+Plymouth County,Bilirubin.total [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Bilirubin.total [Mass/volume] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Nitrite [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Odor of Urine,39,39,39,39,39,39,39
+Plymouth County,Protein [Mass/volume] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Protein [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Glucose [Presence] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Specific gravity of Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,pH of Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,Glucose [Mass/volume] in Urine by Test strip,39,39,39,39,39,39,39
+Plymouth County,FEV1/FVC,11,11,11,11,11,11,11
+Plymouth County,Hematocrit [Volume Fraction] of Blood,8,8,8,8,8,8,8
+Plymouth County,Total score [MMSE],7,7,7,7,7,7,7
+Plymouth County,RBC Auto (Bld) [#/Vol],6,6,6,6,6,6,6
+Plymouth County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],6,6,6,6,6,6,6
+Plymouth County,WBC Auto (Bld) [#/Vol],6,6,6,6,6,6,6
+Plymouth County,Cat dander IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Latex IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Cladosporium herbarum IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Codfish IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Common Ragweed IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Cow milk IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,DXA [T-score] Bone density,5,5,5,5,5,5,5
+Plymouth County,Egg white IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Honey bee IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Peanut IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Shrimp IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,American house dust mite IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Wheat IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,White oak IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Walnut IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Soybean IgE Ab in Serum,5,5,5,5,5,5,5
+Plymouth County,Polyp size greatest dimension by CAP cancer protocols,4,4,4,4,4,4,4
+Plymouth County,Response to cancer treatment,4,4,4,4,4,0,4
+Plymouth County,Left ventricular Ejection fraction,4,4,4,4,4,4,4
+Plymouth County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,4,4,4,4,4,4,4
+Plymouth County,Physical findings of Prostate,2,2,2,2,2,2,2
+Plymouth County,Cause of Death [US Standard Certificate of Death],2,2,2,2,2,0,2
+Plymouth County,Stage group.clinical Cancer,2,2,2,2,2,0,2
+Plymouth County,Prostate specific Ag [Mass/volume] in Serum or Plasma,2,2,2,2,2,2,2
+Plymouth County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Plymouth County,Treatment status Cancer,1,1,1,1,1,0,1
+Plymouth County,US Guidance for biopsy of Prostate,1,1,1,1,1,1,1
+Plymouth County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Plymouth County,Primary tumor.clinical [Class] Cancer,1,1,1,1,1,0,1
+Plymouth County,Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Plymouth County,Regional lymph nodes.clinical [Class] Cancer,1,1,1,1,1,0,1
+Plymouth County,NT-proBNP,1,1,1,1,1,1,1
+Plymouth County,Oxygen saturation in Arterial blood,1,1,1,1,1,1,1
+Plymouth County,Distant metastases.clinical [Class] Cancer,1,1,1,1,1,0,1
+Plymouth County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Plymouth County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Plymouth County,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,1,1,1,1,1,0,1
+Plymouth County,Size.maximum dimension in Tumor,1,1,1,1,1,1,1
+Plymouth County,Site of distant metastasis in Breast tumor,1,1,1,1,1,0,1
+Plymouth County,HER2 [Presence] in Breast cancer specimen by FISH,1,1,1,1,1,1,1
+Plymouth County,HER2 [Presence] in Breast cancer specimen by Immune stain,1,1,1,1,1,0,1
+Suffolk County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2657,2657,2657,2657,2657,2657,2657
+Suffolk County,Diastolic Blood Pressure,1399,1399,1399,1399,1399,1399,1399
+Suffolk County,Systolic Blood Pressure,1399,1399,1399,1399,1399,1399,1399
+Suffolk County,Body Weight,1388,1388,1388,1388,1388,1388,1388
+Suffolk County,Body Height,1388,1388,1388,1388,1388,1388,1388
+Suffolk County,Respiratory rate,1388,1388,1388,1388,1388,1388,1388
+Suffolk County,Heart rate,1388,1388,1388,1388,1388,1388,1388
+Suffolk County,Tobacco smoking status NHIS,1388,1388,1388,1388,1388,0,1388
+Suffolk County,Body Mass Index,1250,1250,1250,1250,1250,1250,1250
+Suffolk County,Weight difference [Mass difference] --pre dialysis - post dialysis,1215,1215,1215,1215,1215,1215,1215
+Suffolk County,QOLS,1166,1166,0,1166,1166,1166,1166
+Suffolk County,QALY,1166,1166,0,1166,1166,1166,1166
+Suffolk County,DALY,1166,1166,0,1166,1166,1166,1166
+Suffolk County,Creatinine,722,722,722,722,722,722,722
+Suffolk County,Calcium,722,722,722,722,722,722,722
+Suffolk County,Carbon Dioxide,722,722,722,722,722,722,722
+Suffolk County,Chloride,722,722,722,722,722,722,722
+Suffolk County,Potassium,722,722,722,722,722,722,722
+Suffolk County,Glucose,722,722,722,722,722,722,722
+Suffolk County,Sodium,722,722,722,722,722,722,722
+Suffolk County,Urea Nitrogen,722,722,722,722,722,722,722
+Suffolk County,Triglycerides,547,547,547,547,547,547,547
+Suffolk County,Total Cholesterol,547,547,547,547,547,547,547
+Suffolk County,Low Density Lipoprotein Cholesterol,547,547,547,547,547,547,547
+Suffolk County,High Density Lipoprotein Cholesterol,547,547,547,547,547,547,547
+Suffolk County,Hemoglobin A1c/Hemoglobin.total in Blood,492,492,492,492,492,492,492
+Suffolk County,Body mass index (BMI) [Percentile] Per age and gender,306,306,306,306,306,306,306
+Suffolk County,Hemoglobin [Mass/volume] in Blood,248,248,248,248,248,248,248
+Suffolk County,MCV [Entitic volume] by Automated count,247,247,247,247,247,247,247
+Suffolk County,MCH [Entitic mass] by Automated count,247,247,247,247,247,247,247
+Suffolk County,Platelets [#/volume] in Blood by Automated count,247,247,247,247,247,247,247
+Suffolk County,Platelet distribution width [Entitic volume] in Blood by Automated count,247,247,247,247,247,247,247
+Suffolk County,MCHC [Mass/volume] by Automated count,247,247,247,247,247,247,247
+Suffolk County,Platelet mean volume [Entitic volume] in Blood by Automated count,247,247,247,247,247,247,247
+Suffolk County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,240,240,240,240,240,240,240
+Suffolk County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,240,240,240,240,240,240,240
+Suffolk County,Albumin [Mass/volume] in Serum or Plasma,240,240,240,240,240,240,240
+Suffolk County,Globulin [Mass/volume] in Serum by calculation,240,240,240,240,240,240,240
+Suffolk County,Bilirubin.total [Mass/volume] in Serum or Plasma,240,240,240,240,240,240,240
+Suffolk County,Protein [Mass/volume] in Serum or Plasma,240,240,240,240,240,240,240
+Suffolk County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,240,240,240,240,240,240,240
+Suffolk County,Glomerular filtration rate/1.73 sq M.predicted,240,240,240,240,240,240,240
+Suffolk County,Hematocrit [Volume Fraction] of Blood by Automated count,232,232,232,232,232,232,232
+Suffolk County,Leukocytes [#/volume] in Blood by Automated count,232,232,232,232,232,232,232
+Suffolk County,Erythrocytes [#/volume] in Blood by Automated count,232,232,232,232,232,232,232
+Suffolk County,Erythrocyte distribution width [Entitic volume] by Automated count,232,232,232,232,232,232,232
+Suffolk County,Estimated Glomerular Filtration Rate,227,227,227,227,227,227,227
+Suffolk County,Microalbumin Creatinine Ratio,227,227,227,227,227,227,227
+Suffolk County,Weight-for-length Per age and sex,205,205,205,205,205,205,205
+Suffolk County,Head Occipital-frontal circumference,205,205,205,205,205,205,205
+Suffolk County,Odor of Urine,128,128,128,128,128,128,128
+Suffolk County,Leukocyte esterase [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Clarity of Urine,128,128,128,128,128,128,128
+Suffolk County,Color of Urine,128,128,128,128,128,128,128
+Suffolk County,Bilirubin.total [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Bilirubin.total [Mass/volume] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Appearance of Urine,128,128,128,128,128,128,128
+Suffolk County,Glucose [Mass/volume] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Glucose [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Hemoglobin [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,pH of Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Ketones [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Ketones [Mass/volume] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Protein [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Specific gravity of Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Nitrite [Presence] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Protein [Mass/volume] in Urine by Test strip,128,128,128,128,128,128,128
+Suffolk County,Body temperature,102,102,102,102,102,102,102
+Suffolk County,Prostate specific Ag [Mass/volume] in Serum or Plasma,44,44,44,44,44,44,44
+Suffolk County,Physical findings of Prostate,44,44,44,44,44,44,44
+Suffolk County,Hematocrit [Volume Fraction] of Blood,16,16,16,16,16,16,16
+Suffolk County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],15,15,15,15,15,15,15
+Suffolk County,WBC Auto (Bld) [#/Vol],15,15,15,15,15,15,15
+Suffolk County,RBC Auto (Bld) [#/Vol],15,15,15,15,15,15,15
+Suffolk County,Left ventricular Ejection fraction,12,12,12,12,12,12,12
+Suffolk County,Cow milk IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,American house dust mite IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,White oak IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Cat dander IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Wheat IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Walnut IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Cladosporium herbarum IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Shrimp IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Soybean IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Codfish IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Common Ragweed IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Peanut IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Latex IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Honey bee IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,Egg white IgE Ab in Serum,9,9,9,9,9,9,9
+Suffolk County,DXA [T-score] Bone density,9,9,9,9,9,9,9
+Suffolk County,FEV1/FVC,8,8,8,8,8,8,8
+Suffolk County,Response to cancer treatment,8,8,8,8,8,0,8
+Suffolk County,US Guidance for biopsy of Prostate,7,7,7,7,7,7,7
+Suffolk County,Total score [MMSE],5,5,5,5,5,5,5
+Suffolk County,Polyp size greatest dimension by CAP cancer protocols,5,5,5,5,5,5,5
+Suffolk County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,5,5,5,5,5,5,5
+Suffolk County,Stage group.clinical Cancer,4,4,4,4,4,0,4
+Suffolk County,Sexual orientation,3,3,3,3,3,3,3
+Suffolk County,HIV status,3,3,3,3,3,3,3
+Suffolk County,Oxygen saturation in Arterial blood,3,3,3,3,3,3,3
+Suffolk County,NT-proBNP,3,3,3,3,3,3,3
+Suffolk County,Housing status,3,3,3,3,3,3,3
+Suffolk County,History of Hospitalizations+Outpatient visits,3,3,3,3,3,3,3
+Suffolk County,Abuse Status [OMAHA],3,3,3,3,3,3,3
+Suffolk County,Are you covered by health insurance or some other kind of health care plan [PhenX],3,3,3,3,3,3,3
+Suffolk County,Treatment status Cancer,2,2,2,2,2,0,2
+Suffolk County,Size.maximum dimension in Tumor,2,2,2,2,2,2,2
+Suffolk County,Site of distant metastasis in Breast tumor,2,2,2,2,2,0,2
+Suffolk County,Regional lymph nodes.clinical [Class] Cancer,2,2,2,2,2,0,2
+Suffolk County,HER2 [Presence] in Breast cancer specimen by Immune stain,2,2,2,2,2,0,2
+Suffolk County,HER2 [Presence] in Breast cancer specimen by FISH,2,2,2,2,2,2,2
+Suffolk County,Distant metastases.clinical [Class] Cancer,2,2,2,2,2,0,2
+Suffolk County,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,2,2,2,2,2,2,2
+Suffolk County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,2,2,2,2,2,0,2
+Suffolk County,Percentage area affected by eczema Upper extremitiy - bilateral,2,2,2,2,2,2,2
+Suffolk County,Percentage area affected by eczema Trunk,2,2,2,2,2,2,2
+Suffolk County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,2,2,2,2,2,0,2
+Suffolk County,Primary tumor.clinical [Class] Cancer,2,2,2,2,2,0,2
+Suffolk County,Percentage area affected by eczema Head and Neck,2,2,2,2,2,2,2
+Suffolk County,Percentage area affected by eczema Lower extremitiy - bilateral,2,2,2,2,2,2,2
+Suffolk County,Cause of Death [US Standard Certificate of Death],1,1,1,1,1,0,1
+Suffolk County,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,1,1,1,1,1,0,1
+Suffolk County,Tumor marker Cancer,1,1,1,1,1,0,1
+Suffolk County,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Suffolk County,Thyrotropin [Units/volume] in Serum or Plasma,1,1,1,1,1,1,1
+Worcester County,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2974,2974,2974,2974,2974,2974,2974
+Worcester County,Diastolic Blood Pressure,1707,1707,1707,1707,1707,1707,1707
+Worcester County,Systolic Blood Pressure,1707,1707,1707,1707,1707,1707,1707
+Worcester County,Respiratory rate,1697,1697,1697,1697,1697,1697,1697
+Worcester County,Body Weight,1697,1697,1697,1697,1697,1697,1697
+Worcester County,Heart rate,1697,1697,1697,1697,1697,1697,1697
+Worcester County,Tobacco smoking status NHIS,1697,1697,1697,1697,1697,0,1697
+Worcester County,Body Height,1697,1697,1697,1697,1697,1697,1697
+Worcester County,Body Mass Index,1567,1567,1567,1567,1567,1567,1567
+Worcester County,QOLS,1292,1292,0,1292,1292,1292,1292
+Worcester County,QALY,1292,1292,0,1292,1292,1292,1292
+Worcester County,DALY,1292,1292,0,1292,1292,1292,1292
+Worcester County,Weight difference [Mass difference] --pre dialysis - post dialysis,1214,1214,1214,1214,1214,1214,1214
+Worcester County,Sodium,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Potassium,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Calcium,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Carbon Dioxide,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Chloride,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Urea Nitrogen,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Creatinine,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Glucose,1080,1080,1080,1080,1080,1080,1080
+Worcester County,Total Cholesterol,839,839,839,839,839,839,839
+Worcester County,Low Density Lipoprotein Cholesterol,839,839,839,839,839,839,839
+Worcester County,High Density Lipoprotein Cholesterol,839,839,839,839,839,839,839
+Worcester County,Triglycerides,839,839,839,839,839,839,839
+Worcester County,Hemoglobin A1c/Hemoglobin.total in Blood,712,712,712,712,712,712,712
+Worcester County,Microalbumin Creatinine Ratio,386,386,386,386,386,386,386
+Worcester County,Estimated Glomerular Filtration Rate,386,386,386,386,386,386,386
+Worcester County,Body mass index (BMI) [Percentile] Per age and gender,368,368,368,368,368,368,368
+Worcester County,Glomerular filtration rate/1.73 sq M.predicted,350,350,350,350,350,350,350
+Worcester County,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,348,348,348,348,348,348,348
+Worcester County,Globulin [Mass/volume] in Serum by calculation,348,348,348,348,348,348,348
+Worcester County,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,348,348,348,348,348,348,348
+Worcester County,Albumin [Mass/volume] in Serum or Plasma,348,348,348,348,348,348,348
+Worcester County,Protein [Mass/volume] in Serum or Plasma,348,348,348,348,348,348,348
+Worcester County,Bilirubin.total [Mass/volume] in Serum or Plasma,348,348,348,348,348,348,348
+Worcester County,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,348,348,348,348,348,348,348
+Worcester County,Platelet mean volume [Entitic volume] in Blood by Automated count,314,314,314,314,314,314,314
+Worcester County,Platelet distribution width [Entitic volume] in Blood by Automated count,314,314,314,314,314,314,314
+Worcester County,Platelets [#/volume] in Blood by Automated count,314,314,314,314,314,314,314
+Worcester County,MCV [Entitic volume] by Automated count,314,314,314,314,314,314,314
+Worcester County,MCHC [Mass/volume] by Automated count,314,314,314,314,314,314,314
+Worcester County,Hemoglobin [Mass/volume] in Blood,314,314,314,314,314,314,314
+Worcester County,MCH [Entitic mass] by Automated count,314,314,314,314,314,314,314
+Worcester County,Erythrocyte distribution width [Entitic volume] by Automated count,306,306,306,306,306,306,306
+Worcester County,Leukocytes [#/volume] in Blood by Automated count,306,306,306,306,306,306,306
+Worcester County,Hematocrit [Volume Fraction] of Blood by Automated count,306,306,306,306,306,306,306
+Worcester County,Erythrocytes [#/volume] in Blood by Automated count,306,306,306,306,306,306,306
+Worcester County,Weight-for-length Per age and sex,198,198,198,198,198,198,198
+Worcester County,Head Occipital-frontal circumference,198,198,198,198,198,198,198
+Worcester County,Glucose [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Hemoglobin [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Ketones [Mass/volume] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Ketones [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Protein [Mass/volume] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Odor of Urine,134,134,134,134,134,134,134
+Worcester County,Leukocyte esterase [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Nitrite [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Glucose [Mass/volume] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Protein [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Specific gravity of Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Color of Urine,134,134,134,134,134,134,134
+Worcester County,Clarity of Urine,134,134,134,134,134,134,134
+Worcester County,Bilirubin.total [Presence] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Bilirubin.total [Mass/volume] in Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Appearance of Urine,134,134,134,134,134,134,134
+Worcester County,pH of Urine by Test strip,134,134,134,134,134,134,134
+Worcester County,Body temperature,114,114,114,114,114,114,114
+Worcester County,Left ventricular Ejection fraction,50,50,50,50,50,50,50
+Worcester County,Physical findings of Prostate,32,32,32,32,32,32,32
+Worcester County,Prostate specific Ag [Mass/volume] in Serum or Plasma,32,32,32,32,32,32,32
+Worcester County,FEV1/FVC,26,26,26,26,26,26,26
+Worcester County,Response to cancer treatment,17,17,17,17,17,0,17
+Worcester County,DXA [T-score] Bone density,14,14,14,14,14,14,14
+Worcester County,NT-proBNP,12,12,12,12,12,12,12
+Worcester County,Oxygen saturation in Arterial blood,12,12,12,12,12,12,12
+Worcester County,Polyp size greatest dimension by CAP cancer protocols,11,11,11,11,11,11,11
+Worcester County,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,11,11,11,11,11,11,11
+Worcester County,Total score [MMSE],10,10,10,10,10,10,10
+Worcester County,Cladosporium herbarum IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,American house dust mite IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Common Ragweed IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Codfish IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Cat dander IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Cow milk IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Soybean IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Egg white IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,White oak IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Wheat IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Walnut IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Peanut IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,US Guidance for biopsy of Prostate,9,9,9,9,9,9,9
+Worcester County,Latex IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Shrimp IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Honey bee IgE Ab in Serum,9,9,9,9,9,9,9
+Worcester County,Sexual orientation,8,8,8,8,8,8,8
+Worcester County,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol],8,8,8,8,8,8,8
+Worcester County,WBC Auto (Bld) [#/Vol],8,8,8,8,8,8,8
+Worcester County,HIV status,8,8,8,8,8,8,8
+Worcester County,Are you covered by health insurance or some other kind of health care plan [PhenX],8,8,8,8,8,8,8
+Worcester County,Abuse Status [OMAHA],8,8,8,8,8,8,8
+Worcester County,Hematocrit [Volume Fraction] of Blood,8,8,8,8,8,8,8
+Worcester County,History of Hospitalizations+Outpatient visits,8,8,8,8,8,8,8
+Worcester County,Housing status,8,8,8,8,8,8,8
+Worcester County,RBC Auto (Bld) [#/Vol],8,8,8,8,8,8,8
+Worcester County,Stage group.clinical Cancer,6,6,6,6,6,0,6
+Worcester County,Size.maximum dimension in Tumor,3,3,3,3,3,3,3
+Worcester County,Regional lymph nodes.clinical [Class] Cancer,3,3,3,3,3,0,3
+Worcester County,Site of distant metastasis in Breast tumor,3,3,3,3,3,0,3
+Worcester County,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,3,3,3,3,3,0,3
+Worcester County,Treatment status Cancer,3,3,3,3,3,0,3
+Worcester County,Primary tumor.clinical [Class] Cancer,3,3,3,3,3,0,3
+Worcester County,HER2 [Presence] in Breast cancer specimen by FISH,3,3,3,3,3,3,3
+Worcester County,HER2 [Presence] in Breast cancer specimen by Immune stain,3,3,3,3,3,0,3
+Worcester County,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,3,3,3,3,3,0,3
+Worcester County,Distant metastases.clinical [Class] Cancer,3,3,3,3,3,0,3
+Worcester County,Cause of Death [US Standard Certificate of Death],2,2,2,2,2,0,2
+Worcester County,Percentage area affected by eczema Upper extremitiy - bilateral,2,2,2,2,2,2,2
+Worcester County,Percentage area affected by eczema Trunk,2,2,2,2,2,2,2
+Worcester County,Percentage area affected by eczema Lower extremitiy - bilateral,2,2,2,2,2,2,2
+Worcester County,Percentage area affected by eczema Head and Neck,2,2,2,2,2,2,2
+Worcester County,Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Worcester County,Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Worcester County,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,1,1,1,1,1,1,1
+Worcester County,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,1,1,1,1,1,0,1
