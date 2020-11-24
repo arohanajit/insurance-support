@@ -16,23 +16,23 @@ def data():
         return render_template('location.html')
     if request.method == 'POST':
         loc = request.form.get('county').title() + ' County'
-        df1 = pd.read_csv('al.csv')
+        df1 = pd.read_csv('files/al.csv')
         allergy = list(df1.loc[df1.COUNTY==loc].iloc[:3]['DESCRIPTION'])
-        df2 = pd.read_csv('care.csv')
+        df2 = pd.read_csv('files/care.csv')
         careplan = list(df2.loc[df2.COUNTY==loc].iloc[:3]['DESCRIPTION'])
-        df3 = pd.read_csv('enc.csv')
+        df3 = pd.read_csv('files/enc.csv')
         encounter = list(df3.loc[df3.COUNTY==loc].iloc[:3]['DESCRIPTION'])
-        df4 = pd.read_csv('im.csv')
+        df4 = pd.read_csv('files/im.csv')
         immune = list(df4.loc[df4.COUNTY==loc].iloc[:3]['DESCRIPTION'])
-        df5 = pd.read_csv('obs.csv')
+        df5 = pd.read_csv('files/obs.csv')
         observe = list(df5.loc[df5.COUNTY==loc].iloc[:3]['DESCRIPTION'])
-        df6 = pd.read_csv('proc.csv')
-        df6_1 = pd.read_csv('proc_support.csv')
+        df6 = pd.read_csv('files/proc.csv')
+        df6_1 = pd.read_csv('files/proc_support.csv')
         procedure = list(df6.loc[df6.COUNTY==loc].iloc[:3]['DESCRIPTION'])
         cost = []
         for i in procedure:
             cost.append(df6_1.loc[(df6_1.DESCRIPTION==i) & (df6_1.COUNTY==loc)].sort_values('BASE_COST',ascending=False)['BASE_COST'].iloc[0])
-        df7 = pd.read_csv('prov.csv')
+        df7 = pd.read_csv('files/prov.csv')
         provider = list(df7.loc[df7.COUNTY == loc]['SPECIALITY'].iloc[:3])
         return render_template('result.html',loc = loc, al = allergy, ob = observe, enc=encounter,
         cp=careplan, im=immune, proc=procedure, cost=cost, prov=provider)
